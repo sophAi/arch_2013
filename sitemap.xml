@@ -5,78 +5,523 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://sophAi.github.com/</loc>
+  <loc>http://sophAi.github.com/arch_2013/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/branches/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/archive.html</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/hooks/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/assets/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/info/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/assets/css/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/logs/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/assets/css/images/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/logs/refs/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/assets/css/images/ie6/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/logs/refs/heads/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/assets/css/img/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/logs/refs/remotes/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/assets/img/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/logs/refs/remotes/origin/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/assets/js/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/05/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/categories/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/0d/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/categories/index.html</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/16/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/galleries/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/1a/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/galleries/index.html</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/1d/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/listings/</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/21/</loc>
   <lastmod>2013-04-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://sophAi.github.com/listings/index.html</loc>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/24/</loc>
   <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/27/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/29/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/2c/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/2f/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/3b/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/49/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/4d/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/52/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/53/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/57/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/58/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/5c/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/60/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/64/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/65/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/6a/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/6b/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/74/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/77/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/78/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/7d/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/86/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/88/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/89/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/90/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/93/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/96/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/97/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/98/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/9a/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/9c/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/9e/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/a2/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/a8/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/a9/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/ae/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/b0/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/b2/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/b4/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/b9/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/c3/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/c9/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/cb/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/cf/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/d2/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/d3/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/d4/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/dc/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/dd/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/e0/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/e8/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/f2/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/f4/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/f6/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/f7/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/f9/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/fa/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/fd/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/fe/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/info/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/objects/pack/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/refs/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/refs/heads/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/refs/remotes/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/refs/remotes/origin/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/.git/refs/tags/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/2013/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/2013/index.html</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/archive.html</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/assets/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/assets/css/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/assets/css/images/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/assets/css/images/ie6/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/assets/css/img/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/assets/img/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/assets/js/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/categories/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/categories/index.html</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/galleries/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/galleries/About/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/galleries/About/index.html</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/galleries/index.html</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/listings/</loc>
+  <lastmod>2013-04-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/listings/index.html</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/posts/</loc>
+  <lastmod>2013-04-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/tipue_search.html</loc>
+  <lastmod>2013-04-07</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
