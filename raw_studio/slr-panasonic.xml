@@ -1,0 +1,843 @@
+<lensdatabase>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-L1</model>
+        <mount>4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-L10</model>
+        <mount>4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-G1</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-GF1</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-GH2</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-G3</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-GX1</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-G10</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <camera>
+        <maker>Panasonic</maker>
+        <model>DMC-G2</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+    </camera>
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G 20/F1.7</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="ptlens" focal="20" a="0.00789316" b="-0.04009" c="0.00949904" />
+            <!-- Alternative model from http://xraynaudphotos.free.fr/lensfun.php -->
+            <!-- distortion model="ptlens" focal="20" a="-0.0160" b="-0.0470" c="-0.0140" -->
+            <vignetting model="pa" focal="20" aperture="1.7" distance="100" k1="-1.18453" k2="1.18468" k3="-0.77676" />
+            <vignetting model="pa" focal="20" aperture="2.0" distance="100" k1="-0.50428" k2="-0.46084" k3="0.38333" />
+            <vignetting model="pa" focal="20" aperture="2.5" distance="100" k1="-0.02049" k2="-1.00156" k3="0.54046" />
+            <vignetting model="pa" focal="20" aperture="3.2" distance="100" k1="-0.06459" k2="-0.60501" k3="0.27001" />
+            <vignetting model="pa" focal="20" aperture="4.0" distance="100" k1="-0.09156" k2="-0.56989" k3="0.38586" />
+            <vignetting model="pa" focal="20" aperture="5.0" distance="100" k1="-0.13452" k2="-0.46186" k3="0.32235" />
+            <tca model="poly3" focal="20" br="-0.0001356" vr="1.0004113" bb="-0.0000369" vb="1.0002529" />
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G 20/F1.7 (TCA only)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <!-- Alternative model from http://xraynaudphotos.free.fr/lensfun.php -->
+            <!-- distortion model="ptlens" focal="20" a="-0.0160" b="-0.0470" c="-0.0140" -->
+            <vignetting model="pa" focal="20" aperture="1.7" distance="100" k1="-1.18453" k2="1.18468" k3="-0.77676" />
+            <vignetting model="pa" focal="20" aperture="2.0" distance="100" k1="-0.50428" k2="-0.46084" k3="0.38333" />
+            <vignetting model="pa" focal="20" aperture="2.5" distance="100" k1="-0.02049" k2="-1.00156" k3="0.54046" />
+            <vignetting model="pa" focal="20" aperture="3.2" distance="100" k1="-0.06459" k2="-0.60501" k3="0.27001" />
+            <vignetting model="pa" focal="20" aperture="4.0" distance="100" k1="-0.09156" k2="-0.56989" k3="0.38586" />
+            <vignetting model="pa" focal="20" aperture="5.0" distance="100" k1="-0.13452" k2="-0.46186" k3="0.32235" />
+            <tca model="poly3" focal="20" br="-0.0001356" vr="1.0004113" bb="-0.0000369" vb="1.0002529" />
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G 20/F1.7 (TCA+Barrel)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="ptlens" focal="20" a="0.00789316" b="-0.04009" c="0.00949904" />
+            <!-- Alternative model from http://xraynaudphotos.free.fr/lensfun.php -->
+            <!-- distortion model="ptlens" focal="20" a="-0.0160" b="-0.0470" c="-0.0140" -->
+            <vignetting model="pa" focal="20" aperture="1.7" distance="100" k1="-1.18453" k2="1.18468" k3="-0.77676" />
+            <vignetting model="pa" focal="20" aperture="2.0" distance="100" k1="-0.50428" k2="-0.46084" k3="0.38333" />
+            <vignetting model="pa" focal="20" aperture="2.5" distance="100" k1="-0.02049" k2="-1.00156" k3="0.54046" />
+            <vignetting model="pa" focal="20" aperture="3.2" distance="100" k1="-0.06459" k2="-0.60501" k3="0.27001" />
+            <vignetting model="pa" focal="20" aperture="4.0" distance="100" k1="-0.09156" k2="-0.56989" k3="0.38586" />
+            <vignetting model="pa" focal="20" aperture="5.0" distance="100" k1="-0.13452" k2="-0.46186" k3="0.32235" />
+            <tca model="poly3" focal="20" br="-0.0001356" vr="1.0004113" bb="-0.0000369" vb="1.0002529" />
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G 20/F1.7 (TCA+Fisheye)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="20" k1="-0.0650" />
+            <!-- Alternative model from http://xraynaudphotos.free.fr/lensfun.php -->
+            <!-- distortion model="ptlens" focal="20" a="-0.0160" b="-0.0470" c="-0.0140" -->
+            <vignetting model="pa" focal="20" aperture="1.7" distance="100" k1="-1.18453" k2="1.18468" k3="-0.77676" />
+            <vignetting model="pa" focal="20" aperture="2.0" distance="100" k1="-0.50428" k2="-0.46084" k3="0.38333" />
+            <vignetting model="pa" focal="20" aperture="2.5" distance="100" k1="-0.02049" k2="-1.00156" k3="0.54046" />
+            <vignetting model="pa" focal="20" aperture="3.2" distance="100" k1="-0.06459" k2="-0.60501" k3="0.27001" />
+            <vignetting model="pa" focal="20" aperture="4.0" distance="100" k1="-0.09156" k2="-0.56989" k3="0.38586" />
+            <vignetting model="pa" focal="20" aperture="5.0" distance="100" k1="-0.13452" k2="-0.46186" k3="0.32235" />
+            <tca model="poly3" focal="20" br="-0.0001356" vr="1.0004113" bb="-0.0000369" vb="1.0002529" />
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>OLYMPUS M.45mm F1.8 (TCA only)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <tca model="poly3" focal="45" br="0.0000605" vr="1.0005253" bb="0.0002873" vb="1.0006821" />
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>OLYMPUS M.45mm F1.8 (TCA+Barrel)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="45" k1="-0.0161" />
+            <tca model="poly3" focal="45" br="0.0000605" vr="1.0005253" bb="0.0002873" vb="1.0006821" />
+        </calibration>
+    </lens>
+    <lens>
+        <maker>Panasonic</maker>
+        <model>OLYMPUS M.45mm F1.8 (TCA+Fisheye)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="45" k1="-0.0161" />
+            <tca model="poly3" focal="45" br="0.0000605" vr="1.0005253" bb="0.0002873" vb="1.0006821" />
+        </calibration>
+    </lens>
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 14-45mm F3.5-5.6 (TCA only)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <tca model="poly3" focal="14" br="-0.0000208" cr="-0.0001450" vr="0.9999670" bb="0.0000551" cb="0.0004740" vb="0.9997706" />
+            <tca model="poly3" focal="15" br="-0.0000208" cr="-0.0001450" vr="0.9999670" bb="0.0000551" cb="0.0004740" vb="0.9997706" />
+            <tca model="poly3" focal="16" br="0.0000004" cr="0.0001262" vr="0.9999621" bb="0.0000448" cb="0.0003730" vb="0.9998125" />
+            <tca model="poly3" focal="17" br="-0.0000238" cr="0.0001654" vr="0.9999548" bb="-0.0001032" cb="0.0004285" vb="0.9998252" />
+            <tca model="poly3" focal="18" br="-0.0000278" cr="0.0001658" vr="0.9999524" bb="-0.0000671" cb="0.0002216" vb="0.9999079" />
+            <tca model="poly3" focal="19" br="-0.0001241" cr="0.0003412" vr="0.9998798" bb="-0.0001394" cb="0.0002996" vb="0.9998814" />
+            <tca model="poly3" focal="20" br="-0.0001187" cr="0.0003339" vr="0.9998891" bb="-0.0001665" cb="0.0002155" vb="0.9999358" />
+            <tca model="poly3" focal="21" br="-0.0001187" cr="0.0003339" vr="0.9998891" bb="-0.0001665" cb="0.0002155" vb="0.9999358" />
+            <tca model="poly3" focal="22" br="-0.0000673" cr="0.0002186" vr="0.9999365" bb="-0.0002032" cb="0.0002750" vb="0.9998907" />
+            <tca model="poly3" focal="23" br="-0.0000884" cr="0.0002615" vr="0.9999049" bb="-0.0001770" cb="0.0001873" vb="0.9999257" />
+            <tca model="poly3" focal="24" br="-0.0000884" cr="0.0002615" vr="0.9999049" bb="-0.0001770" cb="0.0001873" vb="0.9999257" />
+            <tca model="poly3" focal="25" br="-0.0001291" cr="0.0003318" vr="0.9998718" bb="-0.0000991" cb="0.0000141" vb="0.9999903" />
+            <tca model="poly3" focal="26" br="-0.0001086" cr="0.0002857" vr="0.9998944" bb="-0.0001846" cb="0.0001735" vb="0.9999208" />
+            <tca model="poly3" focal="27" br="-0.0001086" cr="0.0002857" vr="0.9998944" bb="-0.0001846" cb="0.0001735" vb="0.9999208" />
+            <tca model="poly3" focal="28" br="-0.0000860" cr="0.0002475" vr="0.9998917" bb="-0.0001547" cb="0.0001266" vb="0.9999016" />
+            <tca model="poly3" focal="29" br="-0.0000047" cr="0.0000585" vr="0.9999748" bb="-0.0001541" cb="0.0000921" vb="0.9999271" />
+            <tca model="poly3" focal="30" br="-0.0000276" cr="0.0001067" vr="0.9999561" bb="-0.0001001" cb="-0.0000262" vb="0.9999608" />
+            <tca model="poly3" focal="31" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="32" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="33" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="34" br="0.0000020" cr="0.0000080" vr="1.0000083" bb="-0.0001221" cb="0.0000361" vb="0.9999098" />
+            <tca model="poly3" focal="35" br="-0.0000315" cr="0.0000743" vr="0.9999683" bb="-0.0002006" cb="0.0002110" vb="0.9998378" />
+            <tca model="poly3" focal="36" br="-0.0000315" cr="0.0000743" vr="0.9999683" bb="-0.0002006" cb="0.0002110" vb="0.9998378" />
+            <tca model="poly3" focal="37" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="38" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="39" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="40" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="41" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="42" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="43" br="-0.0000067" cr="-0.0000019" vr="1.0000013" bb="-0.0002214" cb="0.0002490" vb="0.9999027" />
+            <tca model="poly3" focal="44" br="-0.0000067" cr="-0.0000019" vr="1.0000013" bb="-0.0002214" cb="0.0002490" vb="0.9999027" />
+            <tca model="poly3" focal="45" br="0.0000014" cr="-0.0000123" vr="1.0000005" bb="-0.0003283" cb="0.0004525" vb="0.9998245" />
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 14-45mm F3.5-5.6 (TCA+Barrel)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="14" k1="-0.028" />
+            <distortion model="poly3" focal="15" k1="-0.027" />
+            <distortion model="poly3" focal="16" k1="-0.027" />
+            <distortion model="poly3" focal="17" k1="-0.026" />
+            <distortion model="poly3" focal="18" k1="-0.022" />
+            <distortion model="poly3" focal="19" k1="-0.021" />
+            <distortion model="poly3" focal="20" k1="-0.018" />
+            <distortion model="poly3" focal="21" k1="-0.017" />
+            <distortion model="poly3" focal="22" k1="-0.016" />
+            <distortion model="poly3" focal="23" k1="-0.016" />
+            <distortion model="poly3" focal="24" k1="-0.013" />
+            <distortion model="poly3" focal="25" k1="-0.011" />
+            <distortion model="poly3" focal="26" k1="-0.011" />
+            <distortion model="poly3" focal="27" k1="-0.011" />
+            <distortion model="poly3" focal="28" k1="-0.011" />
+            <distortion model="poly3" focal="29" k1="-0.008" />
+            <distortion model="poly3" focal="30" k1="-0.008" />
+            <distortion model="poly3" focal="31" k1="-0.007" />
+            <distortion model="poly3" focal="32" k1="-0.006" />
+            <distortion model="poly3" focal="33" k1="-0.006" />
+            <distortion model="poly3" focal="34" k1="-0.006" />
+            <distortion model="poly3" focal="35" k1="-0.005" />
+            <distortion model="poly3" focal="36" k1="-0.005" />
+            <distortion model="poly3" focal="37" k1="-0.005" />
+            <distortion model="poly3" focal="38" k1="-0.003" />
+            <distortion model="poly3" focal="39" k1="-0.003" />
+            <distortion model="poly3" focal="40" k1="-0.003" />
+            <distortion model="poly3" focal="41" k1="-0.002" />
+            <distortion model="poly3" focal="42" k1="-0.002" />
+            <distortion model="poly3" focal="43" k1="-0.002" />
+            <distortion model="poly3" focal="44" k1="-0.002" />
+            <distortion model="poly3" focal="45" k1="-0.002" />
+            <tca model="poly3" focal="14" br="-0.0000208" cr="-0.0001450" vr="0.9999670" bb="0.0000551" cb="0.0004740" vb="0.9997706" />
+            <tca model="poly3" focal="15" br="-0.0000208" cr="-0.0001450" vr="0.9999670" bb="0.0000551" cb="0.0004740" vb="0.9997706" />
+            <tca model="poly3" focal="16" br="0.0000004" cr="0.0001262" vr="0.9999621" bb="0.0000448" cb="0.0003730" vb="0.9998125" />
+            <tca model="poly3" focal="17" br="-0.0000238" cr="0.0001654" vr="0.9999548" bb="-0.0001032" cb="0.0004285" vb="0.9998252" />
+            <tca model="poly3" focal="18" br="-0.0000278" cr="0.0001658" vr="0.9999524" bb="-0.0000671" cb="0.0002216" vb="0.9999079" />
+            <tca model="poly3" focal="19" br="-0.0001241" cr="0.0003412" vr="0.9998798" bb="-0.0001394" cb="0.0002996" vb="0.9998814" />
+            <tca model="poly3" focal="20" br="-0.0001187" cr="0.0003339" vr="0.9998891" bb="-0.0001665" cb="0.0002155" vb="0.9999358" />
+            <tca model="poly3" focal="21" br="-0.0001187" cr="0.0003339" vr="0.9998891" bb="-0.0001665" cb="0.0002155" vb="0.9999358" />
+            <tca model="poly3" focal="22" br="-0.0000673" cr="0.0002186" vr="0.9999365" bb="-0.0002032" cb="0.0002750" vb="0.9998907" />
+            <tca model="poly3" focal="23" br="-0.0000884" cr="0.0002615" vr="0.9999049" bb="-0.0001770" cb="0.0001873" vb="0.9999257" />
+            <tca model="poly3" focal="24" br="-0.0000884" cr="0.0002615" vr="0.9999049" bb="-0.0001770" cb="0.0001873" vb="0.9999257" />
+            <tca model="poly3" focal="25" br="-0.0001291" cr="0.0003318" vr="0.9998718" bb="-0.0000991" cb="0.0000141" vb="0.9999903" />
+            <tca model="poly3" focal="26" br="-0.0001086" cr="0.0002857" vr="0.9998944" bb="-0.0001846" cb="0.0001735" vb="0.9999208" />
+            <tca model="poly3" focal="27" br="-0.0001086" cr="0.0002857" vr="0.9998944" bb="-0.0001846" cb="0.0001735" vb="0.9999208" />
+            <tca model="poly3" focal="28" br="-0.0000860" cr="0.0002475" vr="0.9998917" bb="-0.0001547" cb="0.0001266" vb="0.9999016" />
+            <tca model="poly3" focal="29" br="-0.0000047" cr="0.0000585" vr="0.9999748" bb="-0.0001541" cb="0.0000921" vb="0.9999271" />
+            <tca model="poly3" focal="30" br="-0.0000276" cr="0.0001067" vr="0.9999561" bb="-0.0001001" cb="-0.0000262" vb="0.9999608" />
+            <tca model="poly3" focal="31" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="32" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="33" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="34" br="0.0000020" cr="0.0000080" vr="1.0000083" bb="-0.0001221" cb="0.0000361" vb="0.9999098" />
+            <tca model="poly3" focal="35" br="-0.0000315" cr="0.0000743" vr="0.9999683" bb="-0.0002006" cb="0.0002110" vb="0.9998378" />
+            <tca model="poly3" focal="36" br="-0.0000315" cr="0.0000743" vr="0.9999683" bb="-0.0002006" cb="0.0002110" vb="0.9998378" />
+            <tca model="poly3" focal="37" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="38" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="39" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="40" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="41" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="42" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="43" br="-0.0000067" cr="-0.0000019" vr="1.0000013" bb="-0.0002214" cb="0.0002490" vb="0.9999027" />
+            <tca model="poly3" focal="44" br="-0.0000067" cr="-0.0000019" vr="1.0000013" bb="-0.0002214" cb="0.0002490" vb="0.9999027" />
+            <tca model="poly3" focal="45" br="0.0000014" cr="-0.0000123" vr="1.0000005" bb="-0.0003283" cb="0.0004525" vb="0.9998245" />
+        </calibration>
+    </lens>
+
+
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 14-45mm F3.5-5.6 (TCA+Fisheye)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="14" k1="-0.1190" />
+            <distortion model="poly3" focal="15" k1="-0.1140" />
+            <distortion model="poly3" focal="16" k1="-0.1117" />
+            <distortion model="poly3" focal="17" k1="-0.0994" />
+            <distortion model="poly3" focal="18" k1="-0.0852" />
+            <distortion model="poly3" focal="19" k1="-0.0847" />
+            <distortion model="poly3" focal="20" k1="-0.0783" />
+            <distortion model="poly3" focal="21" k1="-0.0760" />
+            <distortion model="poly3" focal="22" k1="-0.0748" />
+            <distortion model="poly3" focal="23" k1="-0.0626" />
+            <distortion model="poly3" focal="24" k1="-0.0621" />
+            <distortion model="poly3" focal="25" k1="-0.0616" />
+            <distortion model="poly3" focal="26" k1="-0.0577" />
+            <distortion model="poly3" focal="27" k1="-0.0480" />
+            <distortion model="poly3" focal="28" k1="-0.0417" />
+            <distortion model="poly3" focal="29" k1="-0.0417" />
+            <distortion model="poly3" focal="30" k1="-0.0376" />
+            <distortion model="poly3" focal="31" k1="-0.0356" />
+            <distortion model="poly3" focal="32" k1="-0.0325" />
+            <distortion model="poly3" focal="33" k1="-0.0310" />
+            <distortion model="poly3" focal="34" k1="-0.0283" />
+            <distortion model="poly3" focal="35" k1="-0.0271" />
+            <distortion model="poly3" focal="36" k1="-0.0250" />
+            <distortion model="poly3" focal="37" k1="-0.0229" />
+            <distortion model="poly3" focal="38" k1="-0.0220" />
+            <distortion model="poly3" focal="39" k1="-0.0215" />
+            <distortion model="poly3" focal="40" k1="-0.0209" />
+            <distortion model="poly3" focal="41" k1="-0.0207" />
+            <distortion model="poly3" focal="42" k1="-0.0203" />
+            <distortion model="poly3" focal="43" k1="-0.0200" />
+            <distortion model="poly3" focal="44" k1="-0.0160" />
+            <distortion model="poly3" focal="45" k1="-0.0115" />
+            <tca model="poly3" focal="14" br="-0.0000208" cr="-0.0001450" vr="0.9999670" bb="0.0000551" cb="0.0004740" vb="0.9997706" />
+            <tca model="poly3" focal="15" br="-0.0000208" cr="-0.0001450" vr="0.9999670" bb="0.0000551" cb="0.0004740" vb="0.9997706" />
+            <tca model="poly3" focal="16" br="0.0000004" cr="0.0001262" vr="0.9999621" bb="0.0000448" cb="0.0003730" vb="0.9998125" />
+            <tca model="poly3" focal="17" br="-0.0000238" cr="0.0001654" vr="0.9999548" bb="-0.0001032" cb="0.0004285" vb="0.9998252" />
+            <tca model="poly3" focal="18" br="-0.0000278" cr="0.0001658" vr="0.9999524" bb="-0.0000671" cb="0.0002216" vb="0.9999079" />
+            <tca model="poly3" focal="19" br="-0.0001241" cr="0.0003412" vr="0.9998798" bb="-0.0001394" cb="0.0002996" vb="0.9998814" />
+            <tca model="poly3" focal="20" br="-0.0001187" cr="0.0003339" vr="0.9998891" bb="-0.0001665" cb="0.0002155" vb="0.9999358" />
+            <tca model="poly3" focal="21" br="-0.0001187" cr="0.0003339" vr="0.9998891" bb="-0.0001665" cb="0.0002155" vb="0.9999358" />
+            <tca model="poly3" focal="22" br="-0.0000673" cr="0.0002186" vr="0.9999365" bb="-0.0002032" cb="0.0002750" vb="0.9998907" />
+            <tca model="poly3" focal="23" br="-0.0000884" cr="0.0002615" vr="0.9999049" bb="-0.0001770" cb="0.0001873" vb="0.9999257" />
+            <tca model="poly3" focal="24" br="-0.0000884" cr="0.0002615" vr="0.9999049" bb="-0.0001770" cb="0.0001873" vb="0.9999257" />
+            <tca model="poly3" focal="25" br="-0.0001291" cr="0.0003318" vr="0.9998718" bb="-0.0000991" cb="0.0000141" vb="0.9999903" />
+            <tca model="poly3" focal="26" br="-0.0001086" cr="0.0002857" vr="0.9998944" bb="-0.0001846" cb="0.0001735" vb="0.9999208" />
+            <tca model="poly3" focal="27" br="-0.0001086" cr="0.0002857" vr="0.9998944" bb="-0.0001846" cb="0.0001735" vb="0.9999208" />
+            <tca model="poly3" focal="28" br="-0.0000860" cr="0.0002475" vr="0.9998917" bb="-0.0001547" cb="0.0001266" vb="0.9999016" />
+            <tca model="poly3" focal="29" br="-0.0000047" cr="0.0000585" vr="0.9999748" bb="-0.0001541" cb="0.0000921" vb="0.9999271" />
+            <tca model="poly3" focal="30" br="-0.0000276" cr="0.0001067" vr="0.9999561" bb="-0.0001001" cb="-0.0000262" vb="0.9999608" />
+            <tca model="poly3" focal="31" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="32" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="33" br="-0.0000147" cr="0.0000757" vr="0.9999669" bb="-0.0001550" cb="0.0000799" vb="0.9999128" />
+            <tca model="poly3" focal="34" br="0.0000020" cr="0.0000080" vr="1.0000083" bb="-0.0001221" cb="0.0000361" vb="0.9999098" />
+            <tca model="poly3" focal="35" br="-0.0000315" cr="0.0000743" vr="0.9999683" bb="-0.0002006" cb="0.0002110" vb="0.9998378" />
+            <tca model="poly3" focal="36" br="-0.0000315" cr="0.0000743" vr="0.9999683" bb="-0.0002006" cb="0.0002110" vb="0.9998378" />
+            <tca model="poly3" focal="37" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="38" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="39" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="40" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="41" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="42" br="-0.0000113" cr="0.0000208" vr="0.9999843" bb="-0.0002226" cb="0.0002580" vb="0.9998716" />
+            <tca model="poly3" focal="43" br="-0.0000067" cr="-0.0000019" vr="1.0000013" bb="-0.0002214" cb="0.0002490" vb="0.9999027" />
+            <tca model="poly3" focal="44" br="-0.0000067" cr="-0.0000019" vr="1.0000013" bb="-0.0002214" cb="0.0002490" vb="0.9999027" />
+            <tca model="poly3" focal="45" br="0.0000014" cr="-0.0000123" vr="1.0000005" bb="-0.0003283" cb="0.0004525" vb="0.9998245" />
+        </calibration>
+    </lens>
+
+
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 14-45mm F3.5-5.6 + NH-WM75 (TCA only)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <tca model="poly3" focal="14" br="-0.0001167" cr="-0.0000390" vr="1.0005835" bb="-0.0002483" cb="0.0014566" vb="0.9997340" />
+            <tca model="poly3" focal="16" br="-0.0003863" cr="0.0004896" vr="1.0003785" bb="-0.0000725" cb="0.0008738" vb="0.9999990" />
+            <tca model="poly3" focal="17" br="-0.0000113" cr="0.0000785" vr="1.0004584" bb="-0.0000960" cb="0.0006760" vb="1.0000229" />
+            <tca model="poly3" focal="18" br="0.0000857" cr="-0.0000968" vr="1.0005744" bb="-0.0000861" cb="0.0005287" vb="1.0000230" />
+            <tca model="poly3" focal="19" br="0.0000701" cr="0.0000221" vr="1.0005301" bb="-0.0000347" cb="0.0001989" vb="1.0001946" />
+            <tca model="poly3" focal="20" br="-0.0000204" cr="0.0002313" vr="1.0004202" bb="-0.0001373" cb="0.0003702" vb="1.0001274" />
+            <tca model="poly3" focal="21" br="0.0000393" cr="0.0000667" vr="1.0004700" bb="-0.0000180" cb="0.0000921" vb="1.0002673" />
+            <tca model="poly3" focal="22" br="0.0000671" cr="-0.0000044" vr="1.0004509" bb="-0.0001164" cb="0.0003162" vb="1.0001913" />
+            <tca model="poly3" focal="23" br="0.0001441" cr="-0.0002632" vr="1.0005821" bb="-0.0000235" cb="0.0000906" vb="1.0003444" />
+            <tca model="poly3" focal="24" br="0.0000571" cr="-0.0000359" vr="1.0003797" bb="-0.0000422" cb="0.0001472" vb="1.0003544" />
+            <tca model="poly3" focal="25" br="0.0000235" cr="-0.0000574" vr="1.0003821" bb="-0.0000154" cb="0.0000963" vb="1.0005039" />
+            <tca model="poly3" focal="26" br="0.0000470" cr="-0.0000883" vr="1.0003011" bb="-0.0000229" cb="0.0000229" vb="1.0004987" />
+            <tca model="poly3" focal="27" br="0.0000574" cr="-0.0001983" vr="1.0003571" bb="-0.0000433" cb="0.0001779" vb="1.0005628" />
+            <tca model="poly3" focal="28" br="0.0000676" cr="-0.0002004" vr="1.0002677" bb="-0.0000165" cb="0.0001377" vb="1.0006264" />
+            <tca model="poly3" focal="29" br="-0.0000401" cr="-0.0001658" vr="1.0002178" bb="0.0000370" cb="0.0000062" vb="1.0007927" />
+            <tca model="poly3" focal="30" br="-0.0000048" cr="-0.0000708" vr="1.0000457" bb="0.0000467" cb="0.0000070" vb="1.0008939" />
+            <tca model="poly3" focal="31" br="0.0000265" cr="-0.0001588" vr="1.0000039" bb="-0.0000625" cb="0.0002472" vb="1.0008977" />
+            <tca model="poly3" focal="32" br="-0.0000789" cr="0.0000649" vr="0.9998052" bb="0.0000489" cb="0.0000377" vb="1.0010877" />
+            <tca model="poly3" focal="33" br="0.0000032" cr="-0.0001893" vr="0.9999297" bb="0.0000783" cb="-0.0000422" vb="1.0011966" />
+            <tca model="poly3" focal="34" br="-0.0002130" cr="0.0002890" vr="0.9994261" bb="0.0000422" cb="0.0000380" vb="1.0014295" />
+            <tca model="poly3" focal="35" br="-0.0000866" cr="-0.0000489" vr="0.9994750" bb="0.0001390" cb="-0.0001382" vb="1.0016803" />
+            <tca model="poly3" focal="36" br="-0.0000399" cr="-0.0001858" vr="0.9994429" bb="0.0000603" cb="0.0000316" vb="1.0017271" />
+            <tca model="poly3" focal="37" br="0.0000002" cr="-0.0002572" vr="0.9990424" bb="0.0001001" cb="0.0000010" vb="1.0022022" />
+            <tca model="poly3" focal="38" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="39" br="0.0000162" cr="-0.0000315" vr="1.0000125" bb="-0.0001136" cb="0.0000350" vb="0.9999376" />
+            <tca model="poly3" focal="40" br="0.0001637" cr="-0.0004919" vr="0.9987948" bb="0.0002067" cb="-0.0002131" vb="1.0026699" />
+            <tca model="poly3" focal="41" br="0.0002711" cr="-0.0004106" vr="0.9983430" bb="0.0002025" cb="-0.0002459" vb="1.0030626" />
+            <tca model="poly3" focal="43" br="0.0002802" cr="-0.0003981" vr="0.9981716" bb="0.0002074" cb="-0.0002534" vb="1.0033413" />
+            <tca model="poly3" focal="45" br="0.0002312" cr="-0.0001366" vr="0.9978226" bb="0.0003704" cb="-0.0006475" vb="1.0037088" />
+        </calibration>
+    </lens>
+
+
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 14-45mm F3.5-5.6 + NH-WM75 Low (TCA+Less Barrel)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="14" k1="-0.028" />
+            <distortion model="poly3" focal="15" k1="-0.027" />
+            <distortion model="poly3" focal="16" k1="-0.027" />
+            <distortion model="poly3" focal="17" k1="-0.026" />
+            <distortion model="poly3" focal="18" k1="-0.022" />
+            <distortion model="poly3" focal="19" k1="-0.021" />
+            <distortion model="poly3" focal="20" k1="-0.018" />
+            <distortion model="poly3" focal="21" k1="-0.017" />
+            <distortion model="poly3" focal="22" k1="-0.016" />
+            <distortion model="poly3" focal="23" k1="-0.016" />
+            <distortion model="poly3" focal="24" k1="-0.013" />
+            <distortion model="poly3" focal="25" k1="-0.011" />
+            <distortion model="poly3" focal="26" k1="-0.011" />
+            <distortion model="poly3" focal="27" k1="-0.011" />
+            <distortion model="poly3" focal="28" k1="-0.011" />
+            <distortion model="poly3" focal="29" k1="-0.008" />
+            <distortion model="poly3" focal="30" k1="-0.008" />
+            <distortion model="poly3" focal="31" k1="-0.007" />
+            <distortion model="poly3" focal="32" k1="-0.006" />
+            <distortion model="poly3" focal="33" k1="-0.006" />
+            <distortion model="poly3" focal="34" k1="-0.006" />
+            <distortion model="poly3" focal="35" k1="-0.005" />
+            <distortion model="poly3" focal="36" k1="-0.005" />
+            <distortion model="poly3" focal="37" k1="-0.005" />
+            <distortion model="poly3" focal="38" k1="-0.003" />
+            <distortion model="poly3" focal="39" k1="-0.003" />
+            <distortion model="poly3" focal="40" k1="-0.003" />
+            <distortion model="poly3" focal="41" k1="-0.002" />
+            <distortion model="poly3" focal="42" k1="-0.002" />
+            <distortion model="poly3" focal="43" k1="-0.002" />
+            <distortion model="poly3" focal="44" k1="-0.002" />
+            <distortion model="poly3" focal="45" k1="-0.002" />
+            <tca model="poly3" focal="14" br="-0.0001167" cr="-0.0000390" vr="1.0005835" bb="-0.0002483" cb="0.0014566" vb="0.9997340" />
+            <tca model="poly3" focal="16" br="-0.0003863" cr="0.0004896" vr="1.0003785" bb="-0.0000725" cb="0.0008738" vb="0.9999990" />
+            <tca model="poly3" focal="17" br="-0.0000113" cr="0.0000785" vr="1.0004584" bb="-0.0000960" cb="0.0006760" vb="1.0000229" />
+            <tca model="poly3" focal="18" br="0.0000857" cr="-0.0000968" vr="1.0005744" bb="-0.0000861" cb="0.0005287" vb="1.0000230" />
+            <tca model="poly3" focal="19" br="0.0000701" cr="0.0000221" vr="1.0005301" bb="-0.0000347" cb="0.0001989" vb="1.0001946" />
+            <tca model="poly3" focal="20" br="-0.0000204" cr="0.0002313" vr="1.0004202" bb="-0.0001373" cb="0.0003702" vb="1.0001274" />
+            <tca model="poly3" focal="21" br="0.0000393" cr="0.0000667" vr="1.0004700" bb="-0.0000180" cb="0.0000921" vb="1.0002673" />
+            <tca model="poly3" focal="22" br="0.0000671" cr="-0.0000044" vr="1.0004509" bb="-0.0001164" cb="0.0003162" vb="1.0001913" />
+            <tca model="poly3" focal="23" br="0.0001441" cr="-0.0002632" vr="1.0005821" bb="-0.0000235" cb="0.0000906" vb="1.0003444" />
+            <tca model="poly3" focal="24" br="0.0000571" cr="-0.0000359" vr="1.0003797" bb="-0.0000422" cb="0.0001472" vb="1.0003544" />
+            <tca model="poly3" focal="25" br="0.0000235" cr="-0.0000574" vr="1.0003821" bb="-0.0000154" cb="0.0000963" vb="1.0005039" />
+            <tca model="poly3" focal="26" br="0.0000470" cr="-0.0000883" vr="1.0003011" bb="-0.0000229" cb="0.0000229" vb="1.0004987" />
+            <tca model="poly3" focal="27" br="0.0000574" cr="-0.0001983" vr="1.0003571" bb="-0.0000433" cb="0.0001779" vb="1.0005628" />
+            <tca model="poly3" focal="28" br="0.0000676" cr="-0.0002004" vr="1.0002677" bb="-0.0000165" cb="0.0001377" vb="1.0006264" />
+            <tca model="poly3" focal="29" br="-0.0000401" cr="-0.0001658" vr="1.0002178" bb="0.0000370" cb="0.0000062" vb="1.0007927" />
+            <tca model="poly3" focal="30" br="-0.0000048" cr="-0.0000708" vr="1.0000457" bb="0.0000467" cb="0.0000070" vb="1.0008939" />
+            <tca model="poly3" focal="31" br="0.0000265" cr="-0.0001588" vr="1.0000039" bb="-0.0000625" cb="0.0002472" vb="1.0008977" />
+            <tca model="poly3" focal="32" br="-0.0000789" cr="0.0000649" vr="0.9998052" bb="0.0000489" cb="0.0000377" vb="1.0010877" />
+            <tca model="poly3" focal="33" br="0.0000032" cr="-0.0001893" vr="0.9999297" bb="0.0000783" cb="-0.0000422" vb="1.0011966" />
+            <tca model="poly3" focal="34" br="-0.0002130" cr="0.0002890" vr="0.9994261" bb="0.0000422" cb="0.0000380" vb="1.0014295" />
+            <tca model="poly3" focal="35" br="-0.0000866" cr="-0.0000489" vr="0.9994750" bb="0.0001390" cb="-0.0001382" vb="1.0016803" />
+            <tca model="poly3" focal="36" br="-0.0000399" cr="-0.0001858" vr="0.9994429" bb="0.0000603" cb="0.0000316" vb="1.0017271" />
+            <tca model="poly3" focal="37" br="0.0000002" cr="-0.0002572" vr="0.9990424" bb="0.0001001" cb="0.0000010" vb="1.0022022" />
+            <tca model="poly3" focal="38" br="0.0000002" cr="-0.0002572" vr="0.9990424" bb="0.0001001" cb="0.0000010" vb="1.0022022" />
+            <tca model="poly3" focal="39" br="0.0000873" cr="-0.0003778" vr="0.9989423" bb="-0.0000504" cb="0.0003058" vb="1.0022143" />
+            <tca model="poly3" focal="40" br="0.0001637" cr="-0.0004919" vr="0.9987948" bb="0.0002067" cb="-0.0002131" vb="1.0026699" />
+            <tca model="poly3" focal="41" br="0.0002711" cr="-0.0004106" vr="0.9983430" bb="0.0002025" cb="-0.0002459" vb="1.0030626" />
+            <tca model="poly3" focal="43" br="0.0002802" cr="-0.0003981" vr="0.9981716" bb="0.0002074" cb="-0.0002534" vb="1.0033413" />
+            <tca model="poly3" focal="45" br="0.0002312" cr="-0.0001366" vr="0.9978226" bb="0.0003704" cb="-0.0006475" vb="1.0037088" />
+        </calibration>
+    </lens>
+
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 14-45mm F3.5-5.6 + NH-WM75 (TCA+No Barrel)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="14" k1="-0.0504" />
+            <distortion model="poly3" focal="15" k1="-0.0468" />
+            <distortion model="poly3" focal="16" k1="-0.0468" />
+            <distortion model="poly3" focal="17" k1="-0.0468" />
+            <distortion model="poly3" focal="18" k1="-0.0396" />
+            <distortion model="poly3" focal="19" k1="-0.0378" />
+            <distortion model="poly3" focal="20" k1="-0.0324" />
+            <distortion model="poly3" focal="21" k1="-0.0306" />
+            <distortion model="poly3" focal="22" k1="-0.0288" />
+            <distortion model="poly3" focal="23" k1="-0.0288" />
+            <distortion model="poly3" focal="24" k1="-0.0234" />
+            <distortion model="poly3" focal="25" k1="-0.0198" />
+            <distortion model="poly3" focal="26" k1="-0.0198" />
+            <distortion model="poly3" focal="27" k1="-0.0198" />
+            <distortion model="poly3" focal="28" k1="-0.0198" />
+            <distortion model="poly3" focal="29" k1="-0.0144" />
+            <distortion model="poly3" focal="30" k1="-0.0144" />
+            <distortion model="poly3" focal="31" k1="-0.0126" />
+            <distortion model="poly3" focal="32" k1="-0.0108" />
+            <distortion model="poly3" focal="33" k1="-0.0108" />
+            <distortion model="poly3" focal="34" k1="-0.0108" />
+            <distortion model="poly3" focal="35" k1="-0.009" />
+            <distortion model="poly3" focal="36" k1="-0.009" />
+            <distortion model="poly3" focal="37" k1="-0.009" />
+            <distortion model="poly3" focal="38" k1="-0.0054" />
+            <distortion model="poly3" focal="39" k1="-0.0054" />
+            <distortion model="poly3" focal="40" k1="-0.0054" />
+            <distortion model="poly3" focal="41" k1="-0.0036" />
+            <distortion model="poly3" focal="42" k1="-0.0036" />
+            <distortion model="poly3" focal="43" k1="-0.0036" />
+            <distortion model="poly3" focal="44" k1="-0.0036" />
+            <distortion model="poly3" focal="45" k1="-0.0036" />
+            <tca model="poly3" focal="14" br="-0.0001167" cr="-0.0000390" vr="1.0005835" bb="-0.0002483" cb="0.0014566" vb="0.9997340" />
+            <tca model="poly3" focal="16" br="-0.0003863" cr="0.0004896" vr="1.0003785" bb="-0.0000725" cb="0.0008738" vb="0.9999990" />
+            <tca model="poly3" focal="17" br="-0.0000113" cr="0.0000785" vr="1.0004584" bb="-0.0000960" cb="0.0006760" vb="1.0000229" />
+            <tca model="poly3" focal="18" br="0.0000857" cr="-0.0000968" vr="1.0005744" bb="-0.0000861" cb="0.0005287" vb="1.0000230" />
+            <tca model="poly3" focal="19" br="0.0000701" cr="0.0000221" vr="1.0005301" bb="-0.0000347" cb="0.0001989" vb="1.0001946" />
+            <tca model="poly3" focal="20" br="-0.0000204" cr="0.0002313" vr="1.0004202" bb="-0.0001373" cb="0.0003702" vb="1.0001274" />
+            <tca model="poly3" focal="21" br="0.0000393" cr="0.0000667" vr="1.0004700" bb="-0.0000180" cb="0.0000921" vb="1.0002673" />
+            <tca model="poly3" focal="22" br="0.0000671" cr="-0.0000044" vr="1.0004509" bb="-0.0001164" cb="0.0003162" vb="1.0001913" />
+            <tca model="poly3" focal="23" br="0.0001441" cr="-0.0002632" vr="1.0005821" bb="-0.0000235" cb="0.0000906" vb="1.0003444" />
+            <tca model="poly3" focal="24" br="0.0000571" cr="-0.0000359" vr="1.0003797" bb="-0.0000422" cb="0.0001472" vb="1.0003544" />
+            <tca model="poly3" focal="25" br="0.0000235" cr="-0.0000574" vr="1.0003821" bb="-0.0000154" cb="0.0000963" vb="1.0005039" />
+            <tca model="poly3" focal="26" br="0.0000470" cr="-0.0000883" vr="1.0003011" bb="-0.0000229" cb="0.0000229" vb="1.0004987" />
+            <tca model="poly3" focal="27" br="0.0000574" cr="-0.0001983" vr="1.0003571" bb="-0.0000433" cb="0.0001779" vb="1.0005628" />
+            <tca model="poly3" focal="28" br="0.0000676" cr="-0.0002004" vr="1.0002677" bb="-0.0000165" cb="0.0001377" vb="1.0006264" />
+            <tca model="poly3" focal="29" br="-0.0000401" cr="-0.0001658" vr="1.0002178" bb="0.0000370" cb="0.0000062" vb="1.0007927" />
+            <tca model="poly3" focal="30" br="-0.0000048" cr="-0.0000708" vr="1.0000457" bb="0.0000467" cb="0.0000070" vb="1.0008939" />
+            <tca model="poly3" focal="31" br="0.0000265" cr="-0.0001588" vr="1.0000039" bb="-0.0000625" cb="0.0002472" vb="1.0008977" />
+            <tca model="poly3" focal="32" br="-0.0000789" cr="0.0000649" vr="0.9998052" bb="0.0000489" cb="0.0000377" vb="1.0010877" />
+            <tca model="poly3" focal="33" br="0.0000032" cr="-0.0001893" vr="0.9999297" bb="0.0000783" cb="-0.0000422" vb="1.0011966" />
+            <tca model="poly3" focal="34" br="-0.0002130" cr="0.0002890" vr="0.9994261" bb="0.0000422" cb="0.0000380" vb="1.0014295" />
+            <tca model="poly3" focal="35" br="-0.0000866" cr="-0.0000489" vr="0.9994750" bb="0.0001390" cb="-0.0001382" vb="1.0016803" />
+            <tca model="poly3" focal="36" br="-0.0000399" cr="-0.0001858" vr="0.9994429" bb="0.0000603" cb="0.0000316" vb="1.0017271" />
+            <tca model="poly3" focal="37" br="0.0000002" cr="-0.0002572" vr="0.9990424" bb="0.0001001" cb="0.0000010" vb="1.0022022" />
+            <tca model="poly3" focal="38" br="0.0000002" cr="-0.0002572" vr="0.9990424" bb="0.0001001" cb="0.0000010" vb="1.0022022" />
+            <tca model="poly3" focal="39" br="0.0000873" cr="-0.0003778" vr="0.9989423" bb="-0.0000504" cb="0.0003058" vb="1.0022143" />
+            <tca model="poly3" focal="40" br="0.0001637" cr="-0.0004919" vr="0.9987948" bb="0.0002067" cb="-0.0002131" vb="1.0026699" />
+            <tca model="poly3" focal="41" br="0.0002711" cr="-0.0004106" vr="0.9983430" bb="0.0002025" cb="-0.0002459" vb="1.0030626" />
+            <tca model="poly3" focal="43" br="0.0002802" cr="-0.0003981" vr="0.9981716" bb="0.0002074" cb="-0.0002534" vb="1.0033413" />
+            <tca model="poly3" focal="45" br="0.0002312" cr="-0.0001366" vr="0.9978226" bb="0.0003704" cb="-0.0006475" vb="1.0037088" />
+        </calibration>
+    </lens>
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 14-45mm F3.5-5.6 + NH-WM75 (TCA+Fisheye)</model>
+        <mount>Micro 4/3 System</mount>
+        <cropfactor>2.0</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="14" k1="-0.1190" />
+            <distortion model="poly3" focal="15" k1="-0.1140" />
+            <distortion model="poly3" focal="16" k1="-0.1117" />
+            <distortion model="poly3" focal="17" k1="-0.0994" />
+            <distortion model="poly3" focal="18" k1="-0.0852" />
+            <distortion model="poly3" focal="19" k1="-0.0847" />
+            <distortion model="poly3" focal="20" k1="-0.0783" />
+            <distortion model="poly3" focal="21" k1="-0.0760" />
+            <distortion model="poly3" focal="22" k1="-0.0748" />
+            <distortion model="poly3" focal="23" k1="-0.0626" />
+            <distortion model="poly3" focal="24" k1="-0.0621" />
+            <distortion model="poly3" focal="25" k1="-0.0616" />
+            <distortion model="poly3" focal="26" k1="-0.0577" />
+            <distortion model="poly3" focal="27" k1="-0.0480" />
+            <distortion model="poly3" focal="28" k1="-0.0417" />
+            <distortion model="poly3" focal="29" k1="-0.0417" />
+            <distortion model="poly3" focal="30" k1="-0.0376" />
+            <distortion model="poly3" focal="31" k1="-0.0356" />
+            <distortion model="poly3" focal="32" k1="-0.0325" />
+            <distortion model="poly3" focal="33" k1="-0.0310" />
+            <distortion model="poly3" focal="34" k1="-0.0283" />
+            <distortion model="poly3" focal="35" k1="-0.0271" />
+            <distortion model="poly3" focal="36" k1="-0.0250" />
+            <distortion model="poly3" focal="37" k1="-0.0229" />
+            <distortion model="poly3" focal="38" k1="-0.0220" />
+            <distortion model="poly3" focal="39" k1="-0.0215" />
+            <distortion model="poly3" focal="40" k1="-0.0209" />
+            <distortion model="poly3" focal="41" k1="-0.0207" />
+            <distortion model="poly3" focal="42" k1="-0.0203" />
+            <distortion model="poly3" focal="43" k1="-0.0200" />
+            <distortion model="poly3" focal="44" k1="-0.0160" />
+            <distortion model="poly3" focal="45" k1="-0.0115" />
+            <tca model="poly3" focal="14" br="-0.0001167" cr="-0.0000390" vr="1.0005835" bb="-0.0002483" cb="0.0014566" vb="0.9997340" />
+            <tca model="poly3" focal="16" br="-0.0003863" cr="0.0004896" vr="1.0003785" bb="-0.0000725" cb="0.0008738" vb="0.9999990" />
+            <tca model="poly3" focal="17" br="-0.0000113" cr="0.0000785" vr="1.0004584" bb="-0.0000960" cb="0.0006760" vb="1.0000229" />
+            <tca model="poly3" focal="18" br="0.0000857" cr="-0.0000968" vr="1.0005744" bb="-0.0000861" cb="0.0005287" vb="1.0000230" />
+            <tca model="poly3" focal="19" br="0.0000701" cr="0.0000221" vr="1.0005301" bb="-0.0000347" cb="0.0001989" vb="1.0001946" />
+            <tca model="poly3" focal="20" br="-0.0000204" cr="0.0002313" vr="1.0004202" bb="-0.0001373" cb="0.0003702" vb="1.0001274" />
+            <tca model="poly3" focal="21" br="0.0000393" cr="0.0000667" vr="1.0004700" bb="-0.0000180" cb="0.0000921" vb="1.0002673" />
+            <tca model="poly3" focal="22" br="0.0000671" cr="-0.0000044" vr="1.0004509" bb="-0.0001164" cb="0.0003162" vb="1.0001913" />
+            <tca model="poly3" focal="23" br="0.0001441" cr="-0.0002632" vr="1.0005821" bb="-0.0000235" cb="0.0000906" vb="1.0003444" />
+            <tca model="poly3" focal="24" br="0.0000571" cr="-0.0000359" vr="1.0003797" bb="-0.0000422" cb="0.0001472" vb="1.0003544" />
+            <tca model="poly3" focal="25" br="0.0000235" cr="-0.0000574" vr="1.0003821" bb="-0.0000154" cb="0.0000963" vb="1.0005039" />
+            <tca model="poly3" focal="26" br="0.0000470" cr="-0.0000883" vr="1.0003011" bb="-0.0000229" cb="0.0000229" vb="1.0004987" />
+            <tca model="poly3" focal="27" br="0.0000574" cr="-0.0001983" vr="1.0003571" bb="-0.0000433" cb="0.0001779" vb="1.0005628" />
+            <tca model="poly3" focal="28" br="0.0000676" cr="-0.0002004" vr="1.0002677" bb="-0.0000165" cb="0.0001377" vb="1.0006264" />
+            <tca model="poly3" focal="29" br="-0.0000401" cr="-0.0001658" vr="1.0002178" bb="0.0000370" cb="0.0000062" vb="1.0007927" />
+            <tca model="poly3" focal="30" br="-0.0000048" cr="-0.0000708" vr="1.0000457" bb="0.0000467" cb="0.0000070" vb="1.0008939" />
+            <tca model="poly3" focal="31" br="0.0000265" cr="-0.0001588" vr="1.0000039" bb="-0.0000625" cb="0.0002472" vb="1.0008977" />
+            <tca model="poly3" focal="32" br="-0.0000789" cr="0.0000649" vr="0.9998052" bb="0.0000489" cb="0.0000377" vb="1.0010877" />
+            <tca model="poly3" focal="33" br="0.0000032" cr="-0.0001893" vr="0.9999297" bb="0.0000783" cb="-0.0000422" vb="1.0011966" />
+            <tca model="poly3" focal="34" br="-0.0002130" cr="0.0002890" vr="0.9994261" bb="0.0000422" cb="0.0000380" vb="1.0014295" />
+            <tca model="poly3" focal="35" br="-0.0000866" cr="-0.0000489" vr="0.9994750" bb="0.0001390" cb="-0.0001382" vb="1.0016803" />
+            <tca model="poly3" focal="36" br="-0.0000399" cr="-0.0001858" vr="0.9994429" bb="0.0000603" cb="0.0000316" vb="1.0017271" />
+            <tca model="poly3" focal="37" br="0.0000002" cr="-0.0002572" vr="0.9990424" bb="0.0001001" cb="0.0000010" vb="1.0022022" />
+            <tca model="poly3" focal="38" br="0.0000002" cr="-0.0002572" vr="0.9990424" bb="0.0001001" cb="0.0000010" vb="1.0022022" />
+            <tca model="poly3" focal="39" br="0.0000873" cr="-0.0003778" vr="0.9989423" bb="-0.0000504" cb="0.0003058" vb="1.0022143" />
+            <tca model="poly3" focal="40" br="0.0001637" cr="-0.0004919" vr="0.9987948" bb="0.0002067" cb="-0.0002131" vb="1.0026699" />
+            <tca model="poly3" focal="41" br="0.0002711" cr="-0.0004106" vr="0.9983430" bb="0.0002025" cb="-0.0002459" vb="1.0030626" />
+            <tca model="poly3" focal="43" br="0.0002802" cr="-0.0003981" vr="0.9981716" bb="0.0002074" cb="-0.0002534" vb="1.0033413" />
+            <tca model="poly3" focal="45" br="0.0002312" cr="-0.0001366" vr="0.9978226" bb="0.0003704" cb="-0.0006475" vb="1.0037088" />
+        </calibration>
+    </lens>
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 45-200mm F4.0-5.6 (TCA only)</model>
+        <mount>Micro 4/3 System</mount>
+        <focal>45-200</focal>
+        <aperture>4-22</aperture>
+        <type>rectilinear</type>
+        <cropfactor>2</cropfactor>
+        <calibration>
+            <tca model="poly3" focal="45" br="0.0002491" cr="-0.0003291" vr="1.0003614" bb="-0.0002521" cb="0.0003911" vb="1.0001921" />
+            <tca model="poly3" focal="48" br="0.0002909" cr="-0.0005117" vr="1.0004838" bb="-0.0002371" cb="0.0004303" vb="1.0001433" />
+            <tca model="poly3" focal="51" br="0.0000570" cr="-0.0000572" vr="1.0002728" bb="-0.0002094" cb="0.0003893" vb="1.0001340" />
+            <tca model="poly3" focal="54" br="0.0001358" cr="-0.0002477" vr="1.0003771" bb="-0.0002789" cb="0.0005808" vb="1.0000762" />
+            <tca model="poly3" focal="56" br="-0.0000164" cr="-0.0000112" vr="1.0002853" bb="-0.0002080" cb="0.0004875" vb="1.0001319" />
+            <tca model="poly3" focal="58" br="-0.0001291" cr="0.0001690" vr="1.0002287" bb="-0.0002333" cb="0.0005439" vb="1.0000954" />
+            <tca model="poly3" focal="60" br="-0.0000461" cr="-0.0000129" vr="1.0002900" bb="-0.0001714" cb="0.0004801" vb="1.0000342" />
+            <tca model="poly3" focal="61" br="-0.0001310" cr="0.0001226" vr="1.0002525" bb="-0.0001563" cb="0.0004613" vb="1.0000603" />
+            <tca model="poly3" focal="64" br="-0.0001245" cr="0.0001321" vr="1.0002061" bb="-0.0001024" cb="0.0003560" vb="1.0000513" />
+            <tca model="poly3" focal="67" br="-0.0000861" cr="0.0000129" vr="1.0002805" bb="-0.0000366" cb="0.0002734" vb="1.0001014" />
+            <tca model="poly3" focal="70" br="-0.0000833" cr="-0.0000246" vr="1.0002973" bb="-0.0000276" cb="0.0002149" vb="1.0001060" />
+            <tca model="poly3" focal="72" br="-0.0001446" cr="0.0001549" vr="1.0001286" bb="-0.0000490" cb="0.0002554" vb="0.9999955" />
+            <tca model="poly3" focal="75" br="-0.0000553" cr="-0.0000917" vr="1.0002702" bb="-0.0000377" cb="0.0002348" vb="0.9999980" />
+            <tca model="poly3" focal="78" br="0.0000080" cr="-0.0002679" vr="1.0003734" bb="-0.0000076" cb="0.0001643" vb="1.0000291" />
+            <tca model="poly3" focal="84" br="-0.0000692" cr="-0.0000673" vr="1.0002094" bb="-0.0000708" cb="0.0002790" vb="0.9999036" />
+            <tca model="poly3" focal="87" br="-0.0000225" cr="-0.0001272" vr="1.0001567" bb="-0.0000733" cb="0.0003031" vb="0.9997940" />
+            <tca model="poly3" focal="91" br="-0.0000838" cr="0.0000524" vr="1.0000039" bb="-0.0000940" cb="0.0003413" vb="0.9996942" />
+            <tca model="poly3" focal="97" br="-0.0000760" cr="-0.0000063" vr="1.0000045" bb="-0.0000976" cb="0.0003433" vb="0.9996213" />
+            <tca model="poly3" focal="103" br="-0.0001313" cr="0.0001422" vr="0.9998652" bb="-0.0000656" cb="0.0003064" vb="0.9995406" />
+            <tca model="poly3" focal="109" br="-0.0002464" cr="0.0004299" vr="0.9996141" bb="-0.0001265" cb="0.0003912" vb="0.9994278" />
+            <tca model="poly3" focal="115" br="-0.0002238" cr="-0.0004029" vr="0.9995575" bb="-0.0000389" cb="0.0002367" vb="0.9994119" />
+            <tca model="poly3" focal="124" br="-0.0002462" cr="0.0004402" vr="0.9994769" bb="0.0000483" cb="0.0000813" vb="0.9993894" />
+            <tca model="poly3" focal="128" br="-0.0003208" cr="0.0005956" vr="0.9993373" bb="0.0000136" cb="0.0001659" vb="0.9993007" />
+            <tca model="poly3" focal="136" br="-0.0002478" cr="0.0004831" vr="0.9992168" bb="0.0002149" cb="-0.0002975" vb="0.9994873" />
+            <tca model="poly3" focal="144" br="-0.0003296" cr="0.0007404" vr="0.9989345" bb="0.0002767" cb="-0.0003831" vb="0.9994482" />
+            <tca model="poly3" focal="151" br="-0.0004167" cr="0.00084113" vr="0.9989021" bb="0.0002371" cb="-0.0002466" vb="0.9993190" />
+            <tca model="poly3" focal="158" br="-0.0003654" cr="0.0007633" vr="0.9988054" bb="0.0002777" cb="-0.0002939" vb="0.9992661" />
+            <tca model="poly3" focal="166" br="-0.0003434" cr="0.0007445" vr="0.9987393" bb="0.0002284" cb="-0.0001623" vb="0.9991666" />
+            <tca model="poly3" focal="171" br="-0.0003770" cr="0.0010373" vr="0.9982450" bb="0.0002746" cb="-0.0003666" vb="0.9993719" />
+            <tca model="poly3" focal="175" br="-0.0002354" cr="0.0007147" vr="0.9984138" bb="0.0002058" cb="-0.0001702" vb="0.9992057" />
+            <tca model="poly3" focal="184" br="-0.0001451" cr="0.0005013" vr="0.9984561" bb="0.0002734" cb="-0.0002731" vb="0.9991873" />
+            <tca model="poly3" focal="189" br="-0.0002848" cr="0.0007834" vr="0.9983149" bb="0.0002174" cb="-0.0001037" vb="0.9990331" />
+            <tca model="poly3" focal="195" br="-0.0003179" cr="0.0009810" vr="0.9980567" bb="0.0003163" cb="-0.0003625" vb="0.9991786" />
+            <tca model="poly3" focal="200" br="-0.0001336" cr="0.0006505" vr="0.9981137" bb="0.0002790" cb="-0.0003193" vb="0.9992274" />
+        </calibration>
+    </lens>
+
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 45-200mm F4.0-5.6 (TCA+Barrel)</model>
+        <mount>Micro 4/3 System</mount>
+        <focal>45-200</focal>
+        <aperture>4-22</aperture>
+        <type>rectilinear</type>
+        <cropfactor>2</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="45" k1="-0.002" />
+            <distortion model="poly3" focal="48" k1="-0.001" />
+            <distortion model="poly3" focal="51" k1="-0.001" />
+            <distortion model="poly3" focal="54" k1="-0.001" />
+            <distortion model="poly3" focal="55" k1="-0.001" />
+            <distortion model="poly3" focal="56" k1="0.0" />
+            <distortion model="poly3" focal="58" k1="0.0" />
+            <distortion model="poly3" focal="61" k1="0.0" />
+            <distortion model="poly3" focal="64" k1="0.0" />
+            <distortion model="poly3" focal="67" k1="0.0045" />
+            <distortion model="poly3" focal="70" k1="0.0045" />
+            <distortion model="poly3" focal="72" k1="0.006" />
+            <distortion model="poly3" focal="75" k1="0.006" />
+            <distortion model="poly3" focal="78" k1="0.006" />
+            <distortion model="poly3" focal="81" k1="0.006" />
+            <distortion model="poly3" focal="84" k1="0.006" />
+            <distortion model="poly3" focal="87" k1="0.006" />
+            <distortion model="poly3" focal="91" k1="0.006" />
+            <distortion model="poly3" focal="97" k1="0.006" />
+            <distortion model="poly3" focal="103" k1="0.006" />
+            <distortion model="poly3" focal="109" k1="0.006" />
+            <distortion model="poly3" focal="115" k1="0.006" />
+            <distortion model="poly3" focal="124" k1="0.006" />
+            <distortion model="poly3" focal="128" k1="0.006" />
+            <distortion model="poly3" focal="136" k1="0.006" />
+            <distortion model="poly3" focal="144" k1="0.006" />
+            <distortion model="poly3" focal="151" k1="0.006" />
+            <distortion model="poly3" focal="158" k1="0.006" />
+            <distortion model="poly3" focal="162" k1="0.006" />
+            <distortion model="poly3" focal="166" k1="0.006" />
+            <distortion model="poly3" focal="171" k1="0.006" />
+            <distortion model="poly3" focal="175" k1="0.006" />
+            <distortion model="poly3" focal="180" k1="0.006" />
+            <distortion model="poly3" focal="184" k1="0.006" />
+            <distortion model="poly3" focal="189" k1="0.006" />
+            <distortion model="poly3" focal="200" k1="0.006" />
+            <tca model="poly3" focal="45" br="0.0002491" cr="-0.0003291" vr="1.0003614" bb="-0.0002521" cb="0.0003911" vb="1.0001921" />
+            <tca model="poly3" focal="48" br="0.0002909" cr="-0.0005117" vr="1.0004838" bb="-0.0002371" cb="0.0004303" vb="1.0001433" />
+            <tca model="poly3" focal="51" br="0.0000570" cr="-0.0000572" vr="1.0002728" bb="-0.0002094" cb="0.0003893" vb="1.0001340" />
+            <tca model="poly3" focal="54" br="0.0001358" cr="-0.0002477" vr="1.0003771" bb="-0.0002789" cb="0.0005808" vb="1.0000762" />
+            <tca model="poly3" focal="56" br="-0.0000164" cr="-0.0000112" vr="1.0002853" bb="-0.0002080" cb="0.0004875" vb="1.0001319" />
+            <tca model="poly3" focal="58" br="-0.0001291" cr="0.0001690" vr="1.0002287" bb="-0.0002333" cb="0.0005439" vb="1.0000954" />
+            <tca model="poly3" focal="60" br="-0.0000461" cr="-0.0000129" vr="1.0002900" bb="-0.0001714" cb="0.0004801" vb="1.0000342" />
+            <tca model="poly3" focal="61" br="-0.0001310" cr="0.0001226" vr="1.0002525" bb="-0.0001563" cb="0.0004613" vb="1.0000603" />
+            <tca model="poly3" focal="64" br="-0.0001245" cr="0.0001321" vr="1.0002061" bb="-0.0001024" cb="0.0003560" vb="1.0000513" />
+            <tca model="poly3" focal="67" br="-0.0000861" cr="0.0000129" vr="1.0002805" bb="-0.0000366" cb="0.0002734" vb="1.0001014" />
+            <tca model="poly3" focal="70" br="-0.0000833" cr="-0.0000246" vr="1.0002973" bb="-0.0000276" cb="0.0002149" vb="1.0001060" />
+            <tca model="poly3" focal="72" br="-0.0001446" cr="0.0001549" vr="1.0001286" bb="-0.0000490" cb="0.0002554" vb="0.9999955" />
+            <tca model="poly3" focal="75" br="-0.0000553" cr="-0.0000917" vr="1.0002702" bb="-0.0000377" cb="0.0002348" vb="0.9999980" />
+            <tca model="poly3" focal="78" br="0.0000080" cr="-0.0002679" vr="1.0003734" bb="-0.0000076" cb="0.0001643" vb="1.0000291" />
+            <tca model="poly3" focal="84" br="-0.0000692" cr="-0.0000673" vr="1.0002094" bb="-0.0000708" cb="0.0002790" vb="0.9999036" />
+            <tca model="poly3" focal="87" br="-0.0000225" cr="-0.0001272" vr="1.0001567" bb="-0.0000733" cb="0.0003031" vb="0.9997940" />
+            <tca model="poly3" focal="91" br="-0.0000838" cr="0.0000524" vr="1.0000039" bb="-0.0000940" cb="0.0003413" vb="0.9996942" />
+            <tca model="poly3" focal="97" br="-0.0000760" cr="-0.0000063" vr="1.0000045" bb="-0.0000976" cb="0.0003433" vb="0.9996213" />
+            <tca model="poly3" focal="103" br="-0.0001313" cr="0.0001422" vr="0.9998652" bb="-0.0000656" cb="0.0003064" vb="0.9995406" />
+            <tca model="poly3" focal="109" br="-0.0002464" cr="0.0004299" vr="0.9996141" bb="-0.0001265" cb="0.0003912" vb="0.9994278" />
+            <tca model="poly3" focal="115" br="-0.0002238" cr="-0.0004029" vr="0.9995575" bb="-0.0000389" cb="0.0002367" vb="0.9994119" />
+            <tca model="poly3" focal="124" br="-0.0002462" cr="0.0004402" vr="0.9994769" bb="0.0000483" cb="0.0000813" vb="0.9993894" />
+            <tca model="poly3" focal="128" br="-0.0003208" cr="0.0005956" vr="0.9993373" bb="0.0000136" cb="0.0001659" vb="0.9993007" />
+            <tca model="poly3" focal="136" br="-0.0002478" cr="0.0004831" vr="0.9992168" bb="0.0002149" cb="-0.0002975" vb="0.9994873" />
+            <tca model="poly3" focal="144" br="-0.0003296" cr="0.0007404" vr="0.9989345" bb="0.0002767" cb="-0.0003831" vb="0.9994482" />
+            <tca model="poly3" focal="151" br="-0.0004167" cr="0.00084113" vr="0.9989021" bb="0.0002371" cb="-0.0002466" vb="0.9993190" />
+            <tca model="poly3" focal="158" br="-0.0003654" cr="0.0007633" vr="0.9988054" bb="0.0002777" cb="-0.0002939" vb="0.9992661" />
+            <tca model="poly3" focal="166" br="-0.0003434" cr="0.0007445" vr="0.9987393" bb="0.0002284" cb="-0.0001623" vb="0.9991666" />
+            <tca model="poly3" focal="171" br="-0.0003770" cr="0.0010373" vr="0.9982450" bb="0.0002746" cb="-0.0003666" vb="0.9993719" />
+            <tca model="poly3" focal="175" br="-0.0002354" cr="0.0007147" vr="0.9984138" bb="0.0002058" cb="-0.0001702" vb="0.9992057" />
+            <tca model="poly3" focal="184" br="-0.0001451" cr="0.0005013" vr="0.9984561" bb="0.0002734" cb="-0.0002731" vb="0.9991873" />
+            <tca model="poly3" focal="189" br="-0.0002848" cr="0.0007834" vr="0.9983149" bb="0.0002174" cb="-0.0001037" vb="0.9990331" />
+            <tca model="poly3" focal="195" br="-0.0003179" cr="0.0009810" vr="0.9980567" bb="0.0003163" cb="-0.0003625" vb="0.9991786" />
+            <tca model="poly3" focal="200" br="-0.0001336" cr="0.0006505" vr="0.9981137" bb="0.0002790" cb="-0.0003193" vb="0.9992274" />
+        </calibration>
+    </lens>
+
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 45-200mm F4.0-5.6 (TCA+Fisheye)</model>
+        <mount>Micro 4/3 System</mount>
+        <focal>45-200</focal>
+        <aperture>4-22</aperture>
+        <type>rectilinear</type>
+        <cropfactor>2</cropfactor>
+        <calibration>
+            <distortion model="poly3" focal="45" k1="-0.01" />
+            <distortion model="poly3" focal="48" k1="-0.0057" />
+            <distortion model="poly3" focal="51" k1="-0.0057" />
+            <distortion model="poly3" focal="54" k1="-0.0057" />
+            <distortion model="poly3" focal="55" k1="-0.0057" />
+            <distortion model="poly3" focal="56" k1="0.0" />
+            <distortion model="poly3" focal="58" k1="0.0" />
+            <distortion model="poly3" focal="61" k1="0.0" />
+            <distortion model="poly3" focal="64" k1="0.0" />
+            <distortion model="poly3" focal="67" k1="0.02" />
+            <distortion model="poly3" focal="70" k1="0.02" />
+            <distortion model="poly3" focal="72" k1="0.03" />
+            <distortion model="poly3" focal="75" k1="0.03" />
+            <distortion model="poly3" focal="78" k1="0.03" />
+            <distortion model="poly3" focal="81" k1="0.03" />
+            <distortion model="poly3" focal="84" k1="0.03" />
+            <distortion model="poly3" focal="87" k1="0.03" />
+            <distortion model="poly3" focal="91" k1="0.03" />
+            <distortion model="poly3" focal="97" k1="0.03" />
+            <distortion model="poly3" focal="103" k1="0.03" />
+            <distortion model="poly3" focal="109" k1="0.03" />
+            <distortion model="poly3" focal="115" k1="0.03" />
+            <distortion model="poly3" focal="124" k1="0.03" />
+            <distortion model="poly3" focal="128" k1="0.03" />
+            <distortion model="poly3" focal="136" k1="0.03" />
+            <distortion model="poly3" focal="144" k1="0.03" />
+            <distortion model="poly3" focal="151" k1="0.03" />
+            <distortion model="poly3" focal="158" k1="0.03" />
+            <distortion model="poly3" focal="162" k1="0.03" />
+            <distortion model="poly3" focal="166" k1="0.03" />
+            <distortion model="poly3" focal="171" k1="0.03" />
+            <distortion model="poly3" focal="175" k1="0.03" />
+            <distortion model="poly3" focal="180" k1="0.03" />
+            <distortion model="poly3" focal="184" k1="0.03" />
+            <distortion model="poly3" focal="189" k1="0.03" />
+            <distortion model="poly3" focal="200" k1="0.03" />
+            <tca model="poly3" focal="45" br="0.0002491" cr="-0.0003291" vr="1.0003614" bb="-0.0002521" cb="0.0003911" vb="1.0001921" />
+            <tca model="poly3" focal="48" br="0.0002909" cr="-0.0005117" vr="1.0004838" bb="-0.0002371" cb="0.0004303" vb="1.0001433" />
+            <tca model="poly3" focal="51" br="0.0000570" cr="-0.0000572" vr="1.0002728" bb="-0.0002094" cb="0.0003893" vb="1.0001340" />
+            <tca model="poly3" focal="54" br="0.0001358" cr="-0.0002477" vr="1.0003771" bb="-0.0002789" cb="0.0005808" vb="1.0000762" />
+            <tca model="poly3" focal="56" br="-0.0000164" cr="-0.0000112" vr="1.0002853" bb="-0.0002080" cb="0.0004875" vb="1.0001319" />
+            <tca model="poly3" focal="58" br="-0.0001291" cr="0.0001690" vr="1.0002287" bb="-0.0002333" cb="0.0005439" vb="1.0000954" />
+            <tca model="poly3" focal="60" br="-0.0000461" cr="-0.0000129" vr="1.0002900" bb="-0.0001714" cb="0.0004801" vb="1.0000342" />
+            <tca model="poly3" focal="61" br="-0.0001310" cr="0.0001226" vr="1.0002525" bb="-0.0001563" cb="0.0004613" vb="1.0000603" />
+            <tca model="poly3" focal="64" br="-0.0001245" cr="0.0001321" vr="1.0002061" bb="-0.0001024" cb="0.0003560" vb="1.0000513" />
+            <tca model="poly3" focal="67" br="-0.0000861" cr="0.0000129" vr="1.0002805" bb="-0.0000366" cb="0.0002734" vb="1.0001014" />
+            <tca model="poly3" focal="70" br="-0.0000833" cr="-0.0000246" vr="1.0002973" bb="-0.0000276" cb="0.0002149" vb="1.0001060" />
+            <tca model="poly3" focal="72" br="-0.0001446" cr="0.0001549" vr="1.0001286" bb="-0.0000490" cb="0.0002554" vb="0.9999955" />
+            <tca model="poly3" focal="75" br="-0.0000553" cr="-0.0000917" vr="1.0002702" bb="-0.0000377" cb="0.0002348" vb="0.9999980" />
+            <tca model="poly3" focal="78" br="0.0000080" cr="-0.0002679" vr="1.0003734" bb="-0.0000076" cb="0.0001643" vb="1.0000291" />
+            <tca model="poly3" focal="84" br="-0.0000692" cr="-0.0000673" vr="1.0002094" bb="-0.0000708" cb="0.0002790" vb="0.9999036" />
+            <tca model="poly3" focal="87" br="-0.0000225" cr="-0.0001272" vr="1.0001567" bb="-0.0000733" cb="0.0003031" vb="0.9997940" />
+            <tca model="poly3" focal="91" br="-0.0000838" cr="0.0000524" vr="1.0000039" bb="-0.0000940" cb="0.0003413" vb="0.9996942" />
+            <tca model="poly3" focal="97" br="-0.0000760" cr="-0.0000063" vr="1.0000045" bb="-0.0000976" cb="0.0003433" vb="0.9996213" />
+            <tca model="poly3" focal="103" br="-0.0001313" cr="0.0001422" vr="0.9998652" bb="-0.0000656" cb="0.0003064" vb="0.9995406" />
+            <tca model="poly3" focal="109" br="-0.0002464" cr="0.0004299" vr="0.9996141" bb="-0.0001265" cb="0.0003912" vb="0.9994278" />
+            <tca model="poly3" focal="115" br="-0.0002238" cr="-0.0004029" vr="0.9995575" bb="-0.0000389" cb="0.0002367" vb="0.9994119" />
+            <tca model="poly3" focal="124" br="-0.0002462" cr="0.0004402" vr="0.9994769" bb="0.0000483" cb="0.0000813" vb="0.9993894" />
+            <tca model="poly3" focal="128" br="-0.0003208" cr="0.0005956" vr="0.9993373" bb="0.0000136" cb="0.0001659" vb="0.9993007" />
+            <tca model="poly3" focal="136" br="-0.0002478" cr="0.0004831" vr="0.9992168" bb="0.0002149" cb="-0.0002975" vb="0.9994873" />
+            <tca model="poly3" focal="144" br="-0.0003296" cr="0.0007404" vr="0.9989345" bb="0.0002767" cb="-0.0003831" vb="0.9994482" />
+            <tca model="poly3" focal="151" br="-0.0004167" cr="0.00084113" vr="0.9989021" bb="0.0002371" cb="-0.0002466" vb="0.9993190" />
+            <tca model="poly3" focal="158" br="-0.0003654" cr="0.0007633" vr="0.9988054" bb="0.0002777" cb="-0.0002939" vb="0.9992661" />
+            <tca model="poly3" focal="166" br="-0.0003434" cr="0.0007445" vr="0.9987393" bb="0.0002284" cb="-0.0001623" vb="0.9991666" />
+            <tca model="poly3" focal="171" br="-0.0003770" cr="0.0010373" vr="0.9982450" bb="0.0002746" cb="-0.0003666" vb="0.9993719" />
+            <tca model="poly3" focal="175" br="-0.0002354" cr="0.0007147" vr="0.9984138" bb="0.0002058" cb="-0.0001702" vb="0.9992057" />
+            <tca model="poly3" focal="184" br="-0.0001451" cr="0.0005013" vr="0.9984561" bb="0.0002734" cb="-0.0002731" vb="0.9991873" />
+            <tca model="poly3" focal="189" br="-0.0002848" cr="0.0007834" vr="0.9983149" bb="0.0002174" cb="-0.0001037" vb="0.9990331" />
+            <tca model="poly3" focal="195" br="-0.0003179" cr="0.0009810" vr="0.9980567" bb="0.0003163" cb="-0.0003625" vb="0.9991786" />
+            <tca model="poly3" focal="200" br="-0.0001336" cr="0.0006505" vr="0.9981137" bb="0.0002790" cb="-0.0003193" vb="0.9992274" />
+        </calibration>
+    </lens>
+
+
+
+    <lens>
+        <maker>Panasonic</maker>
+        <model>LUMIX G VARIO 14-42/F3.5-5.6</model>
+        <mount>Micro 4/3 System</mount>
+        <focal>14-42</focal>
+        <aperture>3.5-22</aperture>
+        <type>rectilinear</type>
+        <cropfactor>2</cropfactor>
+        <calibration>
+            <distortion model="ptlens" focal="14" a="0.040" b="-0.121" c="0.038" />
+            <distortion model="ptlens" focal="20" a="0.020" b="-0.060" c="0.035" />
+            <distortion model="ptlens" focal="29" a="0.013" b="-0.029" c="0.016" />
+            <distortion model="ptlens" focal="36" a="0.015" b="-0.034" c="0.032" />
+            <distortion model="ptlens" focal="42" a="0.003" b="-0.001" c="0.002" />
+        </calibration>
+    </lens>
+
+</lensdatabase>
