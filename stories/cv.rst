@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-19 17:05:32
+.. date: 2013-04-19 17:06:26
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -61,7 +61,7 @@ CLVAF
 
 Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)
 
-The CLVAF uses the power of GPGPU to calculate autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactors including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
+The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactors including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
 MPITools
 ~~~~~~~~
