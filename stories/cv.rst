@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-19 22:28:51
+.. date: 2013-04-19 22:29:50
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -39,7 +39,7 @@ PROJECT
 
 The following softwares were developed by me and can be modified and distributed under GNU License (GPL). Please click each headline to the corresponding github pages.
 
-`CLVAF`_  <- (Click)
+`CLVAF`_
 ~~~~~~~~~
 
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
