@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae
 .. slug: cv
-.. date: 2013-04-19 15:58:23
+.. date: 2013-04-19 16:08:13
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -110,7 +110,7 @@ Chinese Translation of Phet Project in Physics.
 
 .. 超連結(URL)目的區
 
-.. _ICOS 2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
+.. _ICOS2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
 
 .. _Presentation: ../../arch_2013/archives/2013/icos2009.pdf
 
