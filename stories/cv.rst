@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 00:16:20
+.. date: 2013-04-20 00:24:34
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -16,9 +16,9 @@ Curriculum Vitae - Po-Jen Hsu / 許伯任
 
 Name: **Po-Jen Hsu / 許伯任**
 
-Email   clusterga@gmail.com
+Email"   clusterga@gmail.com
 
-Tel     +886-952-335534
+Tel:     +886-952-335534
 
 __________________________________________________
 
@@ -92,7 +92,7 @@ Constructor and maintainer of PC clusters and mail/web servers in `Prof. San-Kio
 
 `Best Team Presentation Award <../../arch_2013/files_2013/cv/hope_award.jpg>`_, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
-Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
+Main [#]_ speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
 
 Chinese Translation of Phet Project in Physics.
 
@@ -132,7 +132,7 @@ _________________________________________________
 PUBLICATIONS
 ------------------
 
-#. Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
+.. [#] Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
 
 #. Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “`Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_"
 
