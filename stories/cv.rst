@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-19 17:08:11
+.. date: 2013-04-19 19:38:56
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -34,34 +34,17 @@ B.S. in Physics, National Central University (1996 - 2000)
 
 ___________________________________________________
 
-RESEARCH INTERESTS
--------------------
-
-#. Parallel computing for large scale problems
-
-#. Time series segmentation and clustering
-
-#. Optimization technique
-
-#. Dynamical system
-
-#. Software Engineering
-
-#. Open Source education and programming
-
-_________________________________________________
-
 PROJECT 
 -------
 
-The following softwares were developed by me. I'm also in charge of construction and maintenance of PC clusters and web/mail servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
+The following softwares were developed by me and can be modified and distributed under GNU License (GPL).
 
 CLVAF
 ~~~~~
 
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
 
-The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactors including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
+The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
 MPITools
 ~~~~~~~~
@@ -82,7 +65,7 @@ PTMD
 
 *Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)*
 
-The PTMD is an implementation of the software engineering. It combinds analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interuption. Most analyzers were designed for time series clustering and molecular shape analysis.
+The PTMD is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
 
 DTools
 ~~~~~~
@@ -98,12 +81,14 @@ TCOM
 
 I designed TCOM to generate the vector autocorrelation function for diffusion theory. Later, I wrote CLVAF with GPGPU implemented.
 
-I also use matlab and python for light-weight computation.
+I also use matlab and python for light-weight computation.  in charge of construction and maintenance of PC clusters and web/mail servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
 
 ___________________________________________
 
 OTHER INFORMATION
 -----------------------
+
+Constructor and maintainer of PC clusters and mail/web servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
 
 Best Team Presentation Award, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
