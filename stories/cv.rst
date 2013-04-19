@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae
 .. slug: cv
-.. date: 2013-04-19 16:59:13
+.. date: 2013-04-19 17:01:18
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -130,7 +130,7 @@ PUBLICATIONS
 
 #. `Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes" <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_
 
-#. `Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation” <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>'_
+#. `Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation” <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_
 
 #. `S.K. Lai, Y. T. Lin, **P. J. Hsu**, and Siew Ann Cheong, Compt. Phys. Commun. 182, 1013 (2011), “Dynamical study of metallic clusters using the statistical method of time series clustering” <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf>`_
 
