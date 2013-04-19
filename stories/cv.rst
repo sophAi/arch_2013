@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae
 .. slug: cv
-.. date: 2013-04-19 17:01:18
+.. date: 2013-04-19 17:02:04
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -101,7 +101,7 @@ ___________________________________________
 OTHER INFORMATION
 -----------------------
 
-Best Team Presentation Award, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_), 2012, Japan.
+Best Team Presentation Award, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
 Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/archives/icos2009/icos2009.pdf>`_)
 
