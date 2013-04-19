@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-19 22:29:50
+.. date: 2013-04-19 22:30:27
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -53,7 +53,7 @@ The CLVAF uses the power of GPGPU to calculate the autocorrelation function of m
 
 The MPITools has vast functionalities which allow users to construct and deploy the parallel computing in a minute. It's written in shell script to achieve the highest platform transferability.
 
-`PTMBHGA`
+`PTMBHGA`_
 ~~~~~~~~~~~~
 
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
