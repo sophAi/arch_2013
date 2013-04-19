@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-19 17:03:56
+.. date: 2013-04-19 17:04:59
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -23,6 +23,8 @@ Tel     +886-952-335534
 __________________________________________________
 
 Ph.D Candidate, TIGP, IAMS, Academia Sinica (2008 - Now)
+
+Research Assistant in Physics, National Central University (2005 - 2008)
 
 Military Service (2003 - 2005) 
 
