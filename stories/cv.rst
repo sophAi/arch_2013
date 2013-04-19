@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 00:00:52
+.. date: 2013-04-20 00:11:23
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -37,45 +37,45 @@ ___________________________________________________
 PROJECT 
 -------
 
-The following softwares were developed by me and can be modified and distributed under GNU License (GPL).
+The following softwares were developed by me and can be modified and distributed under GNU License (GPL). Please click each headline to the corresponding github pages.
 
-CL-VAF
-~~~~~~
+`CLVAF`_
+~~~~~~~~~
 
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
 
 The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
-MPI-Tools
-~~~~~~~~~
+`MPITools`_
+~~~~~~~~~~~~~~
 
 *MPICH Tools (Shell Script)*
 
 The MPITools has vast functionalities which allow users to construct and deploy the parallel computing in a minute. It's written in shell script to achieve the highest platform transferability.
 
-PTMBHGA
-~~~~~~~
+`PTMBHGA`_
+~~~~~~~~~~~~
 
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
 
 The PTMBHGA is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, Simulating Annealing, Basing-Hopping, and Multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
-PTMD
-~~~~
+`PTMD`_
+~~~~~~~~~~
 
 *Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)*
 
 The PTMD is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
 
-D-Tools
-~~~~~~~~
+`DTools`_
+~~~~~~~~~~~~~~
 
 *Tools for Diffusion Theory (C/C++)*
 
 The Dtools helps researchers to reduce the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. Rapallo. 
 
-TCOM
-~~~~
+`TCOM`_
+~~~~~~~~~
 
 *Vector Autocorrelation Function with MPICH (MPICH/Fortran)*
 
@@ -90,9 +90,9 @@ OTHER INFORMATION
 
 Constructor and maintainer of PC clusters and mail/web servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
 
-Best Team Presentation Award, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
+`Best Team Presentation Award <../../arch_2013/galleries/cv/hope_award.jpg>`_, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
-Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/archives/icos2009/icos2009.pdf>`_)
+Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/galleries/cv/icos2009.pdf>`_)
 
 Chinese Translation of Phet Project in Physics.
 
@@ -108,7 +108,22 @@ Chinese Translation of Phet Project in Physics.
 
 .. 超連結(URL)目的區
 
+.. _CLVAF: https://github.com/sophAi/clvaf.git
+
+.. _MPITools: https://github.com/sophAi/mpitool.git
+
+.. _PTMBHGA: https://github.com/sophAi/ptmbhga.git
+
+.. _PTMD: https://github.com/sophAi/ptmd.git
+
+.. _DTools: https://github.com/sophAi/dtool.git
+
+.. _TCOM: https://github.com/sophAi/tcom.git
+
 .. _ICOS2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
+
+
+
 
 .. 註腳(Footnote)與引用(Citation)區
 
