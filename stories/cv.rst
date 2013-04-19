@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 00:24:34
+.. date: 2013-04-20 00:28:15
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -42,7 +42,7 @@ The following softwares were developed by me and can be modified and distributed
 `CL-VAF`_
 ~~~~~~~~~~~
 
-*Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
+*Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)* :sup:`1,2`
 
 The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
@@ -132,7 +132,7 @@ _________________________________________________
 PUBLICATIONS
 ------------------
 
-.. [#] Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
+#. Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
 
 #. Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “`Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_"
 
