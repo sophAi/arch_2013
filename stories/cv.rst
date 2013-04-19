@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 00:28:15
+.. date: 2013-04-20 00:28:52
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -92,7 +92,7 @@ Constructor and maintainer of PC clusters and mail/web servers in `Prof. San-Kio
 
 `Best Team Presentation Award <../../arch_2013/files_2013/cv/hope_award.jpg>`_, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
-Main [#]_ speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
+Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
 
 Chinese Translation of Phet Project in Physics.
 
