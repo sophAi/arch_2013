@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae
 .. slug: cv
-.. date: 2013-04-19 16:08:13
+.. date: 2013-04-19 16:41:40
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -13,6 +13,8 @@ Curriculum Vitae - Po-Jen Hsu / 許伯任
 *********************************************
 
 .. 文章起始CONTACT INFORMATION
+
+Name: **Po-Jen Hsu / 許伯任**
 
 Email   clusterga@gmail.com
 
@@ -48,7 +50,7 @@ RESEARCH INTERESTS
 PROJECT 
 -------
 
-The following softwares were developed by me. I'm also in charge of the construction and maintenance of PC clusters and web/mail servers in Prof. San-Kiong Lai's Lab.
+The following softwares were developed by me. I'm also in charge of the construction and maintenance of PC clusters and web/mail servers in Prof. San-Kiong Lai's Lab. (`site` <http://www.phy.ncu.edu.tw/~cplx/index.html>_)
 
 CLVAF
 ~~~~~
@@ -99,20 +101,25 @@ ___________________________________________
 OTHER INFORMATION
 -----------------------
 
-Best Team Presentation Award, Hope Meeting 2012, Japan.
+Best Team Presentation Award, 4th Hope Meeting, 2012, Japan. (`link <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_)
 
-Main speaker of Open Source in Physics in `ICOS2009`_. (`Presentation`_)
+Main speaker of Open Source in Physics in `ICOS2009`_. (`pdf <../../arch_2013/archives/icos2009/icos2009.pdf>`_)
 
 Chinese Translation of Phet Project in Physics.
 
+#. Davission-Germer Experiment (`link <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_)
+#. Stern-Gerlach Experiment (`link <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_)
+#. Quantum Wave Interference (`link <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_)
+#. Quantum Tunneling (`link <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_)
+#. Quantum Bound States (`link <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_)
+#. Covalent bonds (`link <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_)
+#. Band Structure (`link <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_)
 
 .. 文章結尾
 
 .. 超連結(URL)目的區
 
 .. _ICOS2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
-
-.. _Presentation: ../../arch_2013/archives/2013/icos2009.pdf
 
 .. 註腳(Footnote)與引用(Citation)區
 
@@ -121,18 +128,20 @@ _________________________________________________
 PUBLICATIONS
 ------------------
 
-#. Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and P.J. Hsu, J. Chem. Phys. 135, 094302 (2011), “Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation”
+#. Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes" (`pdf <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_)
 
-#. S.K. Lai, Y. T. Lin, P. J. Hsu, and Siew Ann Cheong, Compt. Phys. Commun. 182, 1013 (2011), “Dynamical study of metallic clusters using the statistical method of time series clustering”
+#. Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation”
 
-#. Tsung-Wen Yen, P.J. Hsu, and S.K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009), “Melting behavior of noble-metal-based bimetallic clusters”
+#. S.K. Lai, Y. T. Lin, **P. J. Hsu**, and Siew Ann Cheong, Compt. Phys. Commun. 182, 1013 (2011), “Dynamical study of metallic clusters using the statistical method of time series clustering”
 
-#. P.J. Hsu, J.S. Luo, S.K. Lai, J.F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008), “Melting scenario in metallic clusters”
+#. Tsung-Wen Yen, **P.J. Hsu**, and S.K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009), “Melting behavior of noble-metal-based bimetallic clusters”
 
-#. P. J. Hsu and S. K. Lai, J. Chem. Phys. 124, 044711 (2006), “Structure of bimetallic clusters”
+#. **P.J. Hsu**, J.S. Luo, S.K. Lai, J.F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008), “Melting scenario in metallic clusters”
 
-#. L. Zhan, B. Piwowar, W.K. Liu, P. J. Hsu, S.K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004), “Multi-canonical basin-hopping: a new global optimization method for complex systems”
+#. **P. J. Hsu** and S. K. Lai, J. Chem. Phys. 124, 044711 (2006), “Structure of bimetallic clusters”
 
-#. S.K. Lai, P.J. Hsu, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002), “Structures of metallic clusters: mono- and polyvalent metals”
+#. L. Zhan, B. Piwowar, W.K. Liu, **P. J. Hsu**, S.K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004), “Multi-canonical basin-hopping: a new global optimization method for complex systems”
+
+#. S.K. Lai, **P.J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002), “Structures of metallic clusters: mono- and polyvalent metals”
 
 
