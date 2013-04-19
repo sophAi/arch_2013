@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-19 19:54:14
+.. date: 2013-04-19 22:23:01
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -39,8 +39,8 @@ PROJECT
 
 The following softwares were developed by me and can be modified and distributed under GNU License (GPL).
 
-CLVAF
-~~~~~
+`CLVAF`_
+~~~~~~~~~
 
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
 
@@ -92,7 +92,7 @@ Constructor and maintainer of PC clusters and mail/web servers in `Prof. San-Kio
 
 Best Team Presentation Award, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
-Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/archives/icos2009/icos2009.pdf>`_)
+Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/galleries/icos2009/icos2009.pdf>`_)
 
 Chinese Translation of Phet Project in Physics.
 
@@ -108,7 +108,12 @@ Chinese Translation of Phet Project in Physics.
 
 .. 超連結(URL)目的區
 
+.. _CLVAF: https://github.com/sophAi/clvaf.git
+
 .. _ICOS2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
+
+
+
 
 .. 註腳(Footnote)與引用(Citation)區
 
