@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae
 .. slug: cv
-.. date: 2013-04-19 16:48:48
+.. date: 2013-04-19 16:53:19
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -103,17 +103,17 @@ OTHER INFORMATION
 
 Best Team Presentation Award, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_), 2012, Japan.
 
-Main speaker of Open Source in Physics in `ICOS2009`_. (`pdf <../../arch_2013/archives/icos2009/icos2009.pdf>`_)
+Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/archives/icos2009/icos2009.pdf>`_)
 
 Chinese Translation of Phet Project in Physics.
 
-#. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_)
-#. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_)
-#. `Quantum Wave Interference <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_)
-#. `Quantum Tunneling <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_)
-#. `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_)
-#. Covalent bonds (`link <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_)
-#. Band Structure (`link <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_)
+#. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
+#. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
+#. `Quantum Wave Interference <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_
+#. `Quantum Tunneling <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_
+#. `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
+#. `Covalent bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
+#. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
 .. 文章結尾
 
@@ -128,7 +128,7 @@ _________________________________________________
 PUBLICATIONS
 ------------------
 
-#. `Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes" <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_)
+#. `Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes" <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_
 
 #. Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation”
 
