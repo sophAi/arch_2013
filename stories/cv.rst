@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 00:11:23
+.. date: 2013-04-20 00:16:20
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -39,14 +39,14 @@ PROJECT
 
 The following softwares were developed by me and can be modified and distributed under GNU License (GPL). Please click each headline to the corresponding github pages.
 
-`CLVAF`_
-~~~~~~~~~
+`CL-VAF`_
+~~~~~~~~~~~
 
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
 
 The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
-`MPITools`_
+`MPI-Tools`_
 ~~~~~~~~~~~~~~
 
 *MPICH Tools (Shell Script)*
@@ -67,7 +67,7 @@ The PTMBHGA is a combination of several state-of-art optimization techniques, in
 
 The PTMD is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
 
-`DTools`_
+`D-Tools`_
 ~~~~~~~~~~~~~~
 
 *Tools for Diffusion Theory (C/C++)*
@@ -90,9 +90,9 @@ OTHER INFORMATION
 
 Constructor and maintainer of PC clusters and mail/web servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
 
-`Best Team Presentation Award <../../arch_2013/galleries/cv/hope_award.jpg>`_, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
+`Best Team Presentation Award <../../arch_2013/files_2013/cv/hope_award.jpg>`_, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
-Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/galleries/cv/icos2009.pdf>`_)
+Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
 
 Chinese Translation of Phet Project in Physics.
 
@@ -108,15 +108,15 @@ Chinese Translation of Phet Project in Physics.
 
 .. 超連結(URL)目的區
 
-.. _CLVAF: https://github.com/sophAi/clvaf.git
+.. _CL-VAF: https://github.com/sophAi/clvaf.git
 
-.. _MPITools: https://github.com/sophAi/mpitool.git
+.. _MPI-Tools: https://github.com/sophAi/mpitool.git
 
 .. _PTMBHGA: https://github.com/sophAi/ptmbhga.git
 
 .. _PTMD: https://github.com/sophAi/ptmd.git
 
-.. _DTools: https://github.com/sophAi/dtool.git
+.. _D-Tools: https://github.com/sophAi/dtool.git
 
 .. _TCOM: https://github.com/sophAi/tcom.git
 
