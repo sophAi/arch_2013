@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae
 .. slug: cv
-.. date: 2013-04-19 17:02:04
+.. date: 2013-04-19 17:03:26
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -50,7 +50,7 @@ RESEARCH INTERESTS
 PROJECT 
 -------
 
-The following softwares were developed by me. I'm also in charge of the construction and maintenance of PC clusters and web/mail servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
+The following softwares were developed by me. I'm also in charge of construction and maintenance of PC clusters and web/mail servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
 
 CLVAF
 ~~~~~
