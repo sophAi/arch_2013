@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 00:28:52
+.. date: 2013-04-20 16:32:07
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -43,6 +43,11 @@ The following softwares were developed by me and can be modified and distributed
 ~~~~~~~~~~~
 
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)* :sup:`1,2`
+
+.. image:: ../../arch_2013/files_2013/cv/gpu_performance.png
+   :width: 240
+   :target: self
+   :title: Performance of CL-VAF
 
 The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
