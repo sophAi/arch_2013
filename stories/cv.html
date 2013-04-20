@@ -51,12 +51,12 @@
 <p>The following softwares were developed by me and can be modified and distributed under GNU License (GPL). Please click each headline to the corresponding github pages.</p>
 <div class="section" id="cl-vaf">
 <h3><a class="reference external" href="https://github.com/sophAi/clvaf.git">CL-VAF</a></h3>
-<p><em>Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)</em> <sup>1,2</sup></p>
+<p><em>Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)</em></p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/gpu_performance.png"><img alt="../../arch_2013/files_2013/cv/gpu_performance.png" src="../../arch_2013/files_2013/cv/gpu_performance.png" style="width: 360px;"></a>
-<p>Performance of CL-VAF.</p>
+<p>Performance of CL-VAF. (click to enlarge)</p>
 <a class="reference external image-reference" href="../..//arch_2013/files_2013/cv/clvaf.png"><img alt="../../arch_2013/files_2013/cv/clvaf.png" src="../../arch_2013/files_2013/cv/clvaf.png" style="width: 360px;"></a>
-<p>Three steps of deposition of data for GPGPU. For a time series of vectors, (a) load data to odd and even buffer sequencially (c). (b) Assign the calculation for each work item in GPU.</p>
-<p>The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.</p>
+<p>Three steps of deposition of data for GPGPU. For a time series of vectors, (a) load data to odd and even buffer sequencially (c). (b) Assign the calculation for each work item in GPU. (click to enlarge)</p>
+<p>The CLVAF [<a class="reference internal" href="cv.html#id8">1</a>] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.</p>
 </div>
 <div class="section" id="mpi-tools">
 <h3><a class="reference external" href="https://github.com/sophAi/mpitool.git">MPI-Tools</a></h3>
@@ -67,12 +67,14 @@
 <h3><a class="reference external" href="https://github.com/sophAi/ptmbhga.git">PTMBHGA</a></h3>
 <p><em>Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)</em></p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmbhga.png"><img alt="../../arch_2013/files_2013/cv/ptmbhga.png" src="../../arch_2013/files_2013/cv/ptmbhga.png" style="width: 360px;"></a>
+<p>Framework of PTMBHGA. (click to enlarge)</p>
 <p>The PTMBHGA is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, Simulating Annealing, Basing-Hopping, and Multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.</p>
 </div>
 <div class="section" id="ptmd">
 <h3><a class="reference external" href="https://github.com/sophAi/ptmd.git">PTMD</a></h3>
 <p><em>Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)</em></p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmd.png"><img alt="../../arch_2013/files_2013/cv/ptmd.png" src="../../arch_2013/files_2013/cv/ptmd.png" style="width: 360px;"></a>
+<p>Framework of PTMD. (click to enlarge)</p>
 <p>The PTMD is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.</p>
 </div>
 <div class="section" id="d-tools">
@@ -103,6 +105,9 @@
 </ol><!-- 文章結尾 --><!-- 超連結(URL)目的區 --><!-- 註腳(Footnote)與引用(Citation)區 --></div>
 <hr class="docutils"><div class="section" id="publications">
 <h2>PUBLICATIONS</h2>
+<div class="system-message" id="id8">
+<p class="system-message-title">System Message: WARNING/2 (<tt class="docutils">&lt;string&gt;</tt>, line 159)</p>
+Explicit markup ends without a blank line; unexpected unindent.</div>
 <ol class="arabic simple"><li>Ping-Han Tang, Ten-Ming Wu, <strong>P.J.Hsu</strong>, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "<a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf">Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes</a>"</li>
 <li>Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and <strong>P.J. Hsu</strong>, J. Chem. Phys. 135, 094302 (2011), “<a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf">Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation</a>"</li>
 <li>S.K. Lai, Y. T. Lin, <strong>P. J. Hsu</strong>, and Siew Ann Cheong, Compt. Phys. Commun. 182, 1013 (2011), “<a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf">Dynamical study of metallic clusters using the statistical method of time series clustering</a>"</li>
