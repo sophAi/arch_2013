@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 16:56:52
+.. date: 2013-04-20 17:01:15
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -42,21 +42,21 @@ The following softwares were developed by me and can be modified and distributed
 `CL-VAF`_
 ~~~~~~~~~~~
 
-*Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)* :sup:`1,2`
+*Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
 
 .. image:: ../../arch_2013/files_2013/cv/gpu_performance.png
    :width: 360
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
-Performance of CL-VAF.
+Performance of CL-VAF. (click to enlarge)
 
 .. image:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 360
    :target: ../..//arch_2013/files_2013/cv/clvaf.png
 
-Three steps of deposition of data for GPGPU. For a time series of vectors, (a) load data to odd and even buffer sequencially (c). (b) Assign the calculation for each work item in GPU.
+Three steps of deposition of data for GPGPU. For a time series of vectors, (a) load data to odd and even buffer sequencially (c). (b) Assign the calculation for each work item in GPU. (click to enlarge)
 
-The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
+The CLVAF [`1`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
 `MPI-Tools`_
 ~~~~~~~~~~~~~~
@@ -74,6 +74,8 @@ The MPITools has vast functionalities which allow users to construct and deploy 
    :width: 360
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
+Framework of PTMBHGA. (click to enlarge)
+
 The PTMBHGA is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, Simulating Annealing, Basing-Hopping, and Multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
 `PTMD`_
@@ -84,6 +86,8 @@ The PTMBHGA is a combination of several state-of-art optimization techniques, in
 .. image:: ../../arch_2013/files_2013/cv/ptmd.png
    :width: 360
    :target: ../../arch_2013/files_2013/cv/ptmd.png
+
+Framework of PTMD. (click to enlarge)
 
 The PTMD is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
 
@@ -116,7 +120,7 @@ Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013
 
 Chinese Translation of Phet Project in Physics.
 
-#. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
+#. \ .. _1:\ `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
 #. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
 #. `Quantum Wave Interference <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_
 #. `Quantum Tunneling <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_
