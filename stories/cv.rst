@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 16:54:37
+.. date: 2013-04-20 16:56:52
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -48,12 +48,13 @@ The following softwares were developed by me and can be modified and distributed
    :width: 360
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
-Performance of CL-VAF
+Performance of CL-VAF.
 
 .. image:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 360
    :target: ../..//arch_2013/files_2013/cv/clvaf.png
-   :title: Three steps of deposition of data for GPGPU. For a time series of vectors, (a) load data to odd and even buffer sequencially (c). (b) Assign the calculation for each work item in GPU.
+
+Three steps of deposition of data for GPGPU. For a time series of vectors, (a) load data to odd and even buffer sequencially (c). (b) Assign the calculation for each work item in GPU.
 
 The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
@@ -69,12 +70,20 @@ The MPITools has vast functionalities which allow users to construct and deploy 
 
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
 
+.. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
+   :width: 360
+   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
+
 The PTMBHGA is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, Simulating Annealing, Basing-Hopping, and Multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
 `PTMD`_
 ~~~~~~~~~~
 
 *Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)*
+
+.. image:: ../../arch_2013/files_2013/cv/ptmd.png
+   :width: 360
+   :target: ../../arch_2013/files_2013/cv/ptmd.png
 
 The PTMD is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
 

@@ -53,9 +53,9 @@
 <h3><a class="reference external" href="https://github.com/sophAi/clvaf.git">CL-VAF</a></h3>
 <p><em>Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)</em> <sup>1,2</sup></p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/gpu_performance.png"><img alt="../../arch_2013/files_2013/cv/gpu_performance.png" src="../../arch_2013/files_2013/cv/gpu_performance.png" style="width: 360px;"></a>
-<p>Performance of CL-VAF</p>
-<a class="reference external image-reference" href="http://sophAi.github.io/arch_2013/files_2013/cv/clvaf.png"><img alt="../../arch_2013/files_2013/cv/clvaf.png" src="../../arch_2013/files_2013/cv/clvaf.png" style="width: 360px;"></a>
-<p>Performance of CL-VAF</p>
+<p>Performance of CL-VAF.</p>
+<a class="reference external image-reference" href="../..//arch_2013/files_2013/cv/clvaf.png"><img alt="../../arch_2013/files_2013/cv/clvaf.png" src="../../arch_2013/files_2013/cv/clvaf.png" style="width: 360px;"></a>
+<p>Three steps of deposition of data for GPGPU. For a time series of vectors, (a) load data to odd and even buffer sequencially (c). (b) Assign the calculation for each work item in GPU.</p>
 <p>The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.</p>
 </div>
 <div class="section" id="mpi-tools">
@@ -66,11 +66,13 @@
 <div class="section" id="ptmbhga">
 <h3><a class="reference external" href="https://github.com/sophAi/ptmbhga.git">PTMBHGA</a></h3>
 <p><em>Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)</em></p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmbhga.png"><img alt="../../arch_2013/files_2013/cv/ptmbhga.png" src="../../arch_2013/files_2013/cv/ptmbhga.png" style="width: 360px;"></a>
 <p>The PTMBHGA is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, Simulating Annealing, Basing-Hopping, and Multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.</p>
 </div>
 <div class="section" id="ptmd">
 <h3><a class="reference external" href="https://github.com/sophAi/ptmd.git">PTMD</a></h3>
 <p><em>Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)</em></p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmd.png"><img alt="../../arch_2013/files_2013/cv/ptmd.png" src="../../arch_2013/files_2013/cv/ptmd.png" style="width: 360px;"></a>
 <p>The PTMD is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.</p>
 </div>
 <div class="section" id="d-tools">
