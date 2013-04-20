@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 17:05:31
+.. date: 2013-04-20 17:06:26
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -160,18 +160,26 @@ PUBLICATIONS
 
 #. Ping-Han Tang, Ten-Ming Wu, **P.J.Hsu**, S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
 
+.. _2:
+
 #. Ping-Han Tang, Ten-Ming Wu, Tsung-Wen Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “`Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_"
 
+.. _3:
 #. S.K. Lai, Y. T. Lin, **P. J. Hsu**, and Siew Ann Cheong, Compt. Phys. Commun. 182, 1013 (2011), “`Dynamical study of metallic clusters using the statistical method of time series clustering <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf>`_"
 
+.. _4:
 #. Tsung-Wen Yen, **P.J. Hsu**, and S.K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009), “`Melting behavior of noble-metal-based bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf>`_"
 
+.. _5:
 #. **P.J. Hsu**, J.S. Luo, S.K. Lai, J.F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008), “`Melting scenario in metallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf>`_"
 
+.. _6:
 #. **P. J. Hsu** and S. K. Lai, J. Chem. Phys. 124, 044711 (2006), “`Structure of bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf>`_"
 
+.. _7:
 #. L. Zhan, B. Piwowar, W.K. Liu, **P. J. Hsu**, S.K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004), “`Multi-canonical basin-hopping: a new global optimization method for complex systems <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf>`_"
 
+.. _8:
 #. S.K. Lai, **P.J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002), “`Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_"
 
 
