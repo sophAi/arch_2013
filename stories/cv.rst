@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-20 16:50:18
+.. date: 2013-04-20 16:54:37
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -52,9 +52,8 @@ Performance of CL-VAF
 
 .. image:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 360
-   :target: http://sophAi.github.io/arch_2013/files_2013/cv/clvaf.png
-
-Performance of CL-VAF
+   :target: ../..//arch_2013/files_2013/cv/clvaf.png
+   :title: Three steps of deposition of data for GPGPU. For a time series of vectors, (a) load data to odd and even buffer sequencially (c). (b) Assign the calculation for each work item in GPU.
 
 The CLVAF uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
 
