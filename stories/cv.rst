@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 15:23:46
+.. date: 2013-04-21 15:33:01
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -117,9 +117,9 @@ OTHER INFORMATION
 
 * `Best Team Presentation Award <../../arch_2013/files_2013/cv/hope_award.jpg>`_, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
-* Main speaker of Open Source in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
+* Main speaker of open sources in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
 
-* Chinese Translation of Phet Project in Physics.
+* Chinese translations of Phet education project in Physics.
 
   #. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
   #. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
@@ -129,7 +129,7 @@ OTHER INFORMATION
   #. `Covalent bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
-* Open Source and parallel computing lectures.
+* Open source and parallel computing lectures.
 
 .. 文章結尾
 
