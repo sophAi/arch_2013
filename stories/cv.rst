@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 14:17:48
+.. date: 2013-04-21 14:25:32
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -65,19 +65,6 @@ The CLVAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the auto
 
 The MPITools has vast functionalities which allow users to construct and deploy the parallel computing in a minute. It's written in shell script to achieve the highest platform transferability.
 
-`PTMBHGA`_
-~~~~~~~~~~~~
-
-*Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
-
-.. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 360
-   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
-
-Framework of PTMBHGA. (click to enlarge)
-
-The PTMBHGA is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, Simulating Annealing, Basing-Hopping, and Multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
-
 `PTMD`_
 ~~~~~~~~~~
 
@@ -89,21 +76,35 @@ The PTMBHGA is a combination of several state-of-art optimization techniques, in
 
 Framework of PTMD. (click to enlarge)
 
-The PTMD is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
+The PTMD [`1`_\ -\ `5`_] is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
+
+`PTMBHGA`_
+~~~~~~~~~~~~
+
+*Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
+
+.. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
+   :width: 360
+   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
+
+Framework of PTMBHGA. (click to enlarge)
+
+The PTMBHGA [`6`_, `7`_, `8`_] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, Simulating Annealing, Basing-Hopping, and Multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
+
 
 `D-Tools`_
 ~~~~~~~~~~~~~~
 
 *Tools for Diffusion Theory (C/C++)*
 
-The Dtools helps researchers to reduce the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. Rapallo. 
+The Dtools helps researchers to reduce the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. Arnaldo Rapallo. 
 
 `TCOM`_
 ~~~~~~~~~
 
 *Vector Autocorrelation Function with MPICH (MPICH/Fortran)*
 
-I designed TCOM to generate the vector autocorrelation function for diffusion theory. Later, I wrote CLVAF with GPGPU implemented.
+I designed TCOM [`1`_, `2`_, `4`_, `5`_] to generate the vector autocorrelation function for diffusion theory. Later, I wrote CLVAF with GPGPU implemented.
 
 I also use matlab and python for light-weight computation.  in charge of construction and maintenance of PC clusters and web/mail servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
 
