@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 15:19:00
+.. date: 2013-04-21 15:20:47
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -48,13 +48,13 @@ The following softwares were developed by me and can be modified and distributed
    :width: 360
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
-Performance of CL-VAF. (click on image to enlarge)
+Performance of CL-VAF. (**click on image to enlarge**)
 
 .. image:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 360
    :target: ../..//arch_2013/files_2013/cv/clvaf.png
 
-Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autorrelation function for each work item in GPU (b). (click on image to enlarge)
+Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autorrelation function for each work item in GPU (b). (**click on image to enlarge**)
 
 The CL-VAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project **TCOM** with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the platform transferability. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia machine. The benchmark was made based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.
 
@@ -74,7 +74,7 @@ The MPI-Tools has vast functionalities which allow users to construct and deploy
    :width: 360
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
-Framework of PTMD. (click on image to enlarge)
+Framework of PTMD. (**click on image to enlarge**)
 
 The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It's possible to  run numerical simulations and analyzes the results iteratively and automatically. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
 
@@ -87,7 +87,7 @@ The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It's po
    :width: 360
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
-Framework of PTMBHGA. (click on image to enlarge)
+Framework of PTMBHGA. (**click on image to enlarge**)
 
 The PTMBHGA [`6`_, `7`_, `8`_] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
@@ -159,7 +159,7 @@ _________________________________________________
 PUBLICATIONS
 ------------------
 
-(Click on the title to download the paper)
+(**Click on the title to download the paper**)
 
 .. 1. **P.J. Hsu**, S.A. Cheong, and S.K. Lai, "Identifying the precursors of protein folding/unfolding using shape recognition and time series methods" (to be submitted)
 
