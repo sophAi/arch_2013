@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 14:29:03
+.. date: 2013-04-21 15:05:54
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -48,22 +48,22 @@ The following softwares were developed by me and can be modified and distributed
    :width: 360
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
-Performance of CL-VAF. (click to enlarge)
+Performance of CL-VAF. (click image to enlarge)
 
 .. image:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 360
    :target: ../..//arch_2013/files_2013/cv/clvaf.png
 
-Three steps of deposition of data for GPGPU. For a time series of vectors (a), load data to odd and even buffer sequencially (c). Then, assign the vector autorrelation calculations for each work item in GPU (b). (click image to enlarge)
+Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autorrelation function for each work item in GPU (b). (click image to enlarge)
 
-The CLVAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. I choosed OpenCL instead of CUDA for the best platform transferability. The OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), and so on, and is as efficient as CUDA. In the latest CUDA toolkit, the OpenCL is natively supported.
+The CL-VAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project **TCOM** with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the platform transferability. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia machine. The benchmark was made based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.
 
 `MPI-Tools`_
 ~~~~~~~~~~~~~~
 
 *MPICH Tools (Shell Script)*
 
-The MPITools has vast functionalities which allow users to construct and deploy the parallel computing in a minute. It's written in shell script to achieve the highest platform transferability.
+The MPI-Tools has vast functionalities which allow users to construct and deploy the parallel computing in a minute. It's written in shell script to achieve the highest platform transferability.
 
 `PTMD`_
 ~~~~~~~~~~
@@ -74,9 +74,9 @@ The MPITools has vast functionalities which allow users to construct and deploy 
    :width: 360
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
-Framework of PTMD. (click to enlarge)
+Framework of PTMD. (click image to enlarge)
 
-The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
+The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It's possible to  run numerical simulations and analyzes the results iteratively and automatically. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
 
 `PTMBHGA`_
 ~~~~~~~~~~~~
@@ -87,9 +87,9 @@ The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It comb
    :width: 360
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
-Framework of PTMBHGA. (click to enlarge)
+Framework of PTMBHGA. (click image to enlarge)
 
-The PTMBHGA [`6`_, `7`_, `8`_] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, Simulating Annealing, Basing-Hopping, and Multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
+The PTMBHGA [`6`_, `7`_, `8`_] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
 
 `D-Tools`_
@@ -97,23 +97,23 @@ The PTMBHGA [`6`_, `7`_, `8`_] is a combination of several state-of-art optimiza
 
 *Tools for Diffusion Theory (C/C++)*
 
-The Dtools helps researchers to reduce the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. Arnaldo Rapallo. 
+The D-tools helps reducing the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. Arnaldo Rapallo. 
 
 `TCOM`_
 ~~~~~~~~~
 
 *Vector Autocorrelation Function with MPICH (MPICH/Fortran)*
 
-I designed TCOM [`1`_, `2`_, `4`_, `5`_] to generate the vector autocorrelation function for diffusion theory. Later, I wrote CLVAF with GPGPU implemented.
+The TCOM [`1`_, `2`_, `4`_, `5`_] is an MPICH version of vector autocorrelation calculation. Later, I wrote CL-VAF with GPGPU implemented.
 
-I also use matlab and python for light-weight computation.  in charge of construction and maintenance of PC clusters and web/mail servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
+I also use matlab and python for light-weight computation and figure organization. 
 
 ___________________________________________
 
 OTHER INFORMATION
 -----------------------
 
-Constructor and maintainer of PC clusters and mail/web servers in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
+Constructor and maintainer of PC clusters (Linux/Unix) and mail/subversion (SVN/Git) system in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
 
 `Best Team Presentation Award <../../arch_2013/files_2013/cv/hope_award.jpg>`_, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
@@ -128,6 +128,8 @@ Chinese Translation of Phet Project in Physics.
 #. `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
 #. `Covalent bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
 #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
+
+Open Source and parallel computing lectures.
 
 .. 文章結尾
 
