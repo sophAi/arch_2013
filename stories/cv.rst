@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 15:20:47
+.. date: 2013-04-21 15:22:36
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -37,7 +37,7 @@ ___________________________________________________
 PROJECT 
 -------
 
-The following softwares were developed by me and can be modified and distributed under GNU License (GPL). **Click on each subtitle will lead you to the corresponding github repositories**. 
+The following softwares were developed by me and can be modified and distributed under GNU License (GPL). **Clicking on each subtitle will lead you to the corresponding GitHub repository**. 
 
 `CL-VAF`_
 ~~~~~~~~~~~
