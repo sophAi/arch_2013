@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 14:25:32
+.. date: 2013-04-21 14:29:03
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -76,7 +76,7 @@ The MPITools has vast functionalities which allow users to construct and deploy 
 
 Framework of PTMD. (click to enlarge)
 
-The PTMD [`1`_\ -\ `5`_] is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
+The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It combines analyzer and numerical simulation so the program can analyze the results produced by the latter automatically. During the first and the second year of my Ph.D career, it produced and analyzed more than 10TB data without interruption. Most analyzers were designed for time series clustering and molecular shape analysis.
 
 `PTMBHGA`_
 ~~~~~~~~~~~~
