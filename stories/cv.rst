@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 16:06:41
+.. date: 2013-04-21 16:07:57
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -34,8 +34,8 @@ B.S. in Physics, National Central University (1996 - 2000)
 
 ___________________________________________________
 
-PROJECT 
--------
+PROJECTS 
+--------
 
 The following softwares were developed by me and can be modified and distributed under GNU License (GPL). (**Click on each subtitle to the corresponding GitHub repository**) 
 
