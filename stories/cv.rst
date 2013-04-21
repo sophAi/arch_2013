@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 16:30:17
+.. date: 2013-04-21 17:59:46
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -56,7 +56,7 @@ Performance of CL-VAF. (**click on image to enlarge**)
 
 Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autorrelation function to each work item in GPU (b). (**click on image to enlarge**)
 
-The CL-VAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project `TCOM`_ with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the cross-platform compatibility. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia machine. The benchmark is based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.
+The CL-VAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project `TCOM`_ with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the cross-platform compatibility. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia device. The benchmark is based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.
 
 `MPI-Tools`_
 ~~~~~~~~~~~~~~
@@ -113,13 +113,13 @@ ___________________________________________
 OTHER INFORMATION
 -----------------------
 
-* Constructor and maintainer of PC clusters (Linux/Unix) and mail/subversion (SVN/Git) system in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
+* Constructor and maintainer of PC clusters (Linux/Unix) and mail/version control (SVN/Git) system in `Prof. San-Kiong Lai's Lab <http://www.phy.ncu.edu.tw/~cplx/index.html>`_.
 
 * `Best Team Presentation Award <../../arch_2013/files_2013/cv/hope_award.jpg>`_, `4th Hope Meeting <http://www.jsps.go.jp/english/e-hope/gaiyou4.html>`_, 2012, Japan.
 
-* Main speaker of open sources in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
+* Main speaker of open sources in physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
 
-* Chinese translations of PhET education project in Physics.
+* Chinese translations of PhET education project in physics.
 
   #. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
   #. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
@@ -129,7 +129,7 @@ OTHER INFORMATION
   #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
-* Open source and parallel computing lectures.
+* Applied statistical physics and parallel computing lectures.
 
 .. 文章結尾
 
