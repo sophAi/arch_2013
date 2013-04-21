@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 15:33:01
+.. date: 2013-04-21 15:34:17
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -16,7 +16,7 @@ Curriculum Vitae - Po-Jen Hsu / 許伯任
 
 Name: **Po-Jen Hsu / 許伯任**
 
-Email"   clusterga@gmail.com
+Email:   clusterga@gmail.com
 
 Tel:     +886-952-335534
 
