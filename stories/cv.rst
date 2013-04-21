@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 16:02:54
+.. date: 2013-04-21 16:06:41
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -126,7 +126,7 @@ OTHER INFORMATION
   #. `Quantum Wave Interference <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_
   #. `Quantum Tunneling <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_
   #. `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
-  #. `Covalent bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
+  #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
 * Open source and parallel computing lectures.
