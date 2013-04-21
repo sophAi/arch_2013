@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 16:13:30
+.. date: 2013-04-21 16:30:17
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -119,7 +119,7 @@ OTHER INFORMATION
 
 * Main speaker of open sources in Physics in `ICOS2009`_. (`slides <../../arch_2013/files_2013/cv/icos2009.pdf>`_)
 
-* Chinese translations of Phet education project in Physics.
+* Chinese translations of PhET education project in Physics.
 
   #. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
   #. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
