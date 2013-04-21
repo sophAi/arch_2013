@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 15:11:59
+.. date: 2013-04-21 15:12:57
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -158,6 +158,8 @@ _________________________________________________
 
 PUBLICATIONS
 ------------------
+
+(Click on the title to download the paper)
 
 .. 1. **P.J. Hsu**, S.A. Cheong, and S.K. Lai, "Identifying the precursors of protein folding/unfolding using shape recognition and time series methods" (to be submitted)
 
