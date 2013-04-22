@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-21 17:59:46
+.. date: 2013-04-22 15:28:13
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -129,7 +129,7 @@ OTHER INFORMATION
   #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
-* Applied statistical physics and parallel computing lectures.
+* Applied statistics and parallel computing lectures.
 
 .. 文章結尾
 
