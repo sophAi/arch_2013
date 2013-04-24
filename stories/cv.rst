@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-22 15:28:13
+.. date: 2013-04-24 14:06:50
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -76,7 +76,7 @@ The MPI-Tools has vast functionalities which allow users to construct and deploy
 
 Framework of PTMD. (**click on image to enlarge**)
 
-The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It's possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
+The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It is designed for big data analysis and is possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
 
 `PTMBHGA`_
 ~~~~~~~~~~~~
