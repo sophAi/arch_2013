@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
-.. slug: cv
-.. date: 2013-04-26 10:56:14
+.. slug: cv_pdf
+.. date: 2013-04-26 11:00:15
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -19,8 +19,6 @@ Name: **Po-Jen Hsu / 許伯任**
 Email:   clusterga@gmail.com
 
 Tel:     +886-952-335534
-
-`(Click me to download the pdf version) <http://sophAi.github.io/arch_2013/file_2013/cv/PoJenHsu_Cv.pdf>`_
 
 __________________________________________________
 
@@ -46,17 +44,17 @@ The following softwares were developed by me and can be modified and distributed
 
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
 
-.. image:: ../../arch_2013/files_2013/cv/gpu_performance.png
-   :width: 360
-   :target: ../../arch_2013/files_2013/cv/gpu_performance.png
+.. image:: http://sophai.github.io/arch_2013/files_2013/cv/gpu_performance.png
+   :width: 1124
+   :target: http://sophai.github.io/arch_2013/files_2013/cv/gpu_performance.png
 
-Performance of CL-VAF. (**click on image to enlarge**)
+Performance of CL-VAF.
 
-.. image:: ../../arch_2013/files_2013/cv/clvaf.png
-   :width: 360
-   :target: ../../arch_2013/files_2013/cv/clvaf.png
+.. image:: http://sophai.github.io/arch_2013/files_2013/cv/clvaf.png
+   :width: 1124
+   :target: http://sophai.github.io/arch_2013/files_2013/cv/clvaf.png
 
-Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autorrelation function to each work item in GPU (b). (**click on image to enlarge**)
+Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autorrelation function to each work item in GPU (b). 
 
 The CL-VAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project `TCOM`_ with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the cross-platform compatibility. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia device. The benchmark is based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.
 
@@ -72,11 +70,11 @@ The MPI-Tools has vast functionalities which allow users to construct and deploy
 
 *Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)*
 
-.. image:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 360
-   :target: ../../arch_2013/files_2013/cv/ptmd.png
+.. image:: http://sophai.github.io/arch_2013/files_2013/cv/ptmd.png
+   :width: 1200
+   :target: http://sophai.github.io/arch_2013/files_2013/cv/ptmd.png
 
-Framework of PTMD. (**click on image to enlarge**)
+Framework of PTMD.
 
 The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It is designed for big data analysis in bioinformatic system and is possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
 
@@ -85,11 +83,11 @@ The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It is d
 
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
 
-.. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 360
-   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
+.. image:: http://sophai.github.io/arch_2013/files_2013/cv/ptmbhga.png
+   :width: 1200
+   :target: http://sophai.github.io/arch_2013/files_2013/cv/ptmbhga.png
 
-Framework of PTMBHGA. (**click on image to enlarge**)
+Framework of PTMBHGA.
 
 The PTMBHGA [`6`_, `7`_, `8`_] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
@@ -171,34 +169,34 @@ REFERENCES
 
 .. _1: 
 
-1. P.H. Tang, T.M. Wu, **P.J. Hsu**, and S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
+[1] P.H. Tang, T.M. Wu, **P.J. Hsu**, and S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
 
 .. _2:
 
-2. P.H. Tang, T.M. Wu, T.W. Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “`Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_"
+[2] P.H. Tang, T.M. Wu, T.W. Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “`Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_"
 
 .. _3:
 
-3. S.K. Lai, Y.T. Lin, **P.J. Hsu**, and S.A. Cheong, Compt. Phys. Commun. 182, 1013 (2011), “`Dynamical study of metallic clusters using the statistical method of time series clustering <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf>`_"
+[3] S.K. Lai, Y.T. Lin, **P.J. Hsu**, and S.A. Cheong, Compt. Phys. Commun. 182, 1013 (2011), “`Dynamical study of metallic clusters using the statistical method of time series clustering <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf>`_"
 
 .. _4:
 
-4. T.W. Yen, **P.J. Hsu**, and S.K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009), “`Melting behavior of noble-metal-based bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf>`_"
+[4] T.W. Yen, **P.J. Hsu**, and S.K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009), “`Melting behavior of noble-metal-based bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf>`_"
 
 .. _5:
 
-5. **P.J. Hsu**, J.S. Luo, S.K. Lai, J.F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008), “`Melting scenario in metallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf>`_"
+[5] **P.J. Hsu**, J.S. Luo, S.K. Lai, J.F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008), “`Melting scenario in metallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf>`_"
 
 .. _6:
 
-6. **P.J. Hsu** and S.K. Lai, J. Chem. Phys. 124, 044711 (2006), “`Structure of bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf>`_"
+[6] **P.J. Hsu** and S.K. Lai, J. Chem. Phys. 124, 044711 (2006), “`Structure of bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf>`_"
 
 .. _7:
 
-7. L. Zhan, B. Piwowar, W.K. Liu, **P.J. Hsu**, S.K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004), “`Multi-canonical basin-hopping: a new global optimization method for complex systems <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf>`_"
+[7] L. Zhan, B. Piwowar, W.K. Liu, **P.J. Hsu**, S.K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004), “`Multi-canonical basin-hopping: a new global optimization method for complex systems <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf>`_"
 
 .. _8:
 
-8. S.K. Lai, **P.J. Hsu**, K.L. Wu, W.K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002), “`Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_"
+[8] S.K. Lai, **P.J. Hsu**, K.L. Wu, W.K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002), “`Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_"
 
 
