@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-26 11:04:24
+.. date: 2013-04-26 11:08:31
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -56,7 +56,7 @@ Performance of CL-VAF. (**click on image to enlarge**)
    :width: 360
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
-Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autorrelation function to each work item in GPU (b). (**click on image to enlarge**)
+Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autocorrelation function to each work item in GPU (b). (**click on image to enlarge**)
 
 The CL-VAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project `TCOM`_ with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the cross-platform compatibility. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia device. The benchmark is based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.
 

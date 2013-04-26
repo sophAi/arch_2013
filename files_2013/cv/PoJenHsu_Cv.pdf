@@ -1512,7 +1512,7 @@ endobj
 % 'R61': class PDFInfo 
 61 0 obj
 << /Author ()
- /CreationDate (D:20130426105335-08'00')
+ /CreationDate (D:20130426110923-08'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -1763,7 +1763,7 @@ endobj
 % 'R74': class PDFStream 
 74 0 obj
 % page stream
-<< /Length 2546 >>
+<< /Length 2550 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -1777,7 +1777,7 @@ q
 1 0 0 1 62.69291 520.5761 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm 1.11811 Tw /F1+0 10 Tf 12 TL (Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors \(a\), load) Tj T* 0 Tw .21528 Tw (data to odd or even buffer sequentially \(c\). Then, assign the vector autorrelation function to each work item) Tj T* 0 Tw (in GPU \(b\).) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.11811 Tw /F1+0 10 Tf 12 TL (Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors \(a\), load) Tj T* 0 Tw 1.026235 Tw (data to odd or even buffer sequentially \(c\). Then, assign the vector autocorrelation function to each work) Tj T* 0 Tw (item in GPU \(b\).) Tj T* ET
 Q
 Q
 q
@@ -2404,21 +2404,21 @@ xref
 0000463426 00000 n
 0000463560 00000 n
 0000466153 00000 n
-0000468798 00000 n
-0000473092 00000 n
-0000479951 00000 n
-0000480083 00000 n
-0000480160 00000 n
-0000480237 00000 n
-0000480314 00000 n
+0000468802 00000 n
+0000473096 00000 n
+0000479955 00000 n
+0000480087 00000 n
+0000480164 00000 n
+0000480241 00000 n
+0000480318 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\232\360\\\332\277[5\341\331Q\031\316\311T\274\373) (\232\360\\\332\277[5\341\331Q\031\316\311T\274\373)] 
+ [(\031\2075-\346\374\245\373p\002\265W\247\000\350\376) (\031\2075-\346\374\245\373p\002\265W\247\000\350\376)] 
 
  /Info 61 0 R
  /Root 60 0 R
  /Size 82 >>
 startxref
-480361
+480365
 %%EOF
