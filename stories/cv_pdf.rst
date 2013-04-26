@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_pdf
-.. date: 2013-04-26 11:08:58
+.. date: 2013-04-26 11:17:59
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -76,7 +76,7 @@ The MPI-Tools has vast functionalities which allow users to construct and deploy
 
 Framework of PTMD.
 
-The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It is designed for big data analysis in bioinformatic system and is possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
+The PTMD [`1`_-\ `5`_\ ] is an implementation of the software engineering. It is designed for big data analysis in bioinformatic system and is possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
 
 `PTMBHGA`_
 ~~~~~~~~~~~~
@@ -89,7 +89,7 @@ The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It is d
 
 Framework of PTMBHGA.
 
-The PTMBHGA [`6`_, `7`_, `8`_] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
+The PTMBHGA [`6`_-\ `8`_\ ] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
 
 `D-Tools`_

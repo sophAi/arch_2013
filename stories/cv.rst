@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-26 11:16:49
+.. date: 2013-04-26 11:18:16
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -91,7 +91,7 @@ The PTMD [`1`_-\ `5`_\ ] is an implementation of the software engineering. It is
 
 Framework of PTMBHGA. (**click on image to enlarge**)
 
-The PTMBHGA [`6`_, `7`_, `8`_] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
+The PTMBHGA [`6`_-\ `8`_\ ] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
 
 `D-Tools`_

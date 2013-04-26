@@ -3,7 +3,7 @@
 % 'BasicFonts': class PDFDictionary 
 1 0 obj
 % The standard fonts dictionary
-<< /F1+0 59 0 R >>
+<< /F1+0 58 0 R >>
 endobj
 % 'Annot.NUMBER1': class PDFDictionary 
 2 0 obj
@@ -54,12 +54,12 @@ endobj
 % Page dictionary
 << /Annots [ 2 0 R
  3 0 R ]
- /Contents 73 0 R
+ /Contents 72 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 72 0 R
+ /Parent 71 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -91,7 +91,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  489.6772
@@ -109,7 +109,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  459.6772
@@ -127,7 +127,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  387.6772
@@ -145,7 +145,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  357.6772
@@ -226,12 +226,12 @@ endobj
  11 0 R
  12 0 R
  13 0 R ]
- /Contents 74 0 R
+ /Contents 73 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 72 0 R
+ /Parent 71 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -250,14 +250,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  489.6772
  0 ]
- /Rect [ 120.6818
+ /Rect [ 121.5288
  735.7736
- 129.2713
+ 126.5188
  747.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -268,14 +268,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  357.6772
  0 ]
- /Rect [ 136.2008
+ /Rect [ 129.8488
  735.7736
- 141.1908
+ 134.8388
  747.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -315,14 +315,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  327.6772
  0 ]
- /Rect [ 142.5629
+ /Rect [ 144.8979
  399.6375
- 147.5529
+ 149.8879
  411.6375 ]
  /Subtype /Link
  /Type /Annot >>
@@ -333,38 +333,20 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
- /XYZ
- 62.69291
- 309.6772
- 0 ]
- /Rect [ 153.7279
- 399.6375
- 158.7179
- 411.6375 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER15': class LinkAnnotation 
-22 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  279.6772
  0 ]
- /Rect [ 164.8928
+ /Rect [ 153.2179
  399.6375
- 169.8828
+ 158.2079
  411.6375 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER16': class PDFDictionary 
-23 0 obj
+% 'Annot.NUMBER15': class PDFDictionary 
+22 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://github.com/sophAi/dtool.git) >>
@@ -378,8 +360,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER17': class PDFDictionary 
-24 0 obj
+% 'Annot.NUMBER16': class PDFDictionary 
+23 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://github.com/sophAi/tcom.git) >>
@@ -393,13 +375,13 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER18': class LinkAnnotation 
-25 0 obj
+% 'Annot.NUMBER17': class LinkAnnotation 
+24 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  489.6772
@@ -411,13 +393,13 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER19': class LinkAnnotation 
-26 0 obj
+% 'Annot.NUMBER18': class LinkAnnotation 
+25 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  459.6772
@@ -429,13 +411,13 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER20': class LinkAnnotation 
-27 0 obj
+% 'Annot.NUMBER19': class LinkAnnotation 
+26 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  387.6772
@@ -447,13 +429,13 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER21': class LinkAnnotation 
-28 0 obj
+% 'Annot.NUMBER20': class LinkAnnotation 
+27 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 54 0 R
  /XYZ
  62.69291
  357.6772
@@ -465,8 +447,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER22': class PDFDictionary 
-29 0 obj
+% 'Annot.NUMBER21': class PDFDictionary 
+28 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/index.html) >>
@@ -481,7 +463,7 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page3': class PDFPage 
-30 0 obj
+29 0 obj
 % Page dictionary
 << /Annots [ 16 0 R
  17 0 R
@@ -494,14 +476,13 @@ endobj
  25 0 R
  26 0 R
  27 0 R
- 28 0 R
- 29 0 R ]
- /Contents 75 0 R
+ 28 0 R ]
+ /Contents 74 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 72 0 R
+ /Parent 71 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -513,8 +494,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER23': class PDFDictionary 
-31 0 obj
+% 'Annot.NUMBER22': class PDFDictionary 
+30 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (file:///home/xanadu/rsync_data/Writings/Blogs/arch_2013/files_2013/cv/hope_award.jpg) >>
@@ -528,8 +509,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER24': class PDFDictionary 
-32 0 obj
+% 'Annot.NUMBER23': class PDFDictionary 
+31 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.jsps.go.jp/english/e-hope/gaiyou4.html) >>
@@ -543,8 +524,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER25': class PDFDictionary 
-33 0 obj
+% 'Annot.NUMBER24': class PDFDictionary 
+32 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10) >>
@@ -558,8 +539,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER26': class PDFDictionary 
-34 0 obj
+% 'Annot.NUMBER25': class PDFDictionary 
+33 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (file:///home/xanadu/rsync_data/Writings/Blogs/arch_2013/files_2013/cv/icos2009.pdf) >>
@@ -573,8 +554,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER27': class PDFDictionary 
-35 0 obj
+% 'Annot.NUMBER26': class PDFDictionary 
+34 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://phet.colorado.edu/zh_TW/simulation/davisson-germer) >>
@@ -588,8 +569,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER28': class PDFDictionary 
-36 0 obj
+% 'Annot.NUMBER27': class PDFDictionary 
+35 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://phet.colorado.edu/zh_TW/simulation/stern-gerlach) >>
@@ -603,8 +584,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER29': class PDFDictionary 
-37 0 obj
+% 'Annot.NUMBER28': class PDFDictionary 
+36 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference) >>
@@ -618,8 +599,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER30': class PDFDictionary 
-38 0 obj
+% 'Annot.NUMBER29': class PDFDictionary 
+37 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling) >>
@@ -633,8 +614,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER31': class PDFDictionary 
-39 0 obj
+% 'Annot.NUMBER30': class PDFDictionary 
+38 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://phet.colorado.edu/zh_TW/simulation/bound-states) >>
@@ -648,8 +629,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER32': class PDFDictionary 
-40 0 obj
+% 'Annot.NUMBER31': class PDFDictionary 
+39 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://phet.colorado.edu/zh_TW/simulation/covalent-bonds) >>
@@ -663,8 +644,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER33': class PDFDictionary 
-41 0 obj
+% 'Annot.NUMBER32': class PDFDictionary 
+40 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://phet.colorado.edu/zh_TW/simulation/band-structure) >>
@@ -678,8 +659,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER34': class PDFDictionary 
-42 0 obj
+% 'Annot.NUMBER33': class PDFDictionary 
+41 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf) >>
@@ -693,8 +674,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER35': class PDFDictionary 
-43 0 obj
+% 'Annot.NUMBER34': class PDFDictionary 
+42 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf) >>
@@ -708,8 +689,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER36': class PDFDictionary 
-44 0 obj
+% 'Annot.NUMBER35': class PDFDictionary 
+43 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf) >>
@@ -723,8 +704,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER37': class PDFDictionary 
-45 0 obj
+% 'Annot.NUMBER36': class PDFDictionary 
+44 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf) >>
@@ -738,8 +719,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER38': class PDFDictionary 
-46 0 obj
+% 'Annot.NUMBER37': class PDFDictionary 
+45 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf) >>
@@ -753,8 +734,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER39': class PDFDictionary 
-47 0 obj
+% 'Annot.NUMBER38': class PDFDictionary 
+46 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf) >>
@@ -768,8 +749,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER40': class PDFDictionary 
-48 0 obj
+% 'Annot.NUMBER39': class PDFDictionary 
+47 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf) >>
@@ -783,8 +764,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER41': class PDFDictionary 
-49 0 obj
+% 'Annot.NUMBER40': class PDFDictionary 
+48 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf) >>
@@ -798,8 +779,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER42': class PDFDictionary 
-50 0 obj
+% 'Annot.NUMBER41': class PDFDictionary 
+49 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf) >>
@@ -813,8 +794,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER43': class PDFDictionary 
-51 0 obj
+% 'Annot.NUMBER42': class PDFDictionary 
+50 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf) >>
@@ -828,8 +809,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER44': class PDFDictionary 
-52 0 obj
+% 'Annot.NUMBER43': class PDFDictionary 
+51 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf) >>
@@ -843,8 +824,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER45': class PDFDictionary 
-53 0 obj
+% 'Annot.NUMBER44': class PDFDictionary 
+52 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf) >>
@@ -858,8 +839,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER46': class PDFDictionary 
-54 0 obj
+% 'Annot.NUMBER45': class PDFDictionary 
+53 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf) >>
@@ -874,9 +855,10 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page4': class PDFPage 
-55 0 obj
+54 0 obj
 % Page dictionary
-<< /Annots [ 31 0 R
+<< /Annots [ 30 0 R
+ 31 0 R
  32 0 R
  33 0 R
  34 0 R
@@ -898,14 +880,13 @@ endobj
  50 0 R
  51 0 R
  52 0 R
- 53 0 R
- 54 0 R ]
- /Contents 76 0 R
+ 53 0 R ]
+ /Contents 75 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 72 0 R
+ /Parent 71 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -917,7 +898,7 @@ endobj
  /Type /Page >>
 endobj
 % 'toUnicodeCMap:AAAAAA+cwTeXKai': class PDFStream 
-56 0 obj
+55 0 obj
 << /Length 1948 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -1075,7 +1056,7 @@ end
 endendstream
 endobj
 % 'fontFile:/usr/share/fonts/truetype/OOo_fonts/cwkai.ttf(AAAAAA+cwTeXKai)': class PDFStream 
-57 0 obj
+56 0 obj
 << /Length 21768
  /Length1 21768 >>
 stream
@@ -1339,7 +1320,7 @@ The Copyriht holder of Un-fonts is Koanughi Un and license under GNU GPL.http://
  T h e   C o p y r i h t   h o l d e r   o f   U n - f o n t s   i s   K o a n u g h i   U n   a n d   l i c e n s e   u n d e r   G N U   G P L . h t t p : / / w w w . g n u . o r g / l i c e n s e s / g p l . t x t S a y   Y a !  O`SÔó`è—N ûﬁwˇ S a y   Y a !   Y o u r   c l o s e   f r i e n d .       ˇ{                     ∞ç∏ˇÖ endstream
 endobj
 % 'fontDescriptor:AAAAAA+cwTeXKai': class PDFDictionary 
-58 0 obj
+57 0 obj
 << /Ascent 800
  /CapHeight 800
  /Descent -200
@@ -1348,22 +1329,22 @@ endobj
  -286
  1060
  970 ]
- /FontFile2 57 0 R
+ /FontFile2 56 0 R
  /FontName /AAAAAA+cwTeXKai
  /ItalicAngle 0
  /StemV 109
  /Type /FontDescriptor >>
 endobj
 % 'F1+0': class PDFTrueTypeFont 
-59 0 obj
+58 0 obj
 % Font cwkai subset 0
 << /BaseFont /AAAAAA+cwTeXKai
  /FirstChar 0
- /FontDescriptor 58 0 R
+ /FontDescriptor 57 0 R
  /LastChar 133
  /Name /F1+0
  /Subtype /TrueType
- /ToUnicode 56 0 R
+ /ToUnicode 55 0 R
  /Type /Font
  /Widths [ 1000
  0
@@ -1500,151 +1481,151 @@ endobj
  1000
  0 ] >>
 endobj
-% 'R60': class PDFCatalog 
-60 0 obj
+% 'R59': class PDFCatalog 
+59 0 obj
 % Document Root
-<< /Outlines 62 0 R
- /PageLabels 77 0 R
+<< /Outlines 61 0 R
+ /PageLabels 76 0 R
  /PageMode /UseNone
- /Pages 72 0 R
+ /Pages 71 0 R
  /Type /Catalog >>
 endobj
-% 'R61': class PDFInfo 
-61 0 obj
+% 'R60': class PDFInfo 
+60 0 obj
 << /Author ()
- /CreationDate (D:20130426110923-08'00')
+ /CreationDate (D:20130426111842-08'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (\376\377\000C\000u\000r\000r\000i\000c\000u\000l\000u\000m\000 \000V\000i\000t\000a\000e\000 \000-\000 \000P\000o\000-\000J\000e\000n\000 \000H\000s\000u\000 \000/\000 \2121O/N\373) >>
 endobj
-% 'R62': class PDFOutlines 
-62 0 obj
+% 'R61': class PDFOutlines 
+61 0 obj
 << /Count 10
- /First 63 0 R
- /Last 71 0 R
+ /First 62 0 R
+ /Last 70 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-63 0 obj
+62 0 obj
 << /Count 6
  /Dest [ 5 0 R
  /XYZ
  62.69291
  524.3307
  0 ]
- /First 64 0 R
- /Last 69 0 R
- /Next 70 0 R
- /Parent 62 0 R
+ /First 63 0 R
+ /Last 68 0 R
+ /Next 69 0 R
+ /Parent 61 0 R
  /Title (PROJECTS) >>
 endobj
 % 'Outline.10.0': class OutlineEntryObject 
-64 0 obj
+63 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  461.3307
  0 ]
- /Next 65 0 R
- /Parent 63 0 R
+ /Next 64 0 R
+ /Parent 62 0 R
  /Title (CL-VAF) >>
 endobj
 % 'Outline.10.1': class OutlineEntryObject 
-65 0 obj
+64 0 obj
 << /Dest [ 15 0 R
  /XYZ
  62.69291
  418.5761
  0 ]
- /Next 66 0 R
- /Parent 63 0 R
- /Prev 64 0 R
+ /Next 65 0 R
+ /Parent 62 0 R
+ /Prev 63 0 R
  /Title (MPI-Tools) >>
 endobj
 % 'Outline.10.2': class OutlineEntryObject 
-66 0 obj
+65 0 obj
 << /Dest [ 15 0 R
  /XYZ
  62.69291
  340.5761
  0 ]
- /Next 67 0 R
- /Parent 63 0 R
- /Prev 65 0 R
+ /Next 66 0 R
+ /Parent 62 0 R
+ /Prev 64 0 R
  /Title (PTMD) >>
 endobj
 % 'Outline.10.3': class OutlineEntryObject 
-67 0 obj
-<< /Dest [ 30 0 R
+66 0 obj
+<< /Dest [ 29 0 R
  /XYZ
  62.69291
  687.0236
  0 ]
- /Next 68 0 R
- /Parent 63 0 R
- /Prev 66 0 R
+ /Next 67 0 R
+ /Parent 62 0 R
+ /Prev 65 0 R
  /Title (PTMBHGA) >>
 endobj
 % 'Outline.10.4': class OutlineEntryObject 
-68 0 obj
-<< /Dest [ 30 0 R
+67 0 obj
+<< /Dest [ 29 0 R
  /XYZ
  62.69291
  350.8875
  0 ]
- /Next 69 0 R
- /Parent 63 0 R
- /Prev 67 0 R
+ /Next 68 0 R
+ /Parent 62 0 R
+ /Prev 66 0 R
  /Title (D-Tools) >>
 endobj
 % 'Outline.10.5': class OutlineEntryObject 
-69 0 obj
-<< /Dest [ 30 0 R
+68 0 obj
+<< /Dest [ 29 0 R
  /XYZ
  62.69291
  272.8875
  0 ]
- /Parent 63 0 R
- /Prev 68 0 R
+ /Parent 62 0 R
+ /Prev 67 0 R
  /Title (TCOM) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-70 0 obj
-<< /Dest [ 30 0 R
+69 0 obj
+<< /Dest [ 29 0 R
  /XYZ
  62.69291
  148.5411
  0 ]
- /Next 71 0 R
- /Parent 62 0 R
- /Prev 63 0 R
+ /Next 70 0 R
+ /Parent 61 0 R
+ /Prev 62 0 R
  /Title (OTHER INFORMATION) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-71 0 obj
-<< /Dest [ 55 0 R
+70 0 obj
+<< /Dest [ 54 0 R
  /XYZ
  62.69291
  532.6772
  0 ]
- /Parent 62 0 R
- /Prev 70 0 R
+ /Parent 61 0 R
+ /Prev 69 0 R
  /Title (REFERENCES) >>
 endobj
-% 'R72': class PDFPages 
-72 0 obj
+% 'R71': class PDFPages 
+71 0 obj
 % page tree
 << /Count 4
  /Kids [ 5 0 R
  15 0 R
- 30 0 R
- 55 0 R ]
+ 29 0 R
+ 54 0 R ]
  /Type /Pages >>
 endobj
-% 'R73': class PDFStream 
-73 0 obj
+% 'R72': class PDFStream 
+72 0 obj
 % page stream
 << /Length 2494 >>
 stream
@@ -1760,8 +1741,8 @@ Q
  
 endstream
 endobj
-% 'R74': class PDFStream 
-74 0 obj
+% 'R73': class PDFStream 
+73 0 obj
 % page stream
 << /Length 2550 >>
 stream
@@ -1829,10 +1810,10 @@ Q
  
 endstream
 endobj
-% 'R75': class PDFStream 
-75 0 obj
+% 'R74': class PDFStream 
+74 0 obj
 % page stream
-<< /Length 4195 >>
+<< /Length 4154 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -1845,7 +1826,7 @@ Q
 q
 1 0 0 1 62.69291 699.0236 cm
 q
-BT 1 0 0 1 0 38 Tm .829461 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (The PTMD [) Tj 0 0 .501961 rg (1 ) Tj 0 0 0 rg (- ) Tj 0 0 .501961 rg (5) Tj 0 0 0 rg (] is an implementation of the software engineering. It is designed for big data analysis in) Tj T* 0 Tw .997318 Tw (bioinformatic system and is possible to run numerical simulations and analyze their results in an iterative) Tj T* 0 Tw .491098 Tw (way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up) Tj T* 0 Tw (to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.) Tj T* ET
+BT 1 0 0 1 0 38 Tm 1.252927 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (The PTMD [) Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (-) Tj 0 0 .501961 rg (5) Tj 0 0 0 rg (] is an implementation of the software engineering. It is designed for big data analysis in) Tj T* 0 Tw .997318 Tw (bioinformatic system and is possible to run numerical simulations and analyze their results in an iterative) Tj T* 0 Tw .491098 Tw (way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up) Tj T* 0 Tw (to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.) Tj T* ET
 Q
 Q
 q
@@ -1878,7 +1859,7 @@ Q
 q
 1 0 0 1 62.69291 362.8875 cm
 q
-BT 1 0 0 1 0 38 Tm .634983 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (The PTMBHGA [) Tj 0 0 .501961 rg (6) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (7) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (8) Tj 0 0 0 rg (] is a combination of several state-of-art optimization techniques, including genetic) Tj T* 0 Tw .318976 Tw (algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte) Tj T* 0 Tw 1.30528 Tw (Carlo. The program was designed to be flexible for either a single run or integration of any optimization) Tj T* 0 Tw (technique. I gained most knowledge of optimization from this project.) Tj T* ET
+BT 1 0 0 1 0 38 Tm 1.80248 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (The PTMBHGA [) Tj 0 0 .501961 rg (6) Tj 0 0 0 rg (-) Tj 0 0 .501961 rg (8) Tj 0 0 0 rg (] is a combination of several state-of-art optimization techniques, including genetic) Tj T* 0 Tw .318976 Tw (algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte) Tj T* 0 Tw 1.30528 Tw (Carlo. The program was designed to be flexible for either a single run or integration of any optimization) Tj T* 0 Tw (technique. I gained most knowledge of optimization from this project.) Tj T* ET
 Q
 Q
 q
@@ -1968,8 +1949,8 @@ Q
  
 endstream
 endobj
-% 'R76': class PDFStream 
-76 0 obj
+% 'R75': class PDFStream 
+75 0 obj
 % page stream
 << /Length 6756 >>
 stream
@@ -2291,44 +2272,44 @@ Q
  
 endstream
 endobj
-% 'R77': class PDFPageLabels 
-77 0 obj
+% 'R76': class PDFPageLabels 
+76 0 obj
 % Document Root
 << /Nums [ 0
- 78 0 R
+ 77 0 R
  1
- 79 0 R
+ 78 0 R
  2
- 80 0 R
+ 79 0 R
  3
- 81 0 R ] >>
+ 80 0 R ] >>
+endobj
+% 'R77': class PDFPageLabel 
+77 0 obj
+% None
+<< /S /D
+ /St 1 >>
 endobj
 % 'R78': class PDFPageLabel 
 78 0 obj
 % None
 << /S /D
- /St 1 >>
+ /St 2 >>
 endobj
 % 'R79': class PDFPageLabel 
 79 0 obj
 % None
 << /S /D
- /St 2 >>
+ /St 3 >>
 endobj
 % 'R80': class PDFPageLabel 
 80 0 obj
 % None
 << /S /D
- /St 3 >>
-endobj
-% 'R81': class PDFPageLabel 
-81 0 obj
-% None
-<< /S /D
  /St 4 >>
 endobj
 xref
-0 82
+0 81
 0000000000 65535 f
 0000000113 00000 n
 0000000224 00000 n
@@ -2351,74 +2332,73 @@ xref
 0000367504 00000 n
 0000425628 00000 n
 0000425871 00000 n
-0000426114 00000 n
-0000426356 00000 n
-0000426611 00000 n
+0000426113 00000 n
+0000426368 00000 n
+0000426623 00000 n
 0000426866 00000 n
 0000427109 00000 n
-0000427352 00000 n
-0000427593 00000 n
-0000427835 00000 n
-0000428082 00000 n
-0000428572 00000 n
-0000428876 00000 n
-0000429145 00000 n
-0000429430 00000 n
-0000429732 00000 n
-0000430009 00000 n
-0000430284 00000 n
-0000430571 00000 n
-0000430850 00000 n
-0000431124 00000 n
-0000431400 00000 n
-0000431676 00000 n
-0000431949 00000 n
-0000432222 00000 n
-0000432495 00000 n
-0000432768 00000 n
-0000433041 00000 n
-0000433314 00000 n
-0000433587 00000 n
-0000433860 00000 n
-0000434133 00000 n
-0000434406 00000 n
-0000434679 00000 n
-0000434952 00000 n
-0000435210 00000 n
-0000435744 00000 n
-0000437844 00000 n
-0000459745 00000 n
-0000460003 00000 n
-0000461075 00000 n
-0000461234 00000 n
-0000461662 00000 n
-0000461788 00000 n
-0000462001 00000 n
-0000462170 00000 n
-0000462358 00000 n
-0000462541 00000 n
-0000462727 00000 n
-0000462913 00000 n
-0000463078 00000 n
-0000463271 00000 n
-0000463426 00000 n
-0000463560 00000 n
-0000466153 00000 n
-0000468802 00000 n
-0000473096 00000 n
-0000479955 00000 n
-0000480087 00000 n
-0000480164 00000 n
-0000480241 00000 n
-0000480318 00000 n
+0000427350 00000 n
+0000427592 00000 n
+0000427839 00000 n
+0000428320 00000 n
+0000428624 00000 n
+0000428893 00000 n
+0000429178 00000 n
+0000429480 00000 n
+0000429757 00000 n
+0000430032 00000 n
+0000430319 00000 n
+0000430598 00000 n
+0000430872 00000 n
+0000431148 00000 n
+0000431424 00000 n
+0000431697 00000 n
+0000431970 00000 n
+0000432243 00000 n
+0000432516 00000 n
+0000432789 00000 n
+0000433062 00000 n
+0000433335 00000 n
+0000433608 00000 n
+0000433881 00000 n
+0000434154 00000 n
+0000434427 00000 n
+0000434700 00000 n
+0000434958 00000 n
+0000435492 00000 n
+0000437592 00000 n
+0000459493 00000 n
+0000459751 00000 n
+0000460823 00000 n
+0000460982 00000 n
+0000461410 00000 n
+0000461536 00000 n
+0000461749 00000 n
+0000461918 00000 n
+0000462106 00000 n
+0000462289 00000 n
+0000462475 00000 n
+0000462661 00000 n
+0000462826 00000 n
+0000463019 00000 n
+0000463174 00000 n
+0000463308 00000 n
+0000465901 00000 n
+0000468550 00000 n
+0000472803 00000 n
+0000479662 00000 n
+0000479794 00000 n
+0000479871 00000 n
+0000479948 00000 n
+0000480025 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\031\2075-\346\374\245\373p\002\265W\247\000\350\376) (\031\2075-\346\374\245\373p\002\265W\247\000\350\376)] 
+ [(/\350\254\374\\\025\226\367IeI\177\244TE\023) (/\350\254\374\\\025\226\367IeI\177\244TE\023)] 
 
- /Info 61 0 R
- /Root 60 0 R
- /Size 82 >>
+ /Info 60 0 R
+ /Root 59 0 R
+ /Size 81 >>
 startxref
-480365
+480072
 %%EOF
