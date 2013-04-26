@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-26 11:08:31
+.. date: 2013-04-26 11:13:27
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -47,13 +47,13 @@ The following softwares were developed by me and can be modified and distributed
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
 
 .. image:: ../../arch_2013/files_2013/cv/gpu_performance.png
-   :width: 360
+   :width: 480
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
 Performance of CL-VAF. (**click on image to enlarge**)
 
 .. image:: ../../arch_2013/files_2013/cv/clvaf.png
-   :width: 360
+   :width: 480
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
 Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autocorrelation function to each work item in GPU (b). (**click on image to enlarge**)
@@ -73,7 +73,7 @@ The MPI-Tools has vast functionalities which allow users to construct and deploy
 *Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)*
 
 .. image:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 360
+   :width: 480
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
 Framework of PTMD. (**click on image to enlarge**)
@@ -86,7 +86,7 @@ The PTMD [`1`_ - `5`_] is an implementation of the software engineering. It is d
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
 
 .. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 360
+   :width: 480
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
 Framework of PTMBHGA. (**click on image to enlarge**)
