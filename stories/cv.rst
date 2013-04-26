@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-24 14:06:50
+.. date: 2013-04-26 10:28:31
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -52,7 +52,7 @@ Performance of CL-VAF. (**click on image to enlarge**)
 
 .. image:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 360
-   :target: ../..//arch_2013/files_2013/cv/clvaf.png
+   :target: ../../arch_2013/files_2013/cv/clvaf.png
 
 Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autorrelation function to each work item in GPU (b). (**click on image to enlarge**)
 
