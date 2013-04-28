@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_pdf
-.. date: 2013-04-26 11:17:59
+.. date: 2013-04-28 11:55:24
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -71,7 +71,7 @@ The MPI-Tools has vast functionalities which allow users to construct and deploy
 *Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)*
 
 .. image:: http://sophai.github.io/arch_2013/files_2013/cv/ptmd.png
-   :width: 1200
+   :width: 1250
    :target: http://sophai.github.io/arch_2013/files_2013/cv/ptmd.png
 
 Framework of PTMD.
@@ -84,7 +84,7 @@ The PTMD [`1`_-\ `5`_\ ] is an implementation of the software engineering. It is
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
 
 .. image:: http://sophai.github.io/arch_2013/files_2013/cv/ptmbhga.png
-   :width: 1200
+   :width: 1250
    :target: http://sophai.github.io/arch_2013/files_2013/cv/ptmbhga.png
 
 Framework of PTMBHGA.
