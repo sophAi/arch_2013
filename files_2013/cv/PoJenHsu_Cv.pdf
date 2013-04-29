@@ -94,7 +94,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 489.6772
+ 507.6772
  0 ]
  /Rect [ 134.3429
  503.3261
@@ -112,7 +112,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 459.6772
+ 477.6772
  0 ]
  /Rect [ 148.7929
  503.3261
@@ -130,7 +130,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 387.6772
+ 405.6772
  0 ]
  /Rect [ 163.2429
  503.3261
@@ -148,7 +148,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 357.6772
+ 375.6772
  0 ]
  /Rect [ 177.6928
  503.3261
@@ -253,7 +253,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 489.6772
+ 507.6772
  0 ]
  /Rect [ 121.5288
  735.7736
@@ -271,7 +271,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 357.6772
+ 375.6772
  0 ]
  /Rect [ 129.8488
  735.7736
@@ -318,7 +318,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 327.6772
+ 345.6772
  0 ]
  /Rect [ 144.8979
  390.6318
@@ -336,7 +336,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 279.6772
+ 297.6772
  0 ]
  /Rect [ 153.2179
  390.6318
@@ -384,7 +384,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 489.6772
+ 507.6772
  0 ]
  /Rect [ 121.2899
  210.6318
@@ -402,7 +402,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 459.6772
+ 477.6772
  0 ]
  /Rect [ 132.6735
  210.6318
@@ -420,7 +420,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 387.6772
+ 405.6772
  0 ]
  /Rect [ 144.057
  210.6318
@@ -438,7 +438,7 @@ endobj
  /Dest [ 54 0 R
  /XYZ
  62.69291
- 357.6772
+ 375.6772
  0 ]
  /Rect [ 155.4405
  210.6318
@@ -456,14 +456,44 @@ endobj
  0
  0 ]
  /Rect [ 96.78291
- 80.28539
+ 98.28539
  209.5929
+ 110.2854 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class PDFDictionary 
+29 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (file:///home/xanadu/rsync_data/Writings/Blogs/arch_2013/files_2013/cv/hope_award.jpg) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.69291
+ 80.28539
+ 222.6229
+ 92.28539 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class PDFDictionary 
+30 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.jsps.go.jp/english/e-hope/gaiyou4.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 228.1629
+ 80.28539
+ 305.8229
  92.28539 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page3': class PDFPage 
-29 0 obj
+31 0 obj
 % Page dictionary
 << /Annots [ 16 0 R
  17 0 R
@@ -476,7 +506,9 @@ endobj
  25 0 R
  26 0 R
  27 0 R
- 28 0 R ]
+ 28 0 R
+ 29 0 R
+ 30 0 R ]
  /Contents 74 0 R
  /MediaBox [ 0
  0
@@ -494,36 +526,6 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER22': class PDFDictionary 
-30 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (file:///home/xanadu/rsync_data/Writings/Blogs/arch_2013/files_2013/cv/hope_award.jpg) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 85.69291
- 750.7736
- 222.6229
- 762.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER23': class PDFDictionary 
-31 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.jsps.go.jp/english/e-hope/gaiyou4.html) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 228.1629
- 750.7736
- 305.8229
- 762.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 % 'Annot.NUMBER24': class PDFDictionary 
 32 0 obj
 << /A << /S /URI
@@ -533,9 +535,9 @@ endobj
  0
  0 ]
  /Rect [ 270.7429
- 732.7736
+ 750.7736
  314.8529
- 744.7736 ]
+ 762.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -548,9 +550,9 @@ endobj
  0
  0 ]
  /Rect [ 324.2729
- 732.7736
+ 750.7736
  347.6829
- 744.7736 ]
+ 762.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -563,9 +565,9 @@ endobj
  0
  0 ]
  /Rect [ 108.6929
- 693.7736
+ 711.7736
  240.4529
- 705.7736 ]
+ 723.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -578,9 +580,9 @@ endobj
  0
  0 ]
  /Rect [ 108.6929
- 675.7736
+ 693.7736
  223.0029
- 687.7736 ]
+ 705.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -593,9 +595,9 @@ endobj
  0
  0 ]
  /Rect [ 108.6929
- 657.7736
+ 675.7736
  232.4829
- 669.7736 ]
+ 687.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -608,9 +610,9 @@ endobj
  0
  0 ]
  /Rect [ 108.6929
- 639.7736
+ 657.7736
  197.4729
- 651.7736 ]
+ 669.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -623,9 +625,9 @@ endobj
  0
  0 ]
  /Rect [ 108.6929
- 621.7736
+ 639.7736
  211.2529
- 633.7736 ]
+ 651.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -638,9 +640,9 @@ endobj
  0
  0 ]
  /Rect [ 108.6929
- 603.7736
+ 621.7736
  177.6829
- 615.7736 ]
+ 633.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -653,9 +655,9 @@ endobj
  0
  0 ]
  /Rect [ 108.6929
- 585.7736
+ 603.7736
  175.7429
- 597.7736 ]
+ 615.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -668,9 +670,9 @@ endobj
  0
  0 ]
  /Rect [ 446.6471
- 476.4272
+ 494.4272
  531.9199
- 488.4272 ]
+ 506.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -683,9 +685,9 @@ endobj
  0
  0 ]
  /Rect [ 62.69291
- 464.4272
+ 482.4272
  347.9229
- 476.4272 ]
+ 494.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -698,9 +700,9 @@ endobj
  0
  0 ]
  /Rect [ 72.69291
- 434.4272
+ 452.4272
  528.9927
- 446.4272 ]
+ 464.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -713,9 +715,9 @@ endobj
  0
  0 ]
  /Rect [ 62.69291
- 422.4272
+ 440.4272
  264.1029
- 434.4272 ]
+ 452.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -728,9 +730,9 @@ endobj
  0
  0 ]
  /Rect [ 485.8427
- 404.4272
+ 422.4272
  531.6308
- 416.4272 ]
+ 434.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -743,9 +745,9 @@ endobj
  0
  0 ]
  /Rect [ 62.69291
- 392.4272
+ 410.4272
  397.4529
- 404.4272 ]
+ 422.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -758,9 +760,9 @@ endobj
  0
  0 ]
  /Rect [ 444.9021
- 374.4272
+ 392.4272
  531.0474
- 386.4272 ]
+ 404.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -773,9 +775,9 @@ endobj
  0
  0 ]
  /Rect [ 62.69291
- 362.4272
+ 380.4272
  222.6529
- 374.4272 ]
+ 392.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -788,9 +790,9 @@ endobj
  0
  0 ]
  /Rect [ 499.0227
- 344.4272
+ 362.4272
  532.3821
- 356.4272 ]
+ 374.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -803,9 +805,9 @@ endobj
  0
  0 ]
  /Rect [ 62.69291
- 332.4272
+ 350.4272
  181.6129
- 344.4272 ]
+ 362.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -818,9 +820,9 @@ endobj
  0
  0 ]
  /Rect [ 338.5729
- 314.4272
+ 332.4272
  471.6129
- 326.4272 ]
+ 344.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -833,9 +835,9 @@ endobj
  0
  0 ]
  /Rect [ 72.69291
- 284.4272
+ 302.4272
  446.8129
- 296.4272 ]
+ 314.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -848,18 +850,16 @@ endobj
  0
  0 ]
  /Rect [ 72.69291
- 254.4272
+ 272.4272
  332.3129
- 266.4272 ]
+ 284.4272 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page4': class PDFPage 
 54 0 obj
 % Page dictionary
-<< /Annots [ 30 0 R
- 31 0 R
- 32 0 R
+<< /Annots [ 32 0 R
  33 0 R
  34 0 R
  35 0 R
@@ -1493,7 +1493,7 @@ endobj
 % 'R60': class PDFInfo 
 60 0 obj
 << /Author ()
- /CreationDate (D:20130428120859-08'00')
+ /CreationDate (D:20130429084227-08'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -1558,7 +1558,7 @@ endobj
 endobj
 % 'Outline.10.3': class OutlineEntryObject 
 66 0 obj
-<< /Dest [ 29 0 R
+<< /Dest [ 31 0 R
  /XYZ
  62.69291
  687.0236
@@ -1570,7 +1570,7 @@ endobj
 endobj
 % 'Outline.10.4': class OutlineEntryObject 
 67 0 obj
-<< /Dest [ 29 0 R
+<< /Dest [ 31 0 R
  /XYZ
  62.69291
  341.8818
@@ -1582,7 +1582,7 @@ endobj
 endobj
 % 'Outline.10.5': class OutlineEntryObject 
 68 0 obj
-<< /Dest [ 29 0 R
+<< /Dest [ 31 0 R
  /XYZ
  62.69291
  263.8818
@@ -1593,10 +1593,10 @@ endobj
 endobj
 % 'Outline.1': class OutlineEntryObject 
 69 0 obj
-<< /Dest [ 29 0 R
+<< /Dest [ 31 0 R
  /XYZ
  62.69291
- 139.5354
+ 157.5354
  0 ]
  /Next 70 0 R
  /Parent 61 0 R
@@ -1608,7 +1608,7 @@ endobj
 << /Dest [ 54 0 R
  /XYZ
  62.69291
- 532.6772
+ 550.6772
  0 ]
  /Parent 61 0 R
  /Prev 69 0 R
@@ -1620,7 +1620,7 @@ endobj
 << /Count 4
  /Kids [ 5 0 R
  15 0 R
- 29 0 R
+ 31 0 R
  54 0 R ]
  /Type /Pages >>
 endobj
@@ -1813,7 +1813,7 @@ endobj
 % 'R74': class PDFStream 
 74 0 obj
 % page stream
-<< /Length 4154 >>
+<< /Length 4377 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -1902,30 +1902,23 @@ BT 1 0 0 1 0 14 Tm .853516 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (The TCOM [) Tj 0
 Q
 Q
 q
-1 0 0 1 62.69291 179.8818 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (I also use matlab and python for light-weight computation and figure organization.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 151.5354 cm
+1 0 0 1 62.69291 169.5354 cm
 n 0 14.17323 m 469.8898 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 118.5354 cm
+1 0 0 1 62.69291 136.5354 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL 0 0 0 rg /F1+0 17.5 Tf 21 TL (OTHER INFORMATION) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 106.5354 cm
+1 0 0 1 62.69291 124.5354 cm
 Q
 q
-1 0 0 1 62.69291 106.5354 cm
+1 0 0 1 62.69291 124.5354 cm
 Q
 q
-1 0 0 1 62.69291 82.53539 cm
+1 0 0 1 62.69291 100.5354 cm
 0 0 0 rg
 q
 1 0 0 1 6 9 cm
@@ -1944,19 +1937,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 76.86614 cm
+1 0 0 1 62.69291 94.53539 cm
 Q
- 
-endstream
-endobj
-% 'R75': class PDFStream 
-75 0 obj
-% page stream
-<< /Length 6756 >>
-stream
-1 0 0 1 0 0 cm 
 q
-1 0 0 1 62.69291 753.0236 cm
+1 0 0 1 62.69291 82.53539 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -1975,10 +1959,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 76.86614 cm
 Q
+ 
+endstream
+endobj
+% 'R75': class PDFStream 
+75 0 obj
+% page stream
+<< /Length 6350 >>
+stream
+1 0 0 1 0 0 cm 
 q
-1 0 0 1 62.69291 735.0236 cm
+1 0 0 1 62.69291 753.0236 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -1997,10 +1990,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 729.0236 cm
+1 0 0 1 62.69291 747.0236 cm
 Q
 q
-1 0 0 1 62.69291 591.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 0 0 0 rg
 q
 1 0 0 1 6 123 cm
@@ -2180,10 +2173,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 585.0236 cm
+1 0 0 1 62.69291 603.0236 cm
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 0 0 0 rg
 q
 1 0 0 1 6 -3 cm
@@ -2196,75 +2189,75 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Applied statistics and parallel computing lectures.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Applied statistics and parallel computing teaching.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 Q
 q
-1 0 0 1 62.69291 544.6772 cm
+1 0 0 1 62.69291 562.6772 cm
 n 0 14.17323 m 469.8898 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 511.6772 cm
+1 0 0 1 62.69291 529.6772 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL 0 0 0 rg /F1+0 17.5 Tf 21 TL (REFERENCES) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 493.6772 cm
+1 0 0 1 62.69291 511.6772 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (\() Tj (Click on the title to download the paper) Tj (\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 463.6772 cm
+1 0 0 1 62.69291 481.6772 cm
 q
 BT 1 0 0 1 0 14 Tm .662765 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL ([1] P.H. Tang, T.M. Wu, P.J. Hsu) Tj (, and S.K. Lai, J. Chem. Phys. 137, 244304 \(2012\), ") Tj 0 0 .501961 rg (Melting behavior of) Tj T* 0 Tw (Ag14 cluster: An order parameter by instantaneous normal modes) Tj 0 0 0 rg (") Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 421.6772 cm
+1 0 0 1 62.69291 439.6772 cm
 q
 BT 1 0 0 1 0 26 Tm 3.263516 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL ([2] P.H. Tang, T.M. Wu, T.W. Yen, S.K. Lai, and P.J. Hsu) Tj (, J. Chem. Phys. 135, 094302 \(2011\),) Tj T* 0 Tw 3.58998 Tw (\204) Tj 0 0 .501961 rg (Comparative study of cluster\205Ag17Cu2\205by instantaneous normal mode analysis and by isothermal) Tj T* 0 Tw (Brownian-type molecular dynamics simulation) Tj 0 0 0 rg (") Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 391.6772 cm
+1 0 0 1 62.69291 409.6772 cm
 q
 BT 1 0 0 1 0 14 Tm .95186 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL ([3] S.K. Lai, Y.T. Lin, P.J. Hsu) Tj (, and S.A. Cheong, Compt. Phys. Commun. 182,\2051013\205\(2011\), \204) Tj 0 0 .501961 rg (Dynamical) Tj T* 0 Tw (study of metallic clusters using the statistical method of time series clustering) Tj 0 0 0 rg (") Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 361.6772 cm
+1 0 0 1 62.69291 379.6772 cm
 q
 BT 1 0 0 1 0 14 Tm 1.53528 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL ([4] T.W. Yen, P.J. Hsu) Tj (, and S.K. Lai, e-J. Surf. Sci. Nanotech.\2057, 149-156 \(2009\), \204) Tj 0 0 .501961 rg (Melting behavior of) Tj T* 0 Tw (noble-metal-based bimetallic clusters) Tj 0 0 0 rg (") Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 331.6772 cm
+1 0 0 1 62.69291 349.6772 cm
 q
 BT 1 0 0 1 0 14 Tm .200542 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL ([5] P.J. Hsu) Tj (, J.S. Luo, S.K. Lai, J.F. Wax, and J-L Bretonnet, J. Chem. Phys.\205129, 194302 \(2008\), \204) Tj 0 0 .501961 rg (Melting) Tj T* 0 Tw (scenario in metallic clusters) Tj 0 0 0 rg (") Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 313.6772 cm
+1 0 0 1 62.69291 331.6772 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL ([6] P.J. Hsu and S.K. Lai, J. Chem. Phys.\205124, 044711 \(2006\), \204) Tj 0 0 .501961 rg (Structure of bimetallic clusters) Tj 0 0 0 rg (") Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 283.6772 cm
+1 0 0 1 62.69291 301.6772 cm
 q
 BT 1 0 0 1 0 14 Tm .026655 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL ([7] L. Zhan, B. Piwowar, W.K. Liu, P.J. Hsu) Tj (, S.K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys.\205120, 5536 \(2004\),) Tj T* 0 Tw (\204) Tj 0 0 .501961 rg (Multi-canonical basin-hopping: a new global optimization method for complex systems) Tj 0 0 0 rg (") Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 253.6772 cm
+1 0 0 1 62.69291 271.6772 cm
 q
 BT 1 0 0 1 0 14 Tm 3.301163 Tw 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL ([8] S.K. Lai, P.J. Hsu) Tj (, K.L. Wu, W.K. Liu, and M. Iwamatsu, J. Chem. Phys.\205117, 10715 \(2002\),) Tj T* 0 Tw (\204) Tj 0 0 .501961 rg (Structures of metallic clusters: mono- and polyvalent metals) Tj 0 0 0 rg (") Tj T* ET
 Q
@@ -2339,32 +2332,32 @@ xref
 0000427159 00000 n
 0000427400 00000 n
 0000427642 00000 n
-0000427889 00000 n
-0000428370 00000 n
-0000428674 00000 n
-0000428943 00000 n
-0000429228 00000 n
-0000429530 00000 n
-0000429807 00000 n
-0000430082 00000 n
-0000430369 00000 n
-0000430648 00000 n
-0000430922 00000 n
-0000431198 00000 n
-0000431474 00000 n
-0000431747 00000 n
-0000432020 00000 n
-0000432293 00000 n
-0000432566 00000 n
-0000432839 00000 n
-0000433112 00000 n
-0000433385 00000 n
-0000433658 00000 n
-0000433931 00000 n
-0000434204 00000 n
-0000434477 00000 n
-0000434750 00000 n
-0000435008 00000 n
+0000427904 00000 n
+0000428208 00000 n
+0000428462 00000 n
+0000428961 00000 n
+0000429246 00000 n
+0000429548 00000 n
+0000429825 00000 n
+0000430100 00000 n
+0000430387 00000 n
+0000430666 00000 n
+0000430940 00000 n
+0000431216 00000 n
+0000431492 00000 n
+0000431765 00000 n
+0000432038 00000 n
+0000432311 00000 n
+0000432584 00000 n
+0000432857 00000 n
+0000433130 00000 n
+0000433403 00000 n
+0000433676 00000 n
+0000433949 00000 n
+0000434222 00000 n
+0000434495 00000 n
+0000434768 00000 n
+0000435026 00000 n
 0000435542 00000 n
 0000437642 00000 n
 0000459543 00000 n
@@ -2385,20 +2378,20 @@ xref
 0000463358 00000 n
 0000465951 00000 n
 0000468600 00000 n
-0000472853 00000 n
-0000479712 00000 n
-0000479844 00000 n
-0000479921 00000 n
-0000479998 00000 n
-0000480075 00000 n
+0000473076 00000 n
+0000479529 00000 n
+0000479661 00000 n
+0000479738 00000 n
+0000479815 00000 n
+0000479892 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\020\030L\253]'\354\316IJ\347\274\373,\305\246) (\020\030L\253]'\354\316IJ\347\274\373,\305\246)] 
+ [(B\355j\341Y`\335\213\365\247\215\027\373\301^\344) (B\355j\341Y`\335\213\365\247\215\027\373\301^\344)] 
 
  /Info 60 0 R
  /Root 59 0 R
  /Size 81 >>
 startxref
-480122
+479939
 %%EOF

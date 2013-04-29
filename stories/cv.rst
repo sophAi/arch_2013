@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-26 11:18:16
+.. date: 2013-04-29 08:41:11
 .. tags: 
 .. link: 
 .. description: Created at 2013-04-19 13:19:53
@@ -108,8 +108,6 @@ The D-tools helps reducing the tedious preparation of the diffusion theory calcu
 
 The TCOM [`1`_, `2`_, `4`_, `5`_] is an MPICH version of vector autocorrelation calculation. Later, I wrote CL-VAF with GPGPU implemented.
 
-I also use matlab and python for light-weight computation and figure organization. 
-
 ___________________________________________
 
 OTHER INFORMATION
@@ -131,7 +129,7 @@ OTHER INFORMATION
   #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
-* Applied statistics and parallel computing lectures.
+* Applied statistics and parallel computing teaching.
 
 .. 文章結尾
 
