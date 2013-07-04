@@ -1,9 +1,9 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 2013-04-29 08:41:11
+.. date: 20130529 15:00:06
 .. tags: 
 .. link: 
-.. description: Created at 2013-04-19 13:19:53
+.. description: Created at 20130419 13:19:53
 
 .. 請記得加上slug，會以slug名稱產生副檔名為.html的文章
 .. 同時，別忘了加上tags喔!
