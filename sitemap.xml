@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://sophAi.github.com/arch_2013/</loc>
-  <lastmod>2013-07-05</lastmod>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -21,7 +21,7 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/arch_2013/archive.html</loc>
-  <lastmod>2013-07-05</lastmod>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,7 +31,7 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/arch_2013/categories/index.html</loc>
-  <lastmod>2013-07-05</lastmod>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -41,22 +41,22 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/arch_2013/galleries/About/</loc>
-  <lastmod>2013-07-05</lastmod>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://sophAi.github.com/arch_2013/galleries/About/index.html</loc>
-  <lastmod>2013-07-05</lastmod>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://sophAi.github.com/arch_2013/galleries/index.html</loc>
-  <lastmod>2013-07-05</lastmod>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://sophAi.github.com/arch_2013/index.html</loc>
-  <lastmod>2013-07-05</lastmod>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -66,7 +66,7 @@
  </url>
  <url>
   <loc>http://sophAi.github.com/arch_2013/listings/index.html</loc>
-  <lastmod>2013-07-05</lastmod>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -82,6 +82,11 @@
  <url>
   <loc>http://sophAi.github.com/arch_2013/stories/cv_pdf.html</loc>
   <lastmod>2013-07-05</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sophAi.github.com/arch_2013/tipue_search.html</loc>
+  <lastmod>2013-07-26</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
