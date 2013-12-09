@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20130529 15:00:06
+.. date: 20131209 15:45:56
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -21,6 +21,8 @@ Email:   clusterga@gmail.com
 Tel:     +886-952-335534
 
 `(Click on me to download the pdf version) <http://sophAi.github.io/arch_2013/files_2013/cv/PoJenHsu_Cv.pdf>`_
+
+`(Chinese version) <http://sophai.github.io/arch_2013/stories/cv_zh.html>`_
 
 __________________________________________________
 
