@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh
-.. date: 20131210 16:55:59
+.. date: 20131210 16:58:50
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -183,7 +183,7 @@ _________________________________________________
 
 .. _1:
 
-1. Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis set,s
+1. Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets,
 **P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. (submitted).
 
 .. _2: 
