@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20131209 15:45:56
+.. date: 20131210 16:12:07
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -26,7 +26,7 @@ Tel:     +886-952-335534
 
 __________________________________________________
 
-Ph.D Candidate, IAMS, TIGP, Academia Sinica (2008 - Now)
+Ph.D, IAMS, TIGP, Academia Sinica (2008 - Now)
 
 Research Assistant in Physics, National Central University (2005 - 2008)
 
@@ -60,7 +60,7 @@ Performance of CL-VAF. (**click on image to enlarge**)
 
 Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autocorrelation function to each work item in GPU (b). (**click on image to enlarge**)
 
-The CL-VAF [`1`_, `2`_, `4`_, `5`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project `TCOM`_ with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the cross-platform compatibility. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia device. The benchmark is based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.
+The CL-VAF [`1`_, `4`_, `5`_, `7`_, `8`_] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project `TCOM`_ with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the cross-platform compatibility. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia device. The benchmark is based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.
 
 `MPI-Tools`_
 ~~~~~~~~~~~~~~
@@ -80,7 +80,7 @@ The MPI-Tools has vast functionalities which allow users to construct and deploy
 
 Framework of PTMD. (**click on image to enlarge**)
 
-The PTMD [`1`_-\ `5`_\ ] is an implementation of the software engineering. It is designed for big data analysis in bioinformatic system and is possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
+The PTMD [`3`_-\ `5`_\ ] is an implementation of the software engineering. It is designed for big data analysis in bioinformatic system and is possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.
 
 `PTMBHGA`_
 ~~~~~~~~~~~~
@@ -93,7 +93,7 @@ The PTMD [`1`_-\ `5`_\ ] is an implementation of the software engineering. It is
 
 Framework of PTMBHGA. (**click on image to enlarge**)
 
-The PTMBHGA [`6`_-\ `8`_\ ] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
+The PTMBHGA [`3`_-\ `5`_,\ `9`_-\ `11`_\ ] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.
 
 
 `D-Tools`_
@@ -101,14 +101,14 @@ The PTMBHGA [`6`_-\ `8`_\ ] is a combination of several state-of-art optimizatio
 
 *Tools for Diffusion Theory (C/C++)*
 
-The D-tools helps reducing the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. Arnaldo Rapallo. 
+The D-tools [`1`_] helps reducing the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. `Arnaldo Rapallo <http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&L=IT>`_\ . 
 
 `TCOM`_
 ~~~~~~~~~
 
 *Vector Autocorrelation Function with MPICH (MPICH/Fortran)*
 
-The TCOM [`1`_, `2`_, `4`_, `5`_] is an MPICH version of vector autocorrelation calculation. Later, I wrote CL-VAF with GPGPU implemented.
+The TCOM [`1`_, `4`_, `5`_, `7`_, `8`_\ ] is an MPICH version of vector autocorrelation calculation. Later, I wrote CL-VAF with GPGPU implemented.
 
 ___________________________________________
 
@@ -131,7 +131,9 @@ OTHER INFORMATION
   #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
-* Applied statistics and parallel computing teaching.
+* Applied statistics [`3`_\ ] and numerical simulation teaching.
+
+* Time series analysis [`2`_\ ], parallel computing, GPGPU computing, and computation algorithm.
 
 .. 文章結尾
 
@@ -163,42 +165,48 @@ REFERENCES
 
 (**Click on the title to download the paper**)
 
-.. 1. **P.J. Hsu**, S.A. Cheong, and S.K. Lai, "Identifying the precursors of protein folding/unfolding using shape recognition and time series methods" (to be submitted)
+.. _1:
 
-.. 2. **P.J. Hsu** and S.K. Lai, "Shape recognition and time series analysis in nanoclusters" (to be submitted)
+1. **P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. (submitted), "Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets"
 
-.. 3. **P.J. Hsu**, A. Rapallo, and S.K. Lai, "Hybrid basis sets of diffusion theory in peptide fragments of transthyretin" (in preparation)
+.. _2: 
 
-.. _1: 
+2. **P. J. Hsu**, S. A. Cheong, and S. K. Lai, Europhys Lett. (accepted) "Weak correlation effect on the folding of transthyretin fragment studied by the shape similarity technique and time series methods"
 
-1. P.H. Tang, T.M. Wu, **P.J. Hsu**, and S.K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
+.. _3: 
 
-.. _2:
+3. **P. J. Hsu**, J. Comput. Chem. (accepted) "A new perspective of shape recognition to discover the phase transition of finite-size clusters"
 
-2. P.H. Tang, T.M. Wu, T.W. Yen, S.K. Lai, and **P.J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “`Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_"
+.. _4: 
 
-.. _3:
-
-3. S.K. Lai, Y.T. Lin, **P.J. Hsu**, and S.A. Cheong, Compt. Phys. Commun. 182, 1013 (2011), “`Dynamical study of metallic clusters using the statistical method of time series clustering <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf>`_"
-
-.. _4:
-
-4. T.W. Yen, **P.J. Hsu**, and S.K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009), “`Melting behavior of noble-metal-based bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf>`_"
+4. P. H. Tang, T. M. Wu, **P. J. Hsu**, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012), "`Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_"
 
 .. _5:
 
-5. **P.J. Hsu**, J.S. Luo, S.K. Lai, J.F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008), “`Melting scenario in metallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf>`_"
+5. P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and **P. J. Hsu**, J. Chem. Phys. 135, 094302 (2011), “`Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_"
 
 .. _6:
 
-6. **P.J. Hsu** and S.K. Lai, J. Chem. Phys. 124, 044711 (2006), “`Structure of bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf>`_"
+6. S. K. Lai, Y. T. Lin, **P. J. Hsu**, and S. A. Cheong, Compt. Phys. Commun. 182, 1013 (2011), “`Dynamical study of metallic clusters using the statistical method of time series clustering <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf>`_"
 
 .. _7:
 
-7. L. Zhan, B. Piwowar, W.K. Liu, **P.J. Hsu**, S.K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004), “`Multi-canonical basin-hopping: a new global optimization method for complex systems <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf>`_"
+7. T. W. Yen, **P. J. Hsu**, and S. K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009), “`Melting behavior of noble-metal-based bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf>`_"
 
 .. _8:
 
-8. S.K. Lai, **P.J. Hsu**, K.L. Wu, W.K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002), “`Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_"
+8. **P. J. Hsu**, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008), “`Melting scenario in metallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf>`_"
+
+.. _9:
+
+9. **P. J. Hsu** and S. K. Lai, J. Chem. Phys. 124, 044711 (2006), “`Structure of bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf>`_"
+
+.. _10:
+
+10. L. Zhan, B. Piwowar, W. K. Liu, **P. J. Hsu**, S. K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004), “`Multi-canonical basin-hopping: a new global optimization method for complex systems <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf>`_"
+
+.. _11:
+
+11. S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002), “`Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_"
 
 
