@@ -1380,7 +1380,7 @@ endobj
 % 'R66': class PDFInfo 
 66 0 obj
 << /Author ()
- /CreationDate (D:20131216163501-08'00')
+ /CreationDate (D:20131216163900-08'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -1515,7 +1515,7 @@ endobj
 % 'R78': class PDFStream 
 78 0 obj
 % page stream
-<< /Length 2663 >>
+<< /Length 2616 >>
 stream
 1 0 0 1 0 0 cm 
 q
@@ -1628,7 +1628,8 @@ Q
 q
 1 0 0 1 62.69291 186.8832 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL 0 0 0 rg /F1+0 10 Tf 12 TL (Performance of CL-VAF. \() Tj (click on image to enlarge) Tj (\)) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1+0 10 Tf 12 TL (Performance of CL-VAF.) Tj T* ET
 Q
 Q
  
@@ -2330,24 +2331,24 @@ xref
 0000453287 00000 n
 0000453442 00000 n
 0000453585 00000 n
-0000456347 00000 n
-0000458946 00000 n
-0000461282 00000 n
-0000469234 00000 n
-0000471781 00000 n
-0000471926 00000 n
-0000472003 00000 n
-0000472080 00000 n
-0000472157 00000 n
-0000472234 00000 n
+0000456300 00000 n
+0000458899 00000 n
+0000461235 00000 n
+0000469187 00000 n
+0000471734 00000 n
+0000471879 00000 n
+0000471956 00000 n
+0000472033 00000 n
+0000472110 00000 n
+0000472187 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\3462\321\320\354\343,f\327\376\)``]\2260) (\3462\321\320\354\343,f\327\376\)``]\2260)] 
+ [(q-e\374\2075\337\220\036\220\300\332]f}\012) (q-e\374\2075\337\220\036\220\300\332]f}\012)] 
 
  /Info 66 0 R
  /Root 65 0 R
  /Size 89 >>
 startxref
-472281
+472234
 %%EOF

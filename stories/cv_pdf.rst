@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_pdf
-.. date: 20131216 16:32:57
+.. date: 20131216 16:38:29
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -50,7 +50,7 @@ The following softwares were developed by me and can be modified and distributed
    :width: 1124
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
-Performance of CL-VAF. (**click on image to enlarge**)
+Performance of CL-VAF.
 
 .. image:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 1124
