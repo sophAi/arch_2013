@@ -1,8 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>arch_2013</title><link>http://sophAi.github.com/arch_2013/</link><description>archive 2013</description><lastBuildDate>Fri, 16 Aug 2013 23:44:07 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>arch 2013首頁</title><link>http://sophAi.github.com/arch_2013//posts/arch_2013.html</link><description>&lt;!-- title: arch 2013首頁 --&gt;
-&lt;!-- slug: arch_2013 --&gt;
-&lt;!-- date: 20130529 14:59:47 --&gt;
-&lt;!-- tags: --&gt;
-&lt;!-- link: --&gt;
-&lt;!-- description: --&gt;
-&lt;p&gt;暫存區。&lt;/p&gt;</description><guid>http://sophAi.github.com/arch_2013//posts/arch_2013.html</guid><pubDate>Wed, 29 May 2013 06:59:47 GMT</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>arch_2013</title><link>http://sophAi.github.com/arch_2013/</link><description>archive 2013</description><atom:link href="http://sophAi.github.com/arch_2013/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 05 Jan 2014 13:57:35 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>arch 2013首頁</title><link>http://sophAi.github.com/posts/arch_2013.html</link><description>&lt;p&gt;暫存區。&lt;/p&gt;</description><guid>http://sophAi.github.com/posts/arch_2013.html</guid><pubDate>Wed, 29 May 2013 06:59:47 GMT</pubDate></item></channel></rss>
