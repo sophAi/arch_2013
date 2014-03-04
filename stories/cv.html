@@ -1,0 +1,165 @@
+<!DOCTYPE html><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta charset="utf-8"><meta name="description" content="Created at 20130419 13:19:53"><meta name="author" content="Po-Jen Hsu"><title>Curriculum Vitae (許伯任) | arch_2013</title><script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+    },
+    displayAlign: 'center', // Change this to 'center' to center equations.
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}}
+    }
+});
+</script><link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css"><link rel="canonical" href="http://sophAi.github.com/arch_2013/stories/cv.html"><!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    <![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml"><link rel="icon" href="../favicon/camera_GH2.ico" sizes="16x16"></head><body>
+<!-- Menubar -->
+<div class="navbar navbar-fixed-top" id="navbar">
+    <div class="navbar-inner">
+        <div class="container">
+
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </a>
+
+            <a class="brand" href="http://sophAi.github.com/arch_2013/">
+            arch_2013
+            </a>
+            <!-- Everything you want hidden at 940px or less, place within here -->
+            <div class="nav-collapse collapse">
+                <ul class="nav"></ul><!-- Custom search with google--><form id="search" action="http://google.com/search" method="get" class="navbar-form pull-left">
+<input type="hidden" name="q" value="site:sophAi.github.io/arch_2013"><input type="text" name="q" maxlength="255" results="0" placeholder="Search"></form>
+<!-- End of custom search -->
+
+                <ul class="nav pull-right"></ul></div>
+        </div>
+    </div>
+</div>
+<!-- End of Menubar -->
+<div class="container-fluid" id="container-fluid">
+    <!--Body content-->
+    <div class="row-fluid">
+    <div class="span2"></div>
+    <div class="span8">
+    
+    <h1>Curriculum Vitae (許伯任)</h1>
+    <div><p>Name: <strong>Po-Jen Hsu / 許伯任</strong></p>
+<p>Email:   <a class="reference external" href="mailto:clusterga@gmail.com">clusterga@gmail.com</a></p>
+<p>Tel:     +886-952-335534</p>
+<p><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/PoJenHsu_Cv.pdf">(Click on me to download the pdf version)</a></p>
+<p><a class="reference external" href="http://sophai.github.io/arch_2013/stories/cv_zh.html">(Chinese version)</a></p>
+<hr class="docutils"><p>Ph.D, IAMS, TIGP, Academia Sinica (2008 - Now)</p>
+<p>Research Assistant in Physics, National Central University (2005 - 2008)</p>
+<p>Military Service (2003 - 2005)</p>
+<p>M.S. in Physics, National Central University (2000 - 2003)</p>
+<p>B.S. in Physics, National Central University (1996 - 2000)</p>
+<hr class="docutils"><div class="section" id="projects">
+<h3>PROJECTS</h3>
+<p>The following softwares were developed by me and can be modified and distributed under GNU License (GPL). (<strong>Click on each subtitle to the corresponding GitHub repository</strong>)</p>
+<div class="section" id="cl-vaf">
+<h4><a class="reference external" href="https://github.com/sophAi/clvaf.git">CL-VAF</a></h4>
+<p><em>Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)</em></p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/gpu_performance.png"><img alt="../../arch_2013/files_2013/cv/gpu_performance.png" src="../../arch_2013/files_2013/cv/gpu_performance.png" style="width: 480px;"></a>
+<p>Performance of CL-VAF. (<strong>click on image to enlarge</strong>)</p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/clvaf.png"><img alt="../../arch_2013/files_2013/cv/clvaf.png" src="../../arch_2013/files_2013/cv/clvaf.png" style="width: 480px;"></a>
+<p>Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autocorrelation function to each work item in GPU (b). (<strong>click on image to enlarge</strong>)</p>
+<p>The CL-VAF [<a class="reference internal" href="cv.html#id7">1</a>, <a class="reference internal" href="cv.html#id10">4</a>, <a class="reference internal" href="cv.html#id11">5</a>, <a class="reference internal" href="cv.html#id13">7</a>, <a class="reference internal" href="cv.html#id14">8</a>] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project <a class="reference external" href="https://github.com/sophAi/tcom.git">TCOM</a> with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the cross-platform compatibility. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia device. The benchmark is based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.</p>
+</div>
+<div class="section" id="mpi-tools">
+<h4><a class="reference external" href="https://github.com/sophAi/mpitool.git">MPI-Tools</a></h4>
+<p><em>MPICH Tools (Shell Script)</em></p>
+<p>The MPI-Tools has vast functionalities which allow users to construct and deploy the parallel computing in a minute. It's written in shell script to achieve the highest cross-platform transferability.</p>
+</div>
+<div class="section" id="ptmd">
+<h4><a class="reference external" href="https://github.com/sophAi/ptmd.git">PTMD</a></h4>
+<p><em>Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)</em></p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmd.png"><img alt="../../arch_2013/files_2013/cv/ptmd.png" src="../../arch_2013/files_2013/cv/ptmd.png" style="width: 480px;"></a>
+<p>Framework of PTMD. (<strong>click on image to enlarge</strong>)</p>
+<p>The PTMD [<a class="reference internal" href="cv.html#id9">3</a>-<a class="reference internal" href="cv.html#id11">5</a>] is an implementation of the software engineering. It is designed for big data analysis in bioinformatic system and is possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.</p>
+</div>
+<div class="section" id="ptmbhga">
+<h4><a class="reference external" href="https://github.com/sophAi/ptmbhga.git">PTMBHGA</a></h4>
+<p><em>Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)</em></p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmbhga.png"><img alt="../../arch_2013/files_2013/cv/ptmbhga.png" src="../../arch_2013/files_2013/cv/ptmbhga.png" style="width: 480px;"></a>
+<p>Framework of PTMBHGA. (<strong>click on image to enlarge</strong>)</p>
+<p>The PTMBHGA [<a class="reference internal" href="cv.html#id9">3</a>-<a class="reference internal" href="cv.html#id11">5</a>,<a class="reference internal" href="cv.html#id15">9</a>-<a class="reference internal" href="cv.html#id17">11</a>] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.</p>
+</div>
+<div class="section" id="d-tools">
+<h4><a class="reference external" href="https://github.com/sophAi/dtool.git">D-Tools</a></h4>
+<p><em>Tools for Diffusion Theory (C/C++)</em></p>
+<p>The D-tools [<a class="reference internal" href="cv.html#id7">1</a>] helps reducing the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. <a class="reference external" href="http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&amp;L=IT">Arnaldo Rapallo</a>.</p>
+</div>
+<div class="section" id="tcom">
+<h4><a class="reference external" href="https://github.com/sophAi/tcom.git">TCOM</a></h4>
+<p><em>Vector Autocorrelation Function with MPICH (MPICH/Fortran)</em></p>
+<p>The TCOM [<a class="reference internal" href="cv.html#id7">1</a>, <a class="reference internal" href="cv.html#id10">4</a>, <a class="reference internal" href="cv.html#id11">5</a>, <a class="reference internal" href="cv.html#id13">7</a>, <a class="reference internal" href="cv.html#id14">8</a>] is an MPICH version of vector autocorrelation calculation. Later, I wrote CL-VAF with GPGPU implemented.</p>
+</div>
+</div>
+<hr class="docutils"><div class="section" id="other-information">
+<h3>OTHER INFORMATION</h3>
+<ul class="simple"><li>Constructor and maintainer of PC clusters (Linux/Unix) and mail/version control (SVN/Git) system in <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/index.html">Prof. San-Kiong Lai's Lab</a>.</li>
+<li><a class="reference external" href="../../arch_2013/files_2013/cv/hope_award.jpg">Best Team Presentation Award</a>, <a class="reference external" href="http://www.jsps.go.jp/english/e-hope/gaiyou4.html">4th Hope Meeting</a>, 2012, Japan.</li>
+<li>Main speaker of open sources in physics in <a class="reference external" href="http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10">ICOS2009</a>. (<a class="reference external" href="../../arch_2013/files_2013/cv/icos2009.pdf">slides</a>)</li>
+<li>Chinese translations of PhET education project in physics.<ol class="arabic"><li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/davisson-germer">Davission-Germer Experiment</a></li>
+<li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/stern-gerlach">Stern-Gerlach Experiment</a></li>
+<li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference">Quantum Wave Interference</a></li>
+<li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling">Quantum Tunneling</a></li>
+<li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/bound-states">Quantum Bound States</a></li>
+<li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/covalent-bonds">Covalent Bonds</a></li>
+<li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/band-structure">Band Structure</a></li>
+</ol></li>
+<li>Applied statistics [<a class="reference internal" href="cv.html#id9">3</a>] and numerical simulation teaching.</li>
+<li>Time series analysis [<a class="reference internal" href="cv.html#id8">2</a>], parallel computing, GPGPU computing, and computation algorithm.</li>
+</ul><!-- 文章結尾 --><!-- 超連結(URL)目的區 --><!-- 註腳(Footnote)與引用(Citation)區 --></div>
+<hr class="docutils"><div class="section" id="references">
+<h3>REFERENCES</h3>
+<p>(<strong>Click on the title to download the paper</strong>)</p>
+<p id="id7">1. Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets,
+<strong>P. J. Hsu</strong>, S. K. Lai, and A. Rapallo, J. Chem. Phys. (submitted).</p>
+<p id="id8">2. Weak correlation effect on the folding of transthyretin fragment studied by the shape similarity technique and time series methods,
+<strong>P. J. Hsu</strong>, S. A. Cheong, and S. K. Lai, Europhys Lett. (accepted).</p>
+<p id="id9">3. A new perspective of shape recognition to discover the phase transition of finite-size clusters,
+<strong>P. J. Hsu</strong>, J. Comput. Chem. (accepted).</p>
+<p id="id10">4. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf">Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes</a>,
+P. H. Tang, T. M. Wu, <strong>P. J. Hsu</strong>, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012).</p>
+<p id="id11">5. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf">Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation</a>,
+P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and <strong>P. J. Hsu</strong>, J. Chem. Phys. 135, 094302 (2011).</p>
+<p id="id12">6. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf">Dynamical study of metallic clusters using the statistical method of time series clustering</a>,
+S. K. Lai, Y. T. Lin, <strong>P. J. Hsu</strong>, and S. A. Cheong, Compt. Phys. Commun. 182, 1013 (2011).</p>
+<p id="id13">7. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf">Melting behavior of noble-metal-based bimetallic clusters</a>,
+T. W. Yen, <strong>P. J. Hsu</strong>, and S. K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009).</p>
+<p id="id14">8. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf">Melting scenario in metallic clusters</a>,
+<strong>P. J. Hsu</strong>, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008).</p>
+<p id="id15">9. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf">Structure of bimetallic clusters</a>,
+<strong>P. J. Hsu</strong> and S. K. Lai, J. Chem. Phys. 124, 044711 (2006).</p>
+<p id="id16">10. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf">Multi-canonical basin-hopping: a new global optimization method for complex systems</a>,
+L. Zhan, B. Piwowar, W. K. Liu, <strong>P. J. Hsu</strong>, S. K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004).</p>
+<p id="id17">11. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf">Structures of metallic clusters: mono- and polyvalent metals</a>,
+S. K. Lai, <strong>P. J. Hsu</strong>, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).</p>
+</div></div>
+
+    </div>
+    </div>
+    <!--End of body content-->
+</div>
+<div class="footerbox">
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/80x15.png"></a>  Contents © 2014 <a href="https://www.facebook.com/M43Happiness">Po-Jen Hsu</a> with <a href="http://nikola.ralsina.com.ar">Nikola</a> - It is a journey towards happiness.  <a href="http://feeds.feedburner.com/github/NODC" rel="alternate" type="application/rss+xml"><img src="//feedburner.google.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"></a> <a href="http://feeds.feedburner.com/github/NODC" rel="alternate" type="application/rss+xml">RSS</a>  <a href="http://feeds.feedburner.com/github/NODC"><img src="http://feeds.feedburner.com/~fc/github/NODC?bg=FFFFFF&amp;fg=444444&amp;anim=1" height="26" width="88" style="border:0" alt=""></a>
+</div>
+
+            <script src="../assets/js/all-nocdn.js" type="text/javascript"></script><!-- Social buttons --><div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
+<a class="addthis_button_more">Share</a>
+<ul><li><a class="addthis_button_facebook"></a>
+</li><li><a class="addthis_button_google_plusone_share"></a>
+</li><li><a class="addthis_button_linkedin"></a>
+</li><li><a class="addthis_button_twitter"></a>
+</li></ul></div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script><!-- End of social buttons --><script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+    $(window).on('hashchange', function(){
+        if (location.hash && $(location.hash)[0]) {
+            $('body').animate({scrollTop: $(location.hash).offset().top - $('#navbar').outerHeight(true)*1.2 }, 1);
+        }
+    });
+    $(document).ready(function(){$(window).trigger('hashchange')});
+    </script></body></html>
