@@ -103,11 +103,17 @@ MathJax.Hub.Config({
 </div>
 <hr class="docutils"><div class="section" id="id3">
 <h2>研究企劃</h2>
-<p>（建構中)</p>
+<p>研究主題: 通用高速平行計算程式開發</p>
+<p>研究主旨: 敝人求學期間接觸許多國外的大型程式專案，深深覺得國內類似的軟體專案仍是少數，且研究結果往往侷限於實驗室，無法將成果推廣或回饋至社會大眾，以科學計算來說，除了採用國外的套裝軟體，國人自行研發的程式往往因為缺少商業價值與使用率，而無法得到永續的發展，吸取PTMD/PTMBHGA的經驗，以通用平行計算為目標進行軟體架構的建立，使其能方便利用GPU，多核心處理器，以及雲端、格點網路計算進行數值模擬與分析，將平行化的程式碼與計算主體分開，降低開發平行化程式的門檻。初期以最佳化演算法，蒙地卡羅法，基因演算法與分子動力學為基本功能，同時也適用於一般性的數值計算平行化，此軟體將以開放原始碼發佈，以期任何研究單位均能受惠。</p>
+<p>計劃階段:</p>
+<p># 以Python為膠水語言，作為資料轉換以及平行化(或循序)排程之用途，所轉換的資料具有統一格式，以C/C++/JAVA/Fortran..等各式語言所寫成的子程式進行讀取並執行計算以得到最佳的效能，同時提供容錯與分析大量資料的能力，程式以跨平台、標準化、與高擴充性，同時維持高效能為主要的設計方向。</p>
+<p># 透過演講與課程教學推廣該軟體，積極尋求大專院校與跨領域研究單位的合作，並協助合作單位進行計算程式的平行化，使其能快速完成程式設計的部份，充份使用高速計算的資源，使高速計算設備從benchmark測試提升至實際用途，同時藉由這樣的合作模式加強與擴充該通用計算程式的功能。</p>
+<p># 建立程式的專頁(SourceForge或github)，成立教學與討論資源網站，持續降低擴充程式的門檻，甚至向高中以下的學生進行推廣，以期帶動台灣科學計算的教育普及，提升國人與下一代的科學水平。</p>
 </div>
 <hr class="docutils"><div class="section" id="id4">
 <h2>其他資訊</h2>
-<ul class="simple"><li>在<a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/index.html">中央大學複雜液體實驗室</a>裡，我從採購硬體與組裝配件開始，到系統的安裝與測試，幾乎是從0開始打造了實驗室的PC Cluster機房環境，同時也架設了各式伺服器，包含郵件，網頁(實驗室網頁建立)，以及版本控制(SVN/Git)伺服器。</li>
+<ul class="simple"><li>具制訂研究題目、執行研究與分析結果、撰寫並發表研究於國際期刊(Journal of Computational Chemistry; SCI; Impact Factor: 3.835)之能力與經驗[<a class="reference internal" href="cv_zh.html#id13">1</a>,為獨立作者]。</li>
+<li>在<a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/index.html">中央大學複雜液體實驗室</a>裡，我從採購硬體與組裝配件開始，到系統的安裝與測試，幾乎是從0開始打造了實驗室的PC Cluster機房環境，同時也架設了各式伺服器，包含郵件，網頁(實驗室網頁建立)，版本控制(SVN/Git)與Hadoop伺服器。</li>
 <li><a class="reference external" href="../../arch_2013/files_2013/cv/hope_award.jpg">Best Team Presentation Award</a>, <a class="reference external" href="http://www.jsps.go.jp/english/e-hope/gaiyou4.html">4th Hope Meeting</a>, 2012, Japan.</li>
 <li>2009年 <a class="reference external" href="http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10">ICOS2009</a>物理類主要演講者. (<a class="reference external" href="../../arch_2013/files_2013/cv/icos2009.pdf">slides</a>)</li>
 <li>教育部<a class="reference external" href="http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_linux/_ezgo.html">EzGo</a>專案的PhET線上教育推廣，物理實驗軟體的中文翻譯者，翻譯作品如下:<ol class="arabic"><li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/davisson-germer">Davission-Germer Experiment</a></li>
@@ -126,13 +132,10 @@ MathJax.Hub.Config({
 <hr class="docutils"><div class="section" id="id12">
 <h2>發表文獻</h2>
 <p>(<strong>點選題目可下載發表期刊文章</strong>)</p>
-<p id="id13">1. Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets,
-<strong>P. J. Hsu</strong>, S. K. Lai, and A. Rapallo, J. Chem. Phys. (submitted).</p>
-<p id="id14">2. Weak correlation effect on the folding of transthyretin fragment studied by the shape similarity technique and time series methods,
-<strong>P. J. Hsu</strong>, S. A. Cheong, and S. K. Lai, Europhys Lett. (accepted).</p>
-<p id="id15">3. A new perspective of shape recognition to discover the phase transition of finite-size clusters,
-<strong>P. J. Hsu</strong>, J. Comput. Chem. (accepted).</p>
-<p id="id16">4. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf">Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes</a>,
+<ol class="arabic simple" id="id13"><li>Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets, <strong>P. J. Hsu</strong>, S. K. Lai, and A. Rapallo, J. Chem. Phys. (accepted by Journal of Chemical Physics).</li>
+</ol><ol class="arabic simple" id="id14" start="2"><li>Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms , <strong>P. J. Hsu</strong>, S. A. Cheong, and S. K. Lai. (submitted).</li>
+</ol><ol class="arabic simple" id="id15" start="3"><li>A new perspective of shape recognition to discover the phase transition of finite-size clusters, <strong>P. J. Hsu</strong>, J. Comput. Chem. (accepted by Journal of Computational Chemistry).</li>
+</ol><p id="id16">4. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf">Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes</a>,
 P. H. Tang, T. M. Wu, <strong>P. J. Hsu</strong>, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012).</p>
 <p id="id17">5. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf">Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation</a>,
 P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and <strong>P. J. Hsu</strong>, J. Chem. Phys. 135, 094302 (2011).</p>
