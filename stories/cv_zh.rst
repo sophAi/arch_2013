@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh
-.. date: 20140312 17:00:44
+.. date: 20140312 21:23:03
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -217,15 +217,18 @@ _________________________________________________
 
 .. _1:
 
-1. A new perspective of shape recognition to discover the phase transition of finite-size clusters, **P. J. Hsu**, J. Comput. Chem. (2014) (accepted).
+1. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf>`_, 
+**P. J. Hsu**, J. Comput. Chem. (2014) (accepted).
 
 .. _2: 
 
-2. Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets, **P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. (2014) (accepted).
+2. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf>`_, 
+**P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. (2014) (accepted).
 
 .. _3: 
 
-3. Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms , **P. J. Hsu**, S. A. Cheong, and S. K. Lai. (2014) (submitted).
+3. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf>`_, 
+**P. J. Hsu**, S. A. Cheong, and S. K. Lai. (2014) (submitted).
 
 .. _4: 
 
