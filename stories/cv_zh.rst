@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh
-.. date: 20140312 12:41:44
+.. date: 20140312 12:49:58
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -146,7 +146,7 @@ ___________________________________________
 
 * 具制訂研究題目、執行研究與分析結果、撰寫並發表研究於國際期刊(Journal of Computational Chemistry; SCI; Impact Factor: 3.835)之能力與經驗[`1`_] (獨立作者)。
 
-* 在\ `中央大學複雜液體實驗室`_\ 裡，我從採購硬體與組裝配件開始，到系統的安裝與測試，幾乎是從0開始打造了實驗室的PC Cluster機房環境，同時也架設了各式伺服器，包含郵件，網頁(實驗室網頁建立)，版本控制(SVN/Git)與Hadoop伺服器。
+* 在\ `中央大學複雜液體實驗室`_\ 裡，我從採購硬體與組裝配件開始，到系統的安裝與測試，幾乎是從零開始打造了實驗室的PC Cluster機房環境，同時也架設了各式伺服器，包含郵件，網頁(實驗室網頁建立)，與版本控制(SVN/Git)伺服器等。
 
 * \ `Best Team Presentation Award`_\ , \ `4th Hope Meeting`_\ , 2012, Japan。
 
