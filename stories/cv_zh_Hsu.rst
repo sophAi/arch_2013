@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140313 14:24:34
+.. date: 20140313 15:00:17
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -9,12 +9,14 @@
 .. 同時，別忘了加上tags喔!
 
 *********************************************
-Curriculum Vitae - Po-Jen Hsu / 許伯任
+履歷表 - Po-Jen Hsu / 許伯任
 *********************************************
 
 .. 文章起始CONTACT INFORMATION
 
 **Po-Jen Hsu / 許伯任**
+
+性別: 男
 
 Email:   clusterga@gmail.com
 
@@ -29,13 +31,13 @@ __________________________________________________
 教育與經歷
 ----------
 
-博士班, 中央研究院原子與分子科學研究所國際研究生(TIGP) (2008 - Now)
+博士班, 中央研究院原子與分子科學研究所國際研究生(TIGP) (2008 - Now) [`1`_-`5`_]
 
-中央大學物理所專任研究助理 (2005 - 2008)
+中央大學物理所專任研究助理 (2005 - 2008)，專職高速平行計算環境的建立與撰寫數值模擬程式。[`6`_-`8`_]
 
 兵役，海巡 (2003 - 2005) 
 
-中央大學物理所碩士 (2000 - 2003)
+中央大學物理所碩士 (2000 - 2003) [`9`_-`11`_]
 
 中央大學物理系學士 (1996 - 2000)
 
@@ -101,7 +103,7 @@ PTMD [`1`_-\ `5`_\ ]是一個以MPICH/Fortran撰寫的數值模擬程式，屬�
 
 .. **圖(4)** PTMBHGA的設計架構。
 
-PTMBHGA [`1`_-\ `5`_,\ `9`_-\ `11`_\ ] 是一個以MPICH/Fortran撰寫的平行化最佳化軟體。該程式包含了基因演算法、平行溫度蒙地卡羅法(Parallel Tempering Monte Carlo)、模擬熱退火(Simulated Annealing)、Multicanonical蒙地卡邏法、Basin Hopping法等各式廣為採用的最佳化演算法，並將這些方法結合成一個綜合各演算法長處的最佳化方法，經實驗證實可以準確預測個別最佳化方法獨立執行所無法預測的一些結果，例如合金分子叢集的最穩定結構[`9`_\ ]，此程式具廣泛的適用性，並已經應用在分子叢集(Cluster)最佳化、最大熵定理計算(Maximal Entropy)及石墨烯(Graphene)的結構分析等。
+PTMBHGA [`1`_-\ `5`_,\ `9`_-\ `11`_\ ] 是一個以MPICH/Fortran撰寫的平行化最佳化軟體。該程式包含了基因演算法、平行溫度蒙地卡羅法(Parallel Tempering Monte Carlo)、模擬熱退火(Simulated Annealing)、Multicanonical蒙地卡羅法、Basin Hopping法等各式廣為採用的最佳化演算法，並將這些方法結合成一個綜合各演算法長處的最佳化方法，經實驗證實可以準確預測個別最佳化方法獨立執行所無法預測的一些結果，例如合金分子叢集的最穩定結構[`9`_\ ]，此程式具廣泛的適用性，並已經應用在分子叢集(Cluster)最佳化、最大熵定理計算(Maximal Entropy)及石墨烯(Graphene)的結構分析等。
 
 
 `D-Tools`_
@@ -163,17 +165,17 @@ ___________________________________________
 
 .. _本網頁pdf版本，請點選下載: http://sophAi.github.io/arch_2013/files_2013/cv/cv_zh_Hsu.pdf
 
-.. _CL-VAF: https://github.com/sophAi/clvaf.git
+.. _CL-VAF: http://github.com/sophAi/clvaf
 
-.. _MPI-Tools: https://github.com/sophAi/mpitool.git
+.. _MPI-Tools: http://github.com/sophAi/mpitool
 
-.. _PTMBHGA: https://github.com/sophAi/ptmbhga.git
+.. _PTMBHGA: http://github.com/sophAi/ptmbhga
 
-.. _PTMD: https://github.com/sophAi/ptmd.git
+.. _PTMD: http://github.com/sophAi/ptmd
 
-.. _D-Tools: https://github.com/sophAi/dtool.git
+.. _D-Tools: http://github.com/sophAi/dtool
 
-.. _TCOM: https://github.com/sophAi/tcom.git
+.. _TCOM: http://github.com/sophAi/tcom
 
 .. _ICOS2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
 
