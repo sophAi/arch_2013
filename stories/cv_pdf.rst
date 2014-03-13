@@ -1,7 +1,7 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_pdf
-.. date: 20131216 16:38:29
-.. tags: 
+.. date: 20140313 14:06:23
+.. tags: draft 
 .. link: 
 .. description: Created at 20130419 13:19:53
 
