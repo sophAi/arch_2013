@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140313 23:03:35
+.. date: 20140313 23:36:57
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -22,7 +22,7 @@ Email:   clusterga@gmail.com
 
 Tel:     +886-952-335534
 
-.. (\ `本網頁pdf版本，請點選下載`_\ )
+(\ `本網頁pdf版本，請點選下載`_\ )
 
 .. `(English version) <http://sophai.github.io/arch_2013/stories/cv.html>`_
 
