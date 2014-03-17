@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140313 23:36:57
+.. date: 20140317 09:43:24
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -20,7 +20,7 @@
 
 Email:   clusterga@gmail.com
 
-Tel:     +886-952-335534
+Tel:     0952335534
 
 (\ `本網頁pdf版本，請點選下載`_\ )
 
@@ -206,7 +206,7 @@ _________________________________________________
 
 .. _2: 
 
-2. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf>`_, **P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. (2014) (accepted).
+2. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf>`_, **P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. 140, 104910 (2014).
 
 .. _3: 
 
