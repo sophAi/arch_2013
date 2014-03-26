@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140326 14:36:32
+.. date: 20140326 14:45:00
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -149,11 +149,11 @@ ___________________________________________
   #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
-* O'Reilly Java Network Programming, 4th Edition譯者(翻譯中)。
+* O'Reilly Java Network Programming, 4th Edition原文書翻譯者(翻譯中)。
 
 * 應用統計(Python) [`3`_\ ]、時間序列分析(Time series analysis) [`2`_\ ]與數值模擬(Matlab/Octave)等課程教學。
 
-* PC Cluster/GPGPU 計算環境的建立與運用、Linux伺服器架設/管理與平行化程式設計(MPICH/OpenCL)等課程教學。
+* PC Cluster/GPGPU 計算環境的建立與運用、Linux伺服器架設/管理與平行化程式設計等課程教學。
 
 * 統計物理、量子物理、應用數學、計算機概論、數值模擬與演算法課程教學。
 
