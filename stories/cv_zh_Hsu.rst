@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140317 09:43:24
+.. date: 20140326 14:36:32
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -55,17 +55,17 @@ ___________________________________________________
 
 *Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
 
-.. .. image:: ../../arch_2013/files_2013/cv/gpu_performance.png
+.. image:: ../../arch_2013/files_2013/cv/gpu_performance.png
    :width: 480
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
-.. **圖(1)** CL-VAF的效能，藍線為CPU效能。 
+**圖(1)** CL-VAF的效能，藍線為CPU效能。 
 
-.. .. image:: ../../arch_2013/files_2013/cv/clvaf.png
+.. image:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 480
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
-.. **圖(2)** 以GPGPU進行向量函數自相關(vector autocorrealtion)的平行化加速計算: (a) 對於一系列向量，(c) 將序列資料依序讀進odd或even buffer; (b) 將自相關函式的kernel編譯並上傳至GPU的work item，並對buffer裡的序列資料進行計算。
+**圖(2)** 以GPGPU進行向量函數自相關(vector autocorrealtion)的平行化加速計算: (a) 對於一系列向量，(c) 將序列資料依序讀進odd或even buffer; (b) 將自相關函式的kernel編譯並上傳至GPU的work item，並對buffer裡的序列資料進行計算。
 
 
 CL-VAF [`2`_, `4`_, `5`_, `7`_, `8`_\ ] 是一個以C/C++/OpenCL撰寫的計算程式，該程式針對任意維度隨時間變化的向量進行「自相關函數(autocorrelation function)」的計算，並透過GPU之平行化達到加速計算的效果。
@@ -83,11 +83,11 @@ MPI-Tools是一個以Shell Script撰寫的程式，可以在任何Linux/Unix平�
 
 *Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)*
 
-.. .. image:: ../../arch_2013/files_2013/cv/ptmd.png
+.. image:: ../../arch_2013/files_2013/cv/ptmd.png
    :width: 480
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
-.. **圖(3)** PTMD的設計架構。
+**圖(3)** PTMD的設計架構。
 
 PTMD [`1`_-\ `5`_\ ] 是一個以MPICH/Fortran撰寫的數值模擬程式，屬於比較大型的軟體。此程式除了能夠利用MPI平行計算進行分子動力學模擬，尚俱備了彈性分析輸出結果的功能(包含各種時序動態資料與統計資料之分析，可依需求選擇)。能夠依序以模擬1、分析模擬1之結果、模擬2、分析模擬2之結果...等排程功能來縮短計算工作之間的閒置時間，也能讓任何模擬與分析工作自動平行化。
 
@@ -97,11 +97,11 @@ PTMD [`1`_-\ `5`_\ ] 是一個以MPICH/Fortran撰寫的數值模擬程式，屬�
 
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
 
-.. .. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
+.. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
    :width: 480
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
-.. **圖(4)** PTMBHGA的設計架構。
+**圖(4)** PTMBHGA的設計架構。
 
 PTMBHGA [`1`_-\ `5`_,\ `9`_-\ `11`_\ ] 是一個以MPICH/Fortran撰寫的平行化最佳化軟體。該程式包含了基因演算法、平行溫度蒙地卡羅法(Parallel Tempering Monte Carlo)、模擬熱退火(Simulated Annealing)、Multicanonical蒙地卡羅法、Basin Hopping等各式經典的最佳化演算法，並將這些方法結合成一個綜合各演算法長處的最佳化方法，經實驗證實可以準確預測個別最佳化方法獨立執行所無法預測的一些結果，例如合金分子叢集的最穩定結構[`9`_\ ]，此程式具廣泛的適用性，並已經應用在分子叢集(Cluster)最佳化、最大熵定理計算(Maximal Entropy)以及石墨烯(Graphene)的結構分析等。
 
@@ -112,7 +112,7 @@ PTMBHGA [`1`_-\ `5`_,\ `9`_-\ `11`_\ ] 是一個以MPICH/Fortran撰寫的平行�
 *Tools for Diffusion Theory (C/C++)*
 
 
-D-Tools [`2`_\ ] 是一個以C/C++撰寫的程式，為輔助Diffusion Theory理論計算之工具程式。此為我的博士論文中與義大利ISMAC研究單位(相當於台灣的中研院) \ `Arnaldo Rapallo`_\   博士合作的生物化學理論研究所撰寫的工具軟體。
+D-Tools [`2`_\ ] 是一個以C/C++撰寫的程式，為蛋白質擴散理論計算之工具程式。此為我的博士論文中與義大利ISMAC研究單位(相當於台灣的中研院) \ `Arnaldo Rapallo`_\   博士合作的生物化學理論研究所撰寫的工具軟體。
 
 
 `TCOM`_
@@ -148,6 +148,8 @@ ___________________________________________
   #. `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
   #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
+
+* O'Reilly Java Network Programming, 4th Edition譯者(翻譯中)。
 
 * 應用統計(Python) [`3`_\ ]、時間序列分析(Time series analysis) [`2`_\ ]與數值模擬(Matlab/Octave)等課程教學。
 

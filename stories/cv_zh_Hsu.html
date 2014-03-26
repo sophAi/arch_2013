@@ -66,14 +66,10 @@ MathJax.Hub.Config({
 <div class="section" id="cl-vaf">
 <h3><a class="reference external" href="http://github.com/sophAi/clvaf">CL-VAF</a></h3>
 <p><em>Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)</em></p>
-<!-- .. image:: ../../arch_2013/files_2013/cv/gpu_performance.png
-:width: 480
-:target: ../../arch_2013/files_2013/cv/gpu_performance.png -->
-<!-- **圖(1)** CL-VAF的效能，藍線為CPU效能。 -->
-<!-- .. image:: ../../arch_2013/files_2013/cv/clvaf.png
-:width: 480
-:target: ../../arch_2013/files_2013/cv/clvaf.png -->
-<!-- **圖(2)** 以GPGPU進行向量函數自相關(vector autocorrealtion)的平行化加速計算: (a) 對於一系列向量，(c) 將序列資料依序讀進odd或even buffer; (b) 將自相關函式的kernel編譯並上傳至GPU的work item，並對buffer裡的序列資料進行計算。 -->
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/gpu_performance.png"><img alt="../../arch_2013/files_2013/cv/gpu_performance.png" src="../../arch_2013/files_2013/cv/gpu_performance.png" style="width: 480px;"></a>
+<p><strong>圖(1)</strong> CL-VAF的效能，藍線為CPU效能。</p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/clvaf.png"><img alt="../../arch_2013/files_2013/cv/clvaf.png" src="../../arch_2013/files_2013/cv/clvaf.png" style="width: 480px;"></a>
+<p><strong>圖(2)</strong> 以GPGPU進行向量函數自相關(vector autocorrealtion)的平行化加速計算: (a) 對於一系列向量，(c) 將序列資料依序讀進odd或even buffer; (b) 將自相關函式的kernel編譯並上傳至GPU的work item，並對buffer裡的序列資料進行計算。</p>
 <p>CL-VAF [<a class="reference internal" href="cv_zh_Hsu.html#id13">2</a>, <a class="reference internal" href="cv_zh_Hsu.html#id15">4</a>, <a class="reference internal" href="cv_zh_Hsu.html#id16">5</a>, <a class="reference internal" href="cv_zh_Hsu.html#id18">7</a>, <a class="reference internal" href="cv_zh_Hsu.html#id19">8</a>] 是一個以C/C++/OpenCL撰寫的計算程式，該程式針對任意維度隨時間變化的向量進行「自相關函數(autocorrelation function)」的計算，並透過GPU之平行化達到加速計算的效果。</p>
 </div>
 <div class="section" id="mpi-tools">
@@ -84,25 +80,21 @@ MathJax.Hub.Config({
 <div class="section" id="ptmd">
 <h3><a class="reference external" href="http://github.com/sophAi/ptmd">PTMD</a></h3>
 <p><em>Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)</em></p>
-<!-- .. image:: ../../arch_2013/files_2013/cv/ptmd.png
-:width: 480
-:target: ../../arch_2013/files_2013/cv/ptmd.png -->
-<!-- **圖(3)** PTMD的設計架構。 -->
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmd.png"><img alt="../../arch_2013/files_2013/cv/ptmd.png" src="../../arch_2013/files_2013/cv/ptmd.png" style="width: 480px;"></a>
+<p><strong>圖(3)</strong> PTMD的設計架構。</p>
 <p>PTMD [<a class="reference internal" href="cv_zh_Hsu.html#id12">1</a>-<a class="reference internal" href="cv_zh_Hsu.html#id16">5</a>] 是一個以MPICH/Fortran撰寫的數值模擬程式，屬於比較大型的軟體。此程式除了能夠利用MPI平行計算進行分子動力學模擬，尚俱備了彈性分析輸出結果的功能(包含各種時序動態資料與統計資料之分析，可依需求選擇)。能夠依序以模擬1、分析模擬1之結果、模擬2、分析模擬2之結果...等排程功能來縮短計算工作之間的閒置時間，也能讓任何模擬與分析工作自動平行化。</p>
 </div>
 <div class="section" id="ptmbhga">
 <h3><a class="reference external" href="http://github.com/sophAi/ptmbhga">PTMBHGA</a></h3>
 <p><em>Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)</em></p>
-<!-- .. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
-:width: 480
-:target: ../../arch_2013/files_2013/cv/ptmbhga.png -->
-<!-- **圖(4)** PTMBHGA的設計架構。 -->
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmbhga.png"><img alt="../../arch_2013/files_2013/cv/ptmbhga.png" src="../../arch_2013/files_2013/cv/ptmbhga.png" style="width: 480px;"></a>
+<p><strong>圖(4)</strong> PTMBHGA的設計架構。</p>
 <p>PTMBHGA [<a class="reference internal" href="cv_zh_Hsu.html#id12">1</a>-<a class="reference internal" href="cv_zh_Hsu.html#id16">5</a>,<a class="reference internal" href="cv_zh_Hsu.html#id20">9</a>-<a class="reference internal" href="cv_zh_Hsu.html#id22">11</a>] 是一個以MPICH/Fortran撰寫的平行化最佳化軟體。該程式包含了基因演算法、平行溫度蒙地卡羅法(Parallel Tempering Monte Carlo)、模擬熱退火(Simulated Annealing)、Multicanonical蒙地卡羅法、Basin Hopping等各式經典的最佳化演算法，並將這些方法結合成一個綜合各演算法長處的最佳化方法，經實驗證實可以準確預測個別最佳化方法獨立執行所無法預測的一些結果，例如合金分子叢集的最穩定結構[<a class="reference internal" href="cv_zh_Hsu.html#id20">9</a>]，此程式具廣泛的適用性，並已經應用在分子叢集(Cluster)最佳化、最大熵定理計算(Maximal Entropy)以及石墨烯(Graphene)的結構分析等。</p>
 </div>
 <div class="section" id="d-tools">
 <h3><a class="reference external" href="http://github.com/sophAi/dtool">D-Tools</a></h3>
 <p><em>Tools for Diffusion Theory (C/C++)</em></p>
-<p>D-Tools [<a class="reference internal" href="cv_zh_Hsu.html#id13">2</a>] 是一個以C/C++撰寫的程式，為輔助Diffusion Theory理論計算之工具程式。此為我的博士論文中與義大利ISMAC研究單位(相當於台灣的中研院) <a class="reference external" href="http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&amp;L=IT">Arnaldo Rapallo</a>  博士合作的生物化學理論研究所撰寫的工具軟體。</p>
+<p>D-Tools [<a class="reference internal" href="cv_zh_Hsu.html#id13">2</a>] 是一個以C/C++撰寫的程式，為蛋白質擴散理論計算之工具程式。此為我的博士論文中與義大利ISMAC研究單位(相當於台灣的中研院) <a class="reference external" href="http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&amp;L=IT">Arnaldo Rapallo</a>  博士合作的生物化學理論研究所撰寫的工具軟體。</p>
 </div>
 <div class="section" id="tcom">
 <h3><a class="reference external" href="http://github.com/sophAi/tcom">TCOM</a></h3>
@@ -124,6 +116,7 @@ MathJax.Hub.Config({
 <li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/covalent-bonds">Covalent Bonds</a></li>
 <li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/band-structure">Band Structure</a></li>
 </ol></li>
+<li>O'Reilly Java Network Programming, 4th Edition譯者(翻譯中)。</li>
 <li>應用統計(Python) [<a class="reference internal" href="cv_zh_Hsu.html#id14">3</a>]、時間序列分析(Time series analysis) [<a class="reference internal" href="cv_zh_Hsu.html#id13">2</a>]與數值模擬(Matlab/Octave)等課程教學。</li>
 <li>PC Cluster/GPGPU 計算環境的建立與運用、Linux伺服器架設/管理與平行化程式設計(MPICH/OpenCL)等課程教學。</li>
 <li>統計物理、量子物理、應用數學、計算機概論、數值模擬與演算法課程教學。</li>
