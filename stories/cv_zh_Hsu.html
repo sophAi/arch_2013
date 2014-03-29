@@ -53,10 +53,10 @@ MathJax.Hub.Config({
 <!-- `(English version) <http://sophai.github.io/arch_2013/stories/cv.html>`_ -->
 <hr class="docutils"><div class="section" id="id1">
 <h2>教育與經歷</h2>
-<p>博士班, 中央研究院原子與分子科學研究所國際研究生(TIGP) (2008 - Now) [<a class="reference internal" href="cv_zh_Hsu.html#id12">1</a>-<a class="reference internal" href="cv_zh_Hsu.html#id16">5</a>]</p>
-<p>中央大學物理所專任研究助理 (2005 - 2008)，專職高速平行計算環境的建立與撰寫數值模擬程式。[<a class="reference internal" href="cv_zh_Hsu.html#id17">6</a>-<a class="reference internal" href="cv_zh_Hsu.html#id19">8</a>]</p>
+<p>博士班, 中央研究院原子與分子科學研究所國際研究生(TIGP) (2008 - Now) [<a class="reference internal" href="cv_zh_Hsu.html#id13">1</a>-<a class="reference internal" href="cv_zh_Hsu.html#id17">5</a>]</p>
+<p>中央大學物理所專任研究助理 (2005 - 2008)，專職高速平行計算環境的建立與撰寫數值模擬程式。[<a class="reference internal" href="cv_zh_Hsu.html#id18">6</a>-<a class="reference internal" href="cv_zh_Hsu.html#id20">8</a>]</p>
 <p>兵役，海巡 (2003 - 2005)</p>
-<p>中央大學物理所碩士 (2000 - 2003) [<a class="reference internal" href="cv_zh_Hsu.html#id20">9</a>-<a class="reference internal" href="cv_zh_Hsu.html#id22">11</a>]</p>
+<p>中央大學物理所碩士 (2000 - 2003) [<a class="reference internal" href="cv_zh_Hsu.html#id21">9</a>-<a class="reference internal" href="cv_zh_Hsu.html#id23">11</a>]</p>
 <p>中央大學物理系學士 (1996 - 2000)</p>
 <p>輔仁大學物理系轉學 (1995-1996)</p>
 </div>
@@ -70,7 +70,7 @@ MathJax.Hub.Config({
 <p><strong>圖(1)</strong> CL-VAF的效能，藍線為CPU效能。</p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/clvaf.png"><img alt="../../arch_2013/files_2013/cv/clvaf.png" src="../../arch_2013/files_2013/cv/clvaf.png" style="width: 480px;"></a>
 <p><strong>圖(2)</strong> 以GPGPU進行向量函數自相關(vector autocorrealtion)的平行化加速計算: (a) 對於一系列向量，(c) 將序列資料依序讀進odd或even buffer; (b) 將自相關函式的kernel編譯並上傳至GPU的work item，並對buffer裡的序列資料進行計算。</p>
-<p>CL-VAF [<a class="reference internal" href="cv_zh_Hsu.html#id13">2</a>, <a class="reference internal" href="cv_zh_Hsu.html#id15">4</a>, <a class="reference internal" href="cv_zh_Hsu.html#id16">5</a>, <a class="reference internal" href="cv_zh_Hsu.html#id18">7</a>, <a class="reference internal" href="cv_zh_Hsu.html#id19">8</a>] 是一個以C/C++/OpenCL撰寫的計算程式，該程式針對任意維度隨時間變化的向量進行「自相關函數(autocorrelation function)」的計算，並透過GPU之平行化達到加速計算的效果。</p>
+<p>CL-VAF [<a class="reference internal" href="cv_zh_Hsu.html#id14">2</a>, <a class="reference internal" href="cv_zh_Hsu.html#id16">4</a>, <a class="reference internal" href="cv_zh_Hsu.html#id17">5</a>, <a class="reference internal" href="cv_zh_Hsu.html#id19">7</a>, <a class="reference internal" href="cv_zh_Hsu.html#id20">8</a>] 是一個以C/C++/OpenCL撰寫的計算程式，該程式針對任意維度隨時間變化的向量進行「自相關函數(autocorrelation function)」的計算，並透過GPU之平行化達到加速計算的效果。</p>
 </div>
 <div class="section" id="mpi-tools">
 <h3><a class="reference external" href="http://github.com/sophAi/mpitool">MPI-Tools</a></h3>
@@ -82,29 +82,29 @@ MathJax.Hub.Config({
 <p><em>Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)</em></p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmd.png"><img alt="../../arch_2013/files_2013/cv/ptmd.png" src="../../arch_2013/files_2013/cv/ptmd.png" style="width: 480px;"></a>
 <p><strong>圖(3)</strong> PTMD的設計架構。</p>
-<p>PTMD [<a class="reference internal" href="cv_zh_Hsu.html#id12">1</a>-<a class="reference internal" href="cv_zh_Hsu.html#id16">5</a>] 是一個以MPICH/Fortran撰寫的數值模擬程式，屬於比較大型的軟體。此程式除了能夠利用MPI平行計算進行分子動力學模擬，尚俱備了彈性分析輸出結果的功能(包含各種時序動態資料與統計資料之分析，可依需求選擇)。能夠依序以模擬1、分析模擬1之結果、模擬2、分析模擬2之結果...等排程功能來縮短計算工作之間的閒置時間，也能讓任何模擬與分析工作自動平行化。</p>
+<p>PTMD [<a class="reference internal" href="cv_zh_Hsu.html#id13">1</a>-<a class="reference internal" href="cv_zh_Hsu.html#id17">5</a>] 是一個以MPICH/Fortran撰寫的數值模擬程式，屬於比較大型的軟體。此程式除了能夠利用MPI平行計算進行分子動力學模擬，尚俱備了彈性分析輸出結果的功能(包含各種時序動態資料與統計資料之分析，可依需求選擇)。能夠依序以模擬1、分析模擬1之結果、模擬2、分析模擬2之結果...等排程功能來縮短計算工作之間的閒置時間，也能讓任何模擬與分析工作自動平行化。</p>
 </div>
 <div class="section" id="ptmbhga">
 <h3><a class="reference external" href="http://github.com/sophAi/ptmbhga">PTMBHGA</a></h3>
 <p><em>Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)</em></p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmbhga.png"><img alt="../../arch_2013/files_2013/cv/ptmbhga.png" src="../../arch_2013/files_2013/cv/ptmbhga.png" style="width: 480px;"></a>
 <p><strong>圖(4)</strong> PTMBHGA的設計架構。</p>
-<p>PTMBHGA [<a class="reference internal" href="cv_zh_Hsu.html#id12">1</a>-<a class="reference internal" href="cv_zh_Hsu.html#id16">5</a>,<a class="reference internal" href="cv_zh_Hsu.html#id20">9</a>-<a class="reference internal" href="cv_zh_Hsu.html#id22">11</a>] 是一個以MPICH/Fortran撰寫的平行化最佳化軟體。該程式包含了基因演算法、平行溫度蒙地卡羅法(Parallel Tempering Monte Carlo)、模擬熱退火(Simulated Annealing)、Multicanonical蒙地卡羅法、Basin Hopping等各式經典的最佳化演算法，並將這些方法結合成一個綜合各演算法長處的最佳化方法，經實驗證實可以準確預測個別最佳化方法獨立執行所無法預測的一些結果，例如合金分子叢集的最穩定結構[<a class="reference internal" href="cv_zh_Hsu.html#id20">9</a>]，此程式具廣泛的適用性，並已經應用在分子叢集(Cluster)最佳化、最大熵定理計算(Maximal Entropy)以及石墨烯(Graphene)的結構分析等。</p>
+<p>PTMBHGA [<a class="reference internal" href="cv_zh_Hsu.html#id13">1</a>-<a class="reference internal" href="cv_zh_Hsu.html#id17">5</a>,<a class="reference internal" href="cv_zh_Hsu.html#id21">9</a>-<a class="reference internal" href="cv_zh_Hsu.html#id23">11</a>] 是一個以MPICH/Fortran撰寫的平行化最佳化軟體。該程式包含了基因演算法、平行溫度蒙地卡羅法(Parallel Tempering Monte Carlo)、模擬熱退火(Simulated Annealing)、Multicanonical蒙地卡羅法、Basin Hopping等各式經典的最佳化演算法，並將這些方法結合成一個綜合各演算法長處的最佳化方法，經實驗證實可以準確預測個別最佳化方法獨立執行所無法預測的一些結果，例如合金分子叢集的最穩定結構[<a class="reference internal" href="cv_zh_Hsu.html#id21">9</a>]，此程式具廣泛的適用性，並已經應用在分子叢集(Cluster)最佳化、最大熵定理計算(Maximal Entropy)以及石墨烯(Graphene)的結構分析等。</p>
 </div>
 <div class="section" id="d-tools">
 <h3><a class="reference external" href="http://github.com/sophAi/dtool">D-Tools</a></h3>
 <p><em>Tools for Diffusion Theory (C/C++)</em></p>
-<p>D-Tools [<a class="reference internal" href="cv_zh_Hsu.html#id13">2</a>] 是一個以C/C++撰寫的程式，為蛋白質擴散理論計算之工具程式。此為我的博士論文中與義大利ISMAC研究單位(相當於台灣的中研院) <a class="reference external" href="http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&amp;L=IT">Arnaldo Rapallo</a>  博士合作的生物化學理論研究所撰寫的工具軟體。</p>
+<p>D-Tools [<a class="reference internal" href="cv_zh_Hsu.html#id14">2</a>] 是一個以C/C++撰寫的程式，為蛋白質擴散理論計算之工具程式。此為我的博士論文中與義大利ISMAC研究單位(相當於台灣的中研院) <a class="reference external" href="http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&amp;L=IT">Arnaldo Rapallo</a>  博士合作的生物化學理論研究所撰寫的工具軟體。</p>
 </div>
 <div class="section" id="tcom">
 <h3><a class="reference external" href="http://github.com/sophAi/tcom">TCOM</a></h3>
 <p><em>Vector Autocorrelation Function with MPICH (MPICH/Fortran)</em></p>
-<p>TCOM [<a class="reference internal" href="cv_zh_Hsu.html#id13">2</a>, <a class="reference internal" href="cv_zh_Hsu.html#id15">4</a>, <a class="reference internal" href="cv_zh_Hsu.html#id16">5</a>, <a class="reference internal" href="cv_zh_Hsu.html#id18">7</a>, <a class="reference internal" href="cv_zh_Hsu.html#id19">8</a>] 是MPI版本的向量自相關函式計算程式，為OpenCL版本的CL-VAF之前身。</p>
+<p>TCOM [<a class="reference internal" href="cv_zh_Hsu.html#id14">2</a>, <a class="reference internal" href="cv_zh_Hsu.html#id16">4</a>, <a class="reference internal" href="cv_zh_Hsu.html#id17">5</a>, <a class="reference internal" href="cv_zh_Hsu.html#id19">7</a>, <a class="reference internal" href="cv_zh_Hsu.html#id20">8</a>] 是MPI版本的向量自相關函式計算程式，為OpenCL版本的CL-VAF之前身。</p>
 </div>
 </div>
 <hr class="docutils"><div class="section" id="id3">
 <h2>其他資訊</h2>
-<ul class="simple"><li>具訂立研究題目、執行研究與分析結果、撰寫並發表成果於國際期刊(SCI)之能力與經驗[<a class="reference internal" href="cv_zh_Hsu.html#id12">1</a>] 。</li>
+<ul class="simple"><li>具訂立研究題目、執行研究與分析結果、撰寫並發表成果於國際期刊(SCI)之能力與經驗[<a class="reference internal" href="cv_zh_Hsu.html#id13">1</a>] 。</li>
 <li>具有豐富的Linux伺服器與PC Cluster之實作與管理經驗。在<a class="reference external" href="https://tinyurl.com/n3eqvrw">中央大學複雜液體實驗室</a>裡擔任研究助理的期間(2005-2008)，敝人從採購機器、組裝硬體，到機房的配置、系統的安裝與設定等，從無到有建立了多組實驗室的PC Cluster系統，同時也架設了各式伺服器，包含郵件、網頁(實驗室網頁建立)與版本控制(SVN/Git)伺服器等。</li>
 <li>2012年於日本國際會議獲得最佳團體報告獎，由諾貝爾物理獎得主小林誠親自授獎: <a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/hope_award.jpg">Best Team Presentation Award</a>, <a class="reference external" href="http://www.jsps.go.jp/english/e-hope/gaiyou4.html">4th Hope Meeting</a>, 2012, Japan。</li>
 <li>2009年開放源碼國際研討會<a class="reference external" href="http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10">ICOS2009</a>物理類開源碼演講者。(<a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/icos2009.pdf">slides</a>)</li>
@@ -117,26 +117,31 @@ MathJax.Hub.Config({
 <li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/band-structure">Band Structure</a></li>
 </ol></li>
 <li>O'Reilly Java Network Programming, 4th Edition原文書翻譯者(翻譯中)。</li>
-<li>應用統計(Python) [<a class="reference internal" href="cv_zh_Hsu.html#id14">3</a>]、時間序列分析(Time series analysis) [<a class="reference internal" href="cv_zh_Hsu.html#id13">2</a>]與數值模擬(Matlab/Octave)等課程教學。</li>
+<li>應用統計(Python) [<a class="reference internal" href="cv_zh_Hsu.html#id15">3</a>]、時間序列分析(Time series analysis) [<a class="reference internal" href="cv_zh_Hsu.html#id14">2</a>]與數值模擬(Matlab/Octave)等課程教學。</li>
 <li>PC Cluster/GPGPU 計算環境的建立與運用、Linux伺服器架設/管理與平行化程式設計等課程教學。</li>
 <li>統計物理、量子物理、應用數學、計算機概論、數值模擬與演算法課程教學。</li>
 <li>自由軟體推廣、科學計算軟體專案建立、大型軟體程式設計、Latex文件撰寫與簡報等課程教學。</li>
 <li>對於學習充滿熱忱，喜好分享，個性溫和，樂於助人，認真負責，富團隊合作精神。</li>
+</ul></div>
+<div class="section" id="id4">
+<h2>推薦人</h2>
+<ul class="simple"><li>鄭王曜 教授(中央大學物理系，Email: <a class="reference external" href="mailto:wycheng@ncu.edu.tw">wycheng@ncu.edu.tw</a> /電話:(03)4227151#65337)</li>
+<li>陳永富 教授(中央大學物理系， Email: <a class="reference external" href="mailto:yfuchen@cc.ncu.edu.tw">yfuchen@cc.ncu.edu.tw</a> /電話:(03)4227151#65375)</li>
 </ul><!-- 文章結尾 --><!-- 超連結(URL)目的區 --><!-- 註腳(Footnote)與引用(Citation)區 --></div>
-<hr class="docutils"><div class="section" id="id11">
+<hr class="docutils"><div class="section" id="id12">
 <h2>發表文獻</h2>
 <p>(<strong>點選題目可下載相關文章</strong>)</p>
-<ol class="arabic simple" id="id12"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf">A new perspective of shape recognition to discover the phase transition of finite-size clusters</a>, <strong>P. J. Hsu</strong>, J. Comput. Chem. (2014) (accepted).</li>
-</ol><ol class="arabic simple" id="id13" start="2"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf">Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets</a>, <strong>P. J. Hsu</strong>, S. K. Lai, and A. Rapallo, J. Chem. Phys. 140, 104910 (2014).</li>
-</ol><ol class="arabic simple" id="id14" start="3"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf">Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms</a>, <strong>P. J. Hsu</strong>, S. A. Cheong, and S. K. Lai. (2014) (submitted).</li>
-</ol><ol class="arabic simple" id="id15" start="4"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/84.pdf">Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes</a>, P. H. Tang, T. M. Wu, <strong>P. J. Hsu</strong>, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012).</li>
-</ol><ol class="arabic simple" id="id16" start="5"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/82.pdf">Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation</a>, P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and <strong>P. J. Hsu</strong>, J. Chem. Phys. 135, 094302 (2011).</li>
-</ol><ol class="arabic simple" id="id17" start="6"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/81.pdf">Dynamical study of metallic clusters using the statistical method of time series clustering</a>, S. K. Lai, Y. T. Lin, <strong>P. J. Hsu</strong>, and S. A. Cheong, Compt. Phys. Commun. 182, 1013 (2011).</li>
-</ol><ol class="arabic simple" id="id18" start="7"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/78.pdf">Melting behavior of noble-metal-based bimetallic clusters</a>, T. W. Yen, <strong>P. J. Hsu</strong>, and S. K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009).</li>
-</ol><ol class="arabic simple" id="id19" start="8"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/77.pdf">Melting scenario in metallic clusters</a>, <strong>P. J. Hsu</strong>, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008).</li>
-</ol><ol class="arabic simple" id="id20" start="9"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/71.pdf">Structure of bimetallic clusters</a>, <strong>P. J. Hsu</strong> and S. K. Lai, J. Chem. Phys. 124, 044711 (2006).</li>
-</ol><ol class="arabic simple" id="id21" start="10"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/63.pdf">Multi-canonical basin-hopping: a new global optimization method for complex systems</a>, L. Zhan, B. Piwowar, W. K. Liu, <strong>P. J. Hsu</strong>, S. K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004).</li>
-</ol><ol class="arabic simple" id="id22" start="11"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/61.pdf">Structures of metallic clusters: mono- and polyvalent metals</a>, S. K. Lai, <strong>P. J. Hsu</strong>, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).</li>
+<ol class="arabic simple" id="id13"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf">A new perspective of shape recognition to discover the phase transition of finite-size clusters</a>, <strong>P. J. Hsu</strong>, J. Comput. Chem. (2014) (accepted).</li>
+</ol><ol class="arabic simple" id="id14" start="2"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf">Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets</a>, <strong>P. J. Hsu</strong>, S. K. Lai, and A. Rapallo, J. Chem. Phys. 140, 104910 (2014).</li>
+</ol><ol class="arabic simple" id="id15" start="3"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf">Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms</a>, <strong>P. J. Hsu</strong>, S. A. Cheong, and S. K. Lai. (2014) (submitted).</li>
+</ol><ol class="arabic simple" id="id16" start="4"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/84.pdf">Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes</a>, P. H. Tang, T. M. Wu, <strong>P. J. Hsu</strong>, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012).</li>
+</ol><ol class="arabic simple" id="id17" start="5"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/82.pdf">Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation</a>, P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and <strong>P. J. Hsu</strong>, J. Chem. Phys. 135, 094302 (2011).</li>
+</ol><ol class="arabic simple" id="id18" start="6"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/81.pdf">Dynamical study of metallic clusters using the statistical method of time series clustering</a>, S. K. Lai, Y. T. Lin, <strong>P. J. Hsu</strong>, and S. A. Cheong, Compt. Phys. Commun. 182, 1013 (2011).</li>
+</ol><ol class="arabic simple" id="id19" start="7"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/78.pdf">Melting behavior of noble-metal-based bimetallic clusters</a>, T. W. Yen, <strong>P. J. Hsu</strong>, and S. K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009).</li>
+</ol><ol class="arabic simple" id="id20" start="8"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/77.pdf">Melting scenario in metallic clusters</a>, <strong>P. J. Hsu</strong>, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008).</li>
+</ol><ol class="arabic simple" id="id21" start="9"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/71.pdf">Structure of bimetallic clusters</a>, <strong>P. J. Hsu</strong> and S. K. Lai, J. Chem. Phys. 124, 044711 (2006).</li>
+</ol><ol class="arabic simple" id="id22" start="10"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/63.pdf">Multi-canonical basin-hopping: a new global optimization method for complex systems</a>, L. Zhan, B. Piwowar, W. K. Liu, <strong>P. J. Hsu</strong>, S. K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004).</li>
+</ol><ol class="arabic simple" id="id23" start="11"><li><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/61.pdf">Structures of metallic clusters: mono- and polyvalent metals</a>, S. K. Lai, <strong>P. J. Hsu</strong>, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).</li>
 </ol></div></div>
 
     </div>
