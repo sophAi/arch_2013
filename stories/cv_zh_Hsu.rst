@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140331 21:48:56
+.. date: 20140331 21:52:44
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -179,7 +179,7 @@ ___________________________________________
 
 .. _本網頁pdf版本，請點選下載: http://sophAi.github.io/arch_2013/files_2013/cv/cv_zh_Hsu.pdf
 
-.. _原子與分子研究所: http://tigp.iams.sinica.edu.tw/
+.. _原子與分子科學研究所: http://tigp.iams.sinica.edu.tw/
 
 .. _TIGP: http://tigp.sinica.edu.tw/
 
