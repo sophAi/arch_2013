@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140331 21:52:44
+.. date: 20140331 21:55:28
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -169,8 +169,8 @@ ___________________________________________
 推薦人
 --------------
 
-* 鄭王曜 教授(中央大學物理系，Email: wycheng@ncu.edu.tw /電話:(03)4227151#65337)
-* 陳永富 教授(中央大學物理系， Email: yfuchen@cc.ncu.edu.tw /電話:(03)4227151#65375)
+* \ `鄭王曜`_\  教授(中央大學物理系，Email: wycheng@ncu.edu.tw /電話:(03)4227151#65337)
+* \ `陳永富`_\  教授(中央大學物理系， Email: yfuchen@cc.ncu.edu.tw /電話:(03)4227151#65375)
 
 
 .. 文章結尾
@@ -212,6 +212,10 @@ ___________________________________________
 .. _教育部EzGo自由軟體專案: http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_linux/
 
 .. _Best Team Presentation Award: http://sophAi.github.io/arch_2013/files_2013/cv/hope_award.jpg
+
+.. _鄭王曜: http://www.phy.ncu.edu.tw/?folder=faculty&page=detail.php&pk=271
+
+.. _陳永富: http://www.phy.ncu.edu.tw/?folder=faculty&page=detail.php&pk=270
 
 .. 註腳(Footnote)與引用(Citation)區
 
