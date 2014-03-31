@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140331 20:27:41
+.. date: 20140331 21:34:07
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -13,6 +13,10 @@
 *********************************************
 
 .. 文章起始CONTACT INFORMATION
+
+.. image:: ../../arch_2013/files_2013/cv/PJ_Hsu.JPG
+   :width: 300
+   :target: ../../arch_2013/files_2013/cv/PJ_Hsu.JPG
 
 **Po-Jen Hsu / 許伯任**
 
