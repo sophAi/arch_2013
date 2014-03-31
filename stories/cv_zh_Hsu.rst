@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140329 15:12:45
+.. date: 20140331 20:18:42
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -157,7 +157,7 @@ ___________________________________________
 
 * 統計物理、量子物理、應用數學、計算機概論、數值模擬與演算法課程教學。
 
-* 自由軟體推廣、科學計算軟體專案建立、大型軟體程式設計、Latex文件撰寫與簡報等課程教學。
+* 自由軟體推廣、科學計算軟體專案建立、大型軟體程式設計、Latex文件撰寫[`1`_\-\ `2`_\ ]與\ `簡報`_\ 等課程教學。
 
 * 對於學習充滿熱忱，喜好分享，個性溫和，樂於助人，認真負責，富團隊合作精神。
 
@@ -196,6 +196,8 @@ ___________________________________________
 .. _4th Hope Meeting: http://www.jsps.go.jp/english/e-hope/gaiyou4.html
 
 .. _slides: http://sophAi.github.io/arch_2013/files_2013/cv/icos2009.pdf
+
+.. _簡報: http://sophAi.github.io/arch_2013/files_2013/cv/icos2009.pdf
 
 .. _教育部EzGo自由軟體專案: http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_linux/
 
