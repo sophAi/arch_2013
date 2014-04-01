@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140331 21:55:28
+.. date: 20140401 10:47:39
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -39,7 +39,7 @@ __________________________________________________
 
 中央大學物理所專任研究助理 (2005 - 2008)，專職高速平行計算環境的建立與撰寫數值模擬程式。[`6`_-`8`_]
 
-兵役，海巡 (2003 - 2005) 
+兵役(役畢)，海巡 (2003 - 2005) 
 
 中央大學物理所碩士 (2000 - 2003) [`9`_-`11`_]
 
@@ -153,7 +153,7 @@ ___________________________________________
   #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
   #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
-* O'Reilly Java Network Programming, 4th Edition原文書翻譯者(翻譯中)。
+.. * O'Reilly Java Network Programming, 4th Edition原文書翻譯者(翻譯中)。
 
 * 應用統計(Python) [`3`_\ ]、時間序列分析(Time series analysis) [`2`_\ ]與數值模擬(Matlab/Octave)等課程教學。
 
