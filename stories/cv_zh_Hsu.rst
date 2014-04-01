@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140401 10:47:39
+.. date: 20140401 11:28:20
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -116,7 +116,7 @@ PTMBHGA [`1`_-\ `5`_,\ `9`_-\ `11`_\ ] 是一個以MPICH/Fortran撰寫的平行�
 *Tools for Diffusion Theory (C/C++)*
 
 
-D-Tools [`2`_\ ] 是一個以C/C++撰寫的程式，為蛋白質擴散理論計算之工具程式。此為我的博士論文中與義大利ISMAC研究單位(相當於台灣的中研院) \ `Arnaldo Rapallo`_\   博士合作的生物化學理論研究所撰寫的工具軟體。
+D-Tools [`2`_\ ] 是一個以C/C++撰寫的程式，為蛋白質擴散理論(Diffusion Theory)計算之工具程式。此為我的博士論文中與義大利ISMAC研究單位(相當於台灣的中研院) \ `Arnaldo Rapallo`_\   博士合作的生物化學理論研究所撰寫的工具軟體。
 
 
 `TCOM`_
