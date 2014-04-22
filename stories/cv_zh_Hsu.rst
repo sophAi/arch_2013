@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140401 15:56:01
+.. date: 20140422 22:12:52
 .. tags: 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -228,7 +228,7 @@ _________________________________________________
 
 .. _1:
 
-1. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf>`_, **P. J. Hsu**, J. Comput. Chem. (2014) (accepted).
+1. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf>`_, **P. J. Hsu**, J. Comput. Chem. 35, 1082 (2014).
 
 .. _2: 
 
