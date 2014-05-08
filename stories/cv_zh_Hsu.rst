@@ -1,7 +1,7 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_zh_Hsu
-.. date: 20140422 22:12:52
-.. tags: 
+.. date: 20140508 15:14:25
+.. tags: draft
 .. link: 
 .. description: Created at 20130419 13:19:53
 
@@ -236,7 +236,7 @@ _________________________________________________
 
 .. _3: 
 
-3. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf>`_, **P. J. Hsu**, S. A. Cheong, and S. K. Lai. (2014) (submitted).
+3. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf>`_, **P. J. Hsu**, S. A. Cheong, and S. K. Lai. (2014) (Accepted).
 
 .. _4: 
 
