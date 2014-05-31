@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>http://sophAi.github.com/arch_2013/files_2013/M43/raw_studio/slr-panasonic.xml</loc>
+  <lastmod>2013-08-21</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sophAi.github.com/arch_2013/galleries/About/rss.xml</loc>
+  <lastmod>2014-05-31</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sophAi.github.com/arch_2013/galleries/rss.xml</loc>
+  <lastmod>2014-05-31</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sophAi.github.com/arch_2013/rss.xml</loc>
+  <lastmod>2014-05-31</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sophAi.github.com/arch_2013/sitemap.xml</loc>
+  <lastmod>2014-05-31</lastmod>
+ </sitemap>
+</sitemapindex>
