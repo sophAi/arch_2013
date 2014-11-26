@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141126 11:35:35
+.. date: 20141126 11:41:26
 .. tags: draft 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -26,7 +26,7 @@ Tel:     +886-952-335534
 
 _________________________________________________
 
-EDUCATION
+Education
 ----------
 
 **2014**  Ph.D, Molecular Science and Technology, TIGP, Academia Sinica/Physics, National Central University [`1`_-\ `5`_]
@@ -37,7 +37,7 @@ EDUCATION
 
 _________________________________________________
 
-RESEARCH INTERESTS
+Research Interests
 ------------------
 
 Machine learning
@@ -143,7 +143,7 @@ PTMD [`2`_, `4`_-\ `8`_\ ] is designed for model simulation and several statisti
 
 *Tools for Diffusion Theory (C/C++)*
 
-The D-tools [`3`_] reduces the tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo <http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&L=IT>`_\ from ISMAC, Italy. 
+The D-tools [`3`_] reduces the tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_\ from ISMAC, Italy. 
 
 Other Codes (Mainly matlab and python codes)
 ============================================
@@ -169,7 +169,7 @@ Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Mini
 
 _________________________________________________
 
-PROFESSIONAL EXPERIENCE
+Professional Experience
 --------------------------
 
 **2014 - now**  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible of Image recognition algorithm, hand gesture control algorithm, HTML5 acceleration (WebCL), GPGPU applications and development of Android input system
@@ -181,7 +181,7 @@ PROFESSIONAL EXPERIENCE
 
 _________________________________________________
 
-PROFESSIONAL FIELD
+Professional Field
 --------------------
 
 * Computer vision (OpenCV), hand gesture control, and image recognition 
@@ -194,7 +194,7 @@ PROFESSIONAL FIELD
 
 _________________________________________________
 
-PROFICIENT IN
+Proficient in
 --------------
 
 * C++/C, OpenCL, OpenCV
@@ -221,12 +221,12 @@ Information of recommendation letters
 
 * \ `鄭王曜`_\  教授(中央大學物理系，Email: wycheng@ncu.edu.tw /電話:(03)4227151#65337)
 * \ `陳永富`_\  教授(中央大學物理系， Email: yfuchen@cc.ncu.edu.tw /電話:(03)4227151#65375)
-* \ `Dr. Arnaldo Rapallo` (ISMAC, Italy. Email: rapallo@ismac.cnr.it)
+* \ `Dr. Arnaldo Rapallo`_ (ISMAC, Italy. Email: rapallo@ismac.cnr.it)
 
 _________________________________________________
 
 
-PUBLICATIONS
+Publications
 ------------------
 
 (**Click on the title to download the paper**)
