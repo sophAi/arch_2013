@@ -85,63 +85,97 @@ MathJax.Hub.Config({
 <p><a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/PoJenHsu_Cv.pdf">(Click on me to download the pdf version)</a></p>
 <p><a class="reference external" href="http://sophai.github.io/arch_2013/stories/cv_zh.html">(Chinese version)</a></p>
 <hr class="docutils">
-<p>Ph.D, IAMS, TIGP, Academia Sinica (2008 - Now)</p>
-<p>Research Assistant in Physics, National Central University (2005 - 2008)</p>
-<p>Military Service (2003 - 2005)</p>
-<p>M.S. in Physics, National Central University (2000 - 2003)</p>
-<p>B.S. in Physics, National Central University (1996 - 2000)</p>
+<div class="section" id="education">
+<h2>EDUCATION</h2>
+<p><strong>2014</strong>  Ph.D, Molecular Science and Technology, TIGP, Academia Sinica/Physics, National Central University [<a class="reference internal" href="cv.html#id1">1</a>-<a class="reference internal" href="cv.html#id5">5</a>]</p>
+<p><strong>2003</strong>  M.S. in Physics, National Central University [<a class="reference internal" href="cv.html#id9">9</a>-<a class="reference internal" href="cv.html#id11">11</a>]</p>
+<p><strong>2000</strong>  B.S. in Physics, National Central University</p>
+</div>
 <hr class="docutils">
-<div class="section" id="projects">
-<h2>PROJECTS</h2>
-<p>The following softwares were developed by me and can be modified and distributed under GNU License (GPL). (<strong>Click on each subtitle to the corresponding GitHub repository</strong>)</p>
+<div class="section" id="research-interests">
+<h2>RESEARCH INTERESTS</h2>
+<div class="section" id="machine-learning">
+<h3>Machine learning</h3>
+<ul class="simple">
+<li>Time series clustering</li>
+<li>Pattern recognition</li>
+<li>Open data mining</li>
+</ul>
+<p>Pattern recognition and time series clustering techniques was applied to the mechanistic studying of protein folding and unfolding [<a class="reference internal" href="cv.html#id1">1</a>]. Using pattern recognition, the shape of the composing residues of a protein can be converted to multiple time series functions of shape similarity. Therefore, one can perform time series clustering and segmentation analysis to study the correlation between residues, to understand the undergoing mechanism of amyloids forming that are believed to be associated with brain disorders such as Alzhemier's Parkinson's, and Bovine Spongiform Encelphalitis. In the future research, this method will be used to scrutinize signatures from <a class="reference external" href="http://www.opendata.tw/">Open Data</a> such as medical data, earthquake, weather, traffic, economy, particle physics (<a class="reference external" href="http://opendata.cern.ch/">CERN Open Data</a>) and so on.</p>
+<p>Pattern recognition is also popular in computer vision. To achieve precise and real-time hand gesture control, a histogram-based method with General Purpose GPU (GPGPU) accelerate technique was developed (GestureCV). The goal is to understand how intelligence recognizes objects and makes decisions. More statistical and dynamical methods will be integrated into this system for more general recognition.</p>
+</div>
+<div class="section" id="high-speed-computation">
+<h3>High-speed computation</h3>
+<ul class="simple">
+<li>General purpose GPU</li>
+<li>PC cluster</li>
+<li>Cloud computing</li>
+</ul>
+<p>Complexity and veracity are two major issues in Big Data processing. To facilitate this challenging task, one seeks for any possible solution from conventional PC cluster to modern cloud computing. For example, the genetic algorithm can be accelerated more than 10 times by utilizing PC cluster computation (PTMBHGA). Moreover, the GPGPU technique can dramatically boost the performance to more than 100 times (CL-VAF). Ultimately, it is hoped to adopt cloud computing technique such as Hadoop and distributed file system to extend our scope and ability to the Big Data analysis.</p>
+</div>
+<div class="section" id="data-visualization">
+<h3>Data Visualization</h3>
+<p>Data visualization aims to communicate information clearly, efficiently, and interactively to common users using effective visual diagrams. Currently, I'm using numpy and matplotlib as the tools for data representation. In the future, web-based visualization technique such as HTML5 and JavaScript (ex: D3.js) will be implemented.</p>
+</div>
+<div class="section" id="open-source-projects">
+<h3>Open Source Projects</h3>
+<p>I'm interested in building tool chains from statistical sampling to model simulation. I enjoy programming very much and spent much time in software engineering. Nowadays, smart phone and tablet have equipped powerful CPU and GPU. Most of them are only used for gaming and web browsing. However, I saw the possibility of high-speed computation on these devices. This year I join IT industry to work on GPGPU technique for mobile devices and embedded system. I hope one day these devices can become new computing resources to benefit science and education.</p>
+<p>All my programs were published by Open Source licenses, which are listed as follows:</p>
+<p>(<strong>Click on each subtitle to the corresponding GitHub repository</strong>)</p>
+<div class="section" id="gesturecv">
+<h4><a class="reference external" href="http://github.com/sophAi/GestureCV">GestureCV</a></h4>
+<p><em>Hand gesture control based on histogram analysis(C++/OpenCL/OpenCV)</em></p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/Hand_Gesture_Program.jpg"><img alt="../../arch_2013/files_2013/cv/Hand_Gesture_Program.jpg" src="../../arch_2013/files_2013/cv/Hand_Gesture_Program.jpg" style="width: 480px;"></a>
+<p>Framework of GestureCV.</p>
+<iframe width="425" height="344" src="//www.youtube.com/embed/s4KVkK_wsbQ?rel=0&amp;hd=1&amp;wmode=transparent"></iframe><p>Demonstration of GestureCV.</p>
+<p>GestureCV combines image filtering and histogram analysis toGestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptop or embedded system. It is a machine learning prototype for computer vision. accomplish precise real-time hand gesture control on laptop or embedded system. It is a machine learning prototype for computer vision.GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptop or embedded system. It is a machine learning prototype for computer vision.</p>
+</div>
 <div class="section" id="cl-vaf">
-<h3><a class="reference external" href="https://github.com/sophAi/clvaf.git">CL-VAF</a></h3>
-<p><em>Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)</em></p>
+<h4><a class="reference external" href="https://github.com/sophAi/clvaf.git">CL-VAF</a></h4>
+<p><em>Vector Autocorrelation Function with GPGPU (C++/OpenCL)</em></p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/gpu_performance.png"><img alt="../../arch_2013/files_2013/cv/gpu_performance.png" src="../../arch_2013/files_2013/cv/gpu_performance.png" style="width: 480px;"></a>
 <p>Performance of CL-VAF. (<strong>click on image to enlarge</strong>)</p>
-<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/clvaf.png"><img alt="../../arch_2013/files_2013/cv/clvaf.png" src="../../arch_2013/files_2013/cv/clvaf.png" style="width: 480px;"></a>
-<p>Three steps of the vector autocorrelation calculation using GPGPU. For a time series of vectors (a), load data to odd or even buffer sequentially (c). Then, assign the vector autocorrelation function to each work item in GPU (b). (<strong>click on image to enlarge</strong>)</p>
-<p>The CL-VAF [<a class="reference internal" href="cv.html#id7">1</a>, <a class="reference internal" href="cv.html#id10">4</a>, <a class="reference internal" href="cv.html#id11">5</a>, <a class="reference internal" href="cv.html#id13">7</a>, <a class="reference internal" href="cv.html#id14">8</a>] uses the power of GPGPU to calculate the autocorrelation function of multi-dimensional vectors. The code was modified from my another project <a class="reference external" href="https://github.com/sophAi/tcom.git">TCOM</a> with carefully designed GPGPU parallelism. Instead of using CUDA, I chose OpenCL because of the cross-platform compatibility. OpenCL is supported by vast manufactures including Nvidia, AMD, Intel, ARM (Mobile devices), Apple, and so on whereas CUDA is only applicable on an Nvidia device. The benchmark is based on the consumer-level GPU. For more advanced models such as Nvidia Tesla, the performance should be further improved.</p>
+<p>CL-VAF [<a class="reference internal" href="cv.html#id3">3</a>, <a class="reference internal" href="cv.html#id4">4</a>, <a class="reference internal" href="cv.html#id5">5</a>, <a class="reference internal" href="cv.html#id7">7</a>, <a class="reference internal" href="cv.html#id8">8</a>] implements GPGPU technique to calculate the autocorrelation function of multi-dimensional vectors.</p>
 </div>
 <div class="section" id="mpi-tools">
-<h3><a class="reference external" href="https://github.com/sophAi/mpitool.git">MPI-Tools</a></h3>
-<p><em>MPICH Tools (Shell Script)</em></p>
-<p>The MPI-Tools has vast functionalities which allow users to construct and deploy the parallel computing in a minute. It's written in shell script to achieve the highest cross-platform transferability.</p>
-</div>
-<div class="section" id="ptmd">
-<h3><a class="reference external" href="https://github.com/sophAi/ptmd.git">PTMD</a></h3>
-<p><em>Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)</em></p>
-<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmd.png"><img alt="../../arch_2013/files_2013/cv/ptmd.png" src="../../arch_2013/files_2013/cv/ptmd.png" style="width: 480px;"></a>
-<p>Framework of PTMD. (<strong>click on image to enlarge</strong>)</p>
-<p>The PTMD [<a class="reference internal" href="cv.html#id9">3</a>-<a class="reference internal" href="cv.html#id11">5</a>] is an implementation of the software engineering. It is designed for big data analysis in bioinformatic system and is possible to  run numerical simulations and analyze their results in an iterative way. The parallel computing shell allows most kinds of computation to be set and ran in parallel easily. Up to now, most analyzers were designed for time series clustering, time series statistics, and moment analysis.</p>
+<h4><a class="reference external" href="https://github.com/sophAi/mpitool.git">MPI-Tools</a></h4>
+<p><em>MPICH Tools for PC cluster (Shell Script)</em></p>
+<p>MPI-Tools allows users to deploy and monitor jobs created by MPICH on PC cluster. It is written in shell script language.</p>
 </div>
 <div class="section" id="ptmbhga">
-<h3><a class="reference external" href="https://github.com/sophAi/ptmbhga.git">PTMBHGA</a></h3>
-<p><em>Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)</em></p>
+<h4><a class="reference external" href="https://github.com/sophAi/ptmbhga.git">PTMBHGA</a></h4>
+<p><em>Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)</em></p>
 <a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmbhga.png"><img alt="../../arch_2013/files_2013/cv/ptmbhga.png" src="../../arch_2013/files_2013/cv/ptmbhga.png" style="width: 480px;"></a>
-<p>Framework of PTMBHGA. (<strong>click on image to enlarge</strong>)</p>
-<p>The PTMBHGA [<a class="reference internal" href="cv.html#id9">3</a>-<a class="reference internal" href="cv.html#id11">5</a>,<a class="reference internal" href="cv.html#id15">9</a>-<a class="reference internal" href="cv.html#id17">11</a>] is a combination of several state-of-art optimization techniques, including genetic algorithm, parallel tempering Monte Carlo, simulated annealing, basing-hopping, and multicanonical Monte Carlo. The program was designed to be flexible for either a single run  or integration of any optimization technique. I gained most knowledge of optimization from this project.</p>
+<p>Framework of PTMBHGA.</p>
+<p>PTMBHGA [<a class="reference internal" href="cv.html#id2">2</a>-<a class="reference internal" href="cv.html#id5">5</a>,<a class="reference internal" href="cv.html#id9">9</a>-<a class="reference internal" href="cv.html#id11">11</a>] combines several state-of-art optimization techniques such as genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing- hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global optimized result. This program has been used by research groups in Japan and Malaysia.</p>
+</div>
+<div class="section" id="ptmd">
+<h4><a class="reference external" href="https://github.com/sophAi/ptmd.git">PTMD</a></h4>
+<p><em>Parallel Tempering Molecular Dynamics Simulation (Fortran/MPICH)</em></p>
+<a class="reference external image-reference" href="../../arch_2013/files_2013/cv/ptmd.png"><img alt="../../arch_2013/files_2013/cv/ptmd.png" src="../../arch_2013/files_2013/cv/ptmd.png" style="width: 480px;"></a>
+<p>Framework of PTMD.</p>
+<p>PTMD [<a class="reference internal" href="cv.html#id2">2</a>, <a class="reference internal" href="cv.html#id4">4</a>-<a class="reference internal" href="cv.html#id8">8</a>] is designed for model simulation and several statistical analyses including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analyses in parallel.</p>
 </div>
 <div class="section" id="d-tools">
-<h3><a class="reference external" href="https://github.com/sophAi/dtool.git">D-Tools</a></h3>
+<h4><a class="reference external" href="https://github.com/sophAi/dtool.git">D-Tools</a></h4>
 <p><em>Tools for Diffusion Theory (C/C++)</em></p>
-<p>The D-tools [<a class="reference internal" href="cv.html#id7">1</a>] helps reducing the tedious preparation of the diffusion theory calculation. This is one topic of my Ph.D thesis collaborated with Dr. <a class="reference external" href="http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&amp;L=IT">Arnaldo Rapallo</a>.</p>
+<p>The D-tools [<a class="reference internal" href="cv.html#id3">3</a>] reduces the tedious preparation for diffusion theory calculation. The research was published with Dr. <a class="reference external" href="http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&amp;L=IT">Arnaldo Rapallo</a>from ISMAC, Italy.</p>
 </div>
-<div class="section" id="tcom">
-<h3><a class="reference external" href="https://github.com/sophAi/tcom.git">TCOM</a></h3>
-<p><em>Vector Autocorrelation Function with MPICH (MPICH/Fortran)</em></p>
-<p>The TCOM [<a class="reference internal" href="cv.html#id7">1</a>, <a class="reference internal" href="cv.html#id10">4</a>, <a class="reference internal" href="cv.html#id11">5</a>, <a class="reference internal" href="cv.html#id13">7</a>, <a class="reference internal" href="cv.html#id14">8</a>] is an MPICH version of vector autocorrelation calculation. Later, I wrote CL-VAF with GPGPU implemented.</p>
-</div>
-</div>
-<hr class="docutils">
-<div class="section" id="other-information">
-<h2>OTHER INFORMATION</h2>
+<div class="section" id="other-codes-mainly-matlab-and-python-codes">
+<h4>Other Codes (Mainly matlab and python codes)</h4>
 <ul class="simple">
-<li>Constructor and maintainer of PC clusters (Linux/Unix) and mail/version control (SVN/Git) system in <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/index.html">Prof. San-Kiong Lai's Lab</a>.</li>
-<li>
-<a class="reference external" href="../../arch_2013/files_2013/cv/hope_award.jpg">Best Team Presentation Award</a>, <a class="reference external" href="http://www.jsps.go.jp/english/e-hope/gaiyou4.html">4th Hope Meeting</a>, 2012, Japan.</li>
-<li>Main speaker of open sources in physics in <a class="reference external" href="http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10">ICOS2009</a>. (<a class="reference external" href="../../arch_2013/files_2013/cv/icos2009.pdf">slides</a>)</li>
-<li>Chinese translations of PhET education project in physics.<ol class="arabic">
+<li>Time series clustering</li>
+<li>Time series segmentation</li>
+<li>Sliding window algorithm</li>
+<li>Power spectrum density</li>
+<li>Nearest neighbor analysis.</li>
+</ul>
+</div>
+<div class="section" id="other-experience-in-open-source">
+<h4>Other experience in Open Source</h4>
+<p>Chinese translations of PhET education project in Physics (<a class="reference external" href="http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_linux/">EzGo</a>, OSSACC, Ministry of Education)</p>
+<blockquote>
+<ol class="arabic simple">
 <li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/davisson-germer">Davission-Germer Experiment</a></li>
 <li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/stern-gerlach">Stern-Gerlach Experiment</a></li>
 <li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference">Quantum Wave Interference</a></li>
@@ -150,38 +184,102 @@ MathJax.Hub.Config({
 <li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/covalent-bonds">Covalent Bonds</a></li>
 <li><a class="reference external" href="http://phet.colorado.edu/zh_TW/simulation/band-structure">Band Structure</a></li>
 </ol>
-</li>
-<li>Applied statistics [<a class="reference internal" href="cv.html#id9">3</a>] and numerical simulation teaching.</li>
-<li>Time series analysis [<a class="reference internal" href="cv.html#id8">2</a>], parallel computing, GPGPU computing, and computation algorithm.</li>
-</ul>
-<!-- 文章結尾 --><!-- 超連結(URL)目的區 --><!-- 註腳(Footnote)與引用(Citation)區 -->
+</blockquote>
+</div>
+</div>
 </div>
 <hr class="docutils">
-<div class="section" id="references">
-<h2>REFERENCES</h2>
+<div class="section" id="professional-experience">
+<h2>PROFESSIONAL EXPERIENCE</h2>
+<p><strong>2014 - now</strong>  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible of Image recognition algorithm, hand gesture control algorithm, HTML5 acceleration (WebCL), GPGPU applications and development of Android input system</p>
+<p><strong>2005 - 2008</strong>  Research assistant in Physics department, National Central University.
+--Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances. [<a class="reference internal" href="cv.html#id6">6</a>-<a class="reference internal" href="cv.html#id8">8</a>]</p>
+<p><strong>2003 - 2005</strong>  Military service</p>
+</div>
+<hr class="docutils">
+<div class="section" id="professional-field">
+<h2>PROFESSIONAL FIELD</h2>
+<ul class="simple">
+<li>Computer vision (OpenCV), hand gesture control, and image recognition</li>
+<li>Applied statistics [<a class="reference internal" href="cv.html#id2">2</a>], time series analysis [<a class="reference internal" href="cv.html#id1">1</a>], and numerical modeling</li>
+<li>Parallel computing and GPGPU (OpenCL) techniques</li>
+<li>Open Source projects for science and education</li>
+<li>Software management and engineering, SVN/GIT, and UML</li>
+<li>Statistical mechanics, quantum mechanics, chemical physics, applied mathematics, algorithm, and programming language teaching</li>
+<li>Linux/Android input subsystem</li>
+</ul>
+</div>
+<hr class="docutils">
+<div class="section" id="proficient-in">
+<h2>PROFICIENT IN</h2>
+<ul class="simple">
+<li>C++/C, OpenCL, OpenCV</li>
+<li>HTML5/JavaScript, XML, D3.js</li>
+<li>Python, numpy, matplotlib</li>
+<li>Matlab/Octave</li>
+<li>Linux system programming (IPC, thread, socket...)</li>
+<li>Shell script</li>
+<li>Fortran</li>
+<li>Latex</li>
+<li>Regular expression</li>
+</ul>
+</div>
+<div class="section" id="award">
+<h2>Award</h2>
+<ul class="simple">
+<li>
+<a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/hope_award.jpg">Best Team Presentation Award</a>, <a class="reference external" href="http://www.jsps.go.jp/english/e-hope/gaiyou4.html">4th Hope Meeting</a>, 2012, Japan.</li>
+</ul>
+</div>
+<div class="section" id="invited-talk">
+<h2>Invited talk</h2>
+<p>“Open Source in Physics", <a class="reference external" href="http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10">International Conference on Open Source 2009</a>, Taiwan (<a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/icos2009.pdf">slides</a>)</p>
+</div>
+<div class="section" id="information-of-recommendation-letters">
+<h2>Information of recommendation letters</h2>
+<ul class="simple">
+<li>
+<a class="reference external" href="http://www.phy.ncu.edu.tw/?folder=faculty&amp;page=detail.php&amp;pk=271">鄭王曜</a> 教授(中央大學物理系，Email: <a class="reference external" href="mailto:wycheng@ncu.edu.tw">wycheng@ncu.edu.tw</a> /電話:(03)4227151#65337)</li>
+<li>
+<a class="reference external" href="http://www.phy.ncu.edu.tw/?folder=faculty&amp;page=detail.php&amp;pk=270">陳永富</a> 教授(中央大學物理系， Email: <a class="reference external" href="mailto:yfuchen@cc.ncu.edu.tw">yfuchen@cc.ncu.edu.tw</a> /電話:(03)4227151#65375)</li>
+<li>
+<cite>Dr. Arnaldo Rapallo</cite> (ISMAC, Italy. Email: <a class="reference external" href="mailto:rapallo@ismac.cnr.it">rapallo@ismac.cnr.it</a>)</li>
+</ul>
+</div>
+<hr class="docutils">
+<div class="section" id="publications">
+<h2>PUBLICATIONS</h2>
 <p>(<strong>Click on the title to download the paper</strong>)</p>
-<p id="id7">1. Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets,
-<strong>P. J. Hsu</strong>, S. K. Lai, and A. Rapallo, J. Chem. Phys. (submitted).</p>
-<p id="id8">2. Weak correlation effect on the folding of transthyretin fragment studied by the shape similarity technique and time series methods,
-<strong>P. J. Hsu</strong>, S. A. Cheong, and S. K. Lai, Europhys Lett. (accepted).</p>
-<p id="id9">3. A new perspective of shape recognition to discover the phase transition of finite-size clusters,
-<strong>P. J. Hsu</strong>, J. Comput. Chem. (accepted).</p>
-<p id="id10">4. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf">Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes</a>,
+<ol class="arabic simple" id="id1">
+<li>
+<a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf">Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms</a>, <strong>P. J. Hsu</strong>, S. A. Cheong, and S. K. Lai, J. Chem. Phys. 140, 204905 (2014).</li>
+</ol>
+<ol class="arabic simple" id="id2" start="2">
+<li>
+<a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf">A new perspective of shape recognition to discover the phase transition of finite-size clusters</a>, <strong>P. J. Hsu</strong>, J. Comput. Chem. 35, 1082 (2014).</li>
+</ol>
+<ol class="arabic simple" id="id3" start="3">
+<li>
+<a class="reference external" href="http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf">Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets</a>, <strong>P. J. Hsu</strong>, S. K. Lai, and A. Rapallo, J. Chem. Phys. 140, 104910 (2014).</li>
+</ol>
+<p id="id4">4. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf">Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes</a>,
 P. H. Tang, T. M. Wu, <strong>P. J. Hsu</strong>, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012).</p>
-<p id="id11">5. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf">Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation</a>,
+<p id="id5">5. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf">Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation</a>,
 P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and <strong>P. J. Hsu</strong>, J. Chem. Phys. 135, 094302 (2011).</p>
-<p id="id12">6. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf">Dynamical study of metallic clusters using the statistical method of time series clustering</a>,
+<p id="id6">6. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf">Dynamical study of metallic clusters using the statistical method of time series clustering</a>,
 S. K. Lai, Y. T. Lin, <strong>P. J. Hsu</strong>, and S. A. Cheong, Compt. Phys. Commun. 182, 1013 (2011).</p>
-<p id="id13">7. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf">Melting behavior of noble-metal-based bimetallic clusters</a>,
+<p id="id7">7. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf">Melting behavior of noble-metal-based bimetallic clusters</a>,
 T. W. Yen, <strong>P. J. Hsu</strong>, and S. K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009).</p>
-<p id="id14">8. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf">Melting scenario in metallic clusters</a>,
+<p id="id8">8. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf">Melting scenario in metallic clusters</a>,
 <strong>P. J. Hsu</strong>, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008).</p>
-<p id="id15">9. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf">Structure of bimetallic clusters</a>,
+<p id="id9">9. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf">Structure of bimetallic clusters</a>,
 <strong>P. J. Hsu</strong> and S. K. Lai, J. Chem. Phys. 124, 044711 (2006).</p>
-<p id="id16">10. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf">Multi-canonical basin-hopping: a new global optimization method for complex systems</a>,
+<p id="id10">10. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf">Multi-canonical basin-hopping: a new global optimization method for complex systems</a>,
 L. Zhan, B. Piwowar, W. K. Liu, <strong>P. J. Hsu</strong>, S. K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004).</p>
-<p id="id17">11. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf">Structures of metallic clusters: mono- and polyvalent metals</a>,
+<p id="id11">11. <a class="reference external" href="http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf">Structures of metallic clusters: mono- and polyvalent metals</a>,
 S. K. Lai, <strong>P. J. Hsu</strong>, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).</p>
+<!-- 文章結尾 -->
+<!-- 超連結(URL)目的區 -->
 </div>
     </div>
 </article>
