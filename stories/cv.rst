@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141126 11:41:26
+.. date: 20141126 11:44:52
 .. tags: draft 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -143,7 +143,7 @@ PTMD [`2`_, `4`_-\ `8`_\ ] is designed for model simulation and several statisti
 
 *Tools for Diffusion Theory (C/C++)*
 
-The D-tools [`3`_] reduces the tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_\ from ISMAC, Italy. 
+The D-tools [`3`_] reduces the tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
 
 Other Codes (Mainly matlab and python codes)
 ============================================
@@ -221,7 +221,7 @@ Information of recommendation letters
 
 * \ `鄭王曜`_\  教授(中央大學物理系，Email: wycheng@ncu.edu.tw /電話:(03)4227151#65337)
 * \ `陳永富`_\  教授(中央大學物理系， Email: yfuchen@cc.ncu.edu.tw /電話:(03)4227151#65375)
-* \ `Dr. Arnaldo Rapallo`_ (ISMAC, Italy. Email: rapallo@ismac.cnr.it)
+* \ Dr. `Arnaldo Rapallo`_ (ISMAC, Italy. Email: rapallo@ismac.cnr.it)
 
 _________________________________________________
 
