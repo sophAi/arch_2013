@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141126 11:10:39
+.. date: 20141126 11:35:35
 .. tags: draft 
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -79,9 +79,9 @@ All my programs were published by Open Source licenses, which are listed as foll
 
 *Hand gesture control based on histogram analysis(C++/OpenCL/OpenCV)*
 
-.. image:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.jpg
+.. image:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
    :width: 480
-   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.jpg
+   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
 
 Framework of GestureCV.
 
@@ -100,7 +100,7 @@ GestureCV combines image filtering and histogram analysis toGestureCV combines i
    :width: 480
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
-Performance of CL-VAF. (**click on image to enlarge**)
+Performance of CL-VAF.
 
 CL-VAF [`3`_, `4`_, `5`_, `7`_, `8`_] implements GPGPU technique to calculate the autocorrelation function of multi-dimensional vectors.
 
@@ -159,13 +159,13 @@ Other experience in Open Source
 
 Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Ministry of Education)
 
-  #. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
-  #. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
-  #. `Quantum Wave Interference <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_
-  #. `Quantum Tunneling <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_
-  #. `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
-  #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
-  #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
+#. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
+#. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
+#. `Quantum Wave Interference <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_
+#. `Quantum Tunneling <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_
+#. `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
+#. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
+#. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
 _________________________________________________
 
@@ -233,15 +233,18 @@ PUBLICATIONS
 
 .. _1:
 
-1. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf>`_, **P. J. Hsu**, S. A. Cheong, and S. K. Lai, J. Chem. Phys. 140, 204905 (2014).
+1. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf>`_, 
+**P. J. Hsu**, S. A. Cheong, and S. K. Lai, J. Chem. Phys. 140, 204905 (2014).
 
 .. _2: 
 
-2. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf>`_, **P. J. Hsu**, J. Comput. Chem. 35, 1082 (2014).
+2. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf>`_, 
+**P. J. Hsu**, J. Comput. Chem. 35, 1082 (2014).
 
 .. _3: 
 
-3. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf>`_, **P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. 140, 104910 (2014).
+3. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf>`_, 
+**P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. 140, 104910 (2014).
 
 .. _4: 
 
