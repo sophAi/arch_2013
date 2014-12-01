@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141128 12:10:49
+.. date: 20141202 07:57:34
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -42,19 +42,19 @@ Research Interests
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
-* Time series clustering
-* Pattern recognition
+* Time series clustering [`1`_ and `6`_]
+* Pattern recognition [`1`_ and `2`_]
 * Open data mining
 
 Pattern recognition and time series clustering techniques were applied to the mechanistic study of protein folding and unfolding [`1`_]. Using pattern recognition, the shape of the composing residues of a protein can be converted into multiple time series functions of shape similarity. Therefore, one can perform time series clustering and segmentation analysis to study the correlation between residues, in order to understand the underlying mechanism of amyloid formation that are believed to be associated with brain disorders such as Alzheimer's disease, Parkinson's disease, and Bovine Spongiform Encephalitis. In future research this method will be used to scrutinize signatures from `Open Data`_ such as medical data, earthquakes, weather, traffic, economy, and particle physics data (`CERN Open Data`_). 
 
-Pattern recognition is also popular in computer vision. To achieve precise and real-time hand gesture control, a histogram-based method with General Purpose GPU (GPGPU) acceleration technique was developed (GestureCV). The goal is to understand how intelligence recognizes objects and makes decisions. More statistical and dynamical methods will be integrated into this system for more general recognition.
+Pattern recognition is also popular in computer vision. To achieve precise and real-time hand gesture control, a histogram-based method with General Purpose GPU (GPGPU) acceleration technique was developed (`GestureCV`_). The goal is to understand how intelligence recognizes objects and makes decisions. More statistical and dynamical methods will be integrated into this system for more general recognition.
 
 High-speed Computation
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* General purpose GPU 
-* PC cluster
+* General purpose GPU [`2`_, `4`_, `5`_, `7`_, and `8`_]
+* PC cluster [`1`_-\ `11`_]
 * Cloud computing
 
 Complexity and veracity are two major issues in Big Data processing. To facilitate this challenging task, one seeks for any possible solution from conventional PC clustering to modern cloud computing. For example, a genetic algorithm can be accelerated by more than 10 times by utilizing PC cluster computation (PTMBHGA). Moreover, the GPGPU technique can dramatically boost the performance to more than 100 times (CL-VAF). Ultimately it is hoped to adopt cloud computing techniques such as Hadoop and a distributed file system to extend our scope and ability for Big Data analysis.
@@ -285,6 +285,15 @@ L. Zhan, B. Piwowar, W. K. Liu, **P. J. Hsu**, S. K. Lai, and Jeff Z. Y. Chen, J
 11. `Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_,
 S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).
 
+
+Other Information
+-----------------
+
+* PhD certificate: `link 1`_ and `link 2`_.
+
+* Transcripts: `link`_. 
+
+
 .. 文章結尾
 
 .. 超連結(URL)目的區
@@ -328,3 +337,9 @@ S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 
 .. _CERN Open Data: http://opendata.cern.ch/
 
 .. _Open Data: http://www.opendata.tw/
+
+.. _link 1: http://sophAi.github.io/arch_2013/files_2013/cv/TIGP_certificate.jpg
+
+.. _link 2: http://sophAi.github.io/arch_2013/files_2013/cv/PhD_certificate_en.jpg
+
+.. _link: http://sophAi.github.io/arch_2013/files_2013/cv/PhD_transcript.jpg
