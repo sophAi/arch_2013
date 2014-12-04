@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141204 20:12:48
+.. date: 20141204 20:52:15
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -28,11 +28,11 @@ _________________________________________________
 EDUCATION
 ----------
 
-**2014**  Ph.D., `Molecular Science and Technology`_, TIGP, Academia Sinica/Physics, National Central University [`1`_-\ `5`_]
+**2014**:  Ph.D., `Molecular Science and Technology`_, TIGP, Academia Sinica/Physics, National Central University [`1`_-\ `5`_]
 
-**2003**  M.S. in Physics, National Central University [`9`_-\ `11`_]
+**2003**:  M.S. in Physics, National Central University [`9`_-\ `11`_]
 
-**2000**  B.S. in Physics, National Central University
+**2000**:  B.S. in Physics, National Central University
 
 _________________________________________________
 
@@ -78,7 +78,7 @@ All my programs were published by Open Source licenses, which are listed as foll
 `GestureCV`_
 ============
 
-*Hand gesture control based on histogram analysis(C++/OpenCL/OpenCV)*
+*Hand gesture control based on histogram analysis (C++/OpenCL/OpenCV)*
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
    :width: 480
@@ -152,7 +152,7 @@ Matlab and Python codes
 * Time series clustering
 * Time series segmentation
 * Sliding window algorithm
-* Power spectrum density calculatoin
+* Power spectrum density calculation
 * Nearest neighbor analysis
 
 Others
@@ -173,12 +173,12 @@ _________________________________________________
 WORKING EXPERIENCE
 --------------------
 
-**2014 - Present**  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible for Image recognition algorithms, hand gesture control algorithms, HTML5 acceleration (`WebCL`_), GPGPU applications and development of Android input systems.
+**2014 - Present**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible for Image recognition algorithms, hand gesture control algorithms, HTML5 acceleration (`WebCL`_), GPGPU applications and development of Android input systems.
 
-**2005 - 2008**  Research assistant in Physics department, National Central University.
+**2005 - 2008**:  Research assistant in Physics department, National Central University.
 --Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances. [`6`_-\ `8`_]
 
-**2003 - 2005**  Military service
+**2003 - 2005**:  Military service
 
 _________________________________________________
 

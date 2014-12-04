@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_pdf
-.. date: 20141204 20:11:22
+.. date: 20141204 20:40:58
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -87,7 +87,7 @@ All my programs were published by Open Source licenses, which are listed as foll
 `GestureCV`_
 ============
 
-*Hand gesture control based on histogram analysis(C++/OpenCL/OpenCV)*
+*Hand gesture control based on histogram analysis (C++/OpenCL/OpenCV)*
 
 GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
 
@@ -166,7 +166,7 @@ Matlab and Python codes
 * Time series clustering.
 * Time series segmentation.
 * Sliding window algorithm.
-* Power spectrum density calculatoin.
+* Power spectrum density calculation.
 * Nearest neighbor analysis.
 
 Others
