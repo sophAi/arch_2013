@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141204 17:41:47
+.. date: 20141204 20:12:48
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -88,7 +88,7 @@ All my programs were published by Open Source licenses, which are listed as foll
 
 .. youtube:: s4KVkK_wsbQ
 
-**Demonstration of GestureCV (Application switcher and presentation software control).**
+**Application switcher and presentation software control.**  
 
 GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
 
