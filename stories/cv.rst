@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 21:14:06
+.. date: 20141207 21:19:07
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -207,8 +207,8 @@ SPECIALTIES
 **Reduced Statistical Methods and Diffusion Theory**
 
 #. Mode-coupling Approaches for long-time behaviors
-#. Generalized Diffusion Equation (GDE)
-#. Optimized Rouse-Zimm Local Dynamics (ORZLD)
+#. Generalized `Diffusion Equation`_ (GDE)
+#. Optimized `Rouse-Zimm`_ Local Dynamics (ORZLD)
 
 **Parallel Computing Techniques**
 
@@ -458,3 +458,7 @@ ABOUT THIS DOCUMENT
 .. _thesis: http://140.113.39.130/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC972402012%22.&searchmode=basic
 
 .. _Arduino: http://www.arduino.cc/
+
+.. _Diffusion Equation: http://en.wikipedia.org/wiki/Diffusion_equation
+
+.. _Rouse Zimm: http://en.wikipedia.org/wiki/Rouse_model
