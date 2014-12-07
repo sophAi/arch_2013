@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 21:20:49
+.. date: 20141207 21:29:20
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -360,7 +360,7 @@ ABOUT THIS DOCUMENT
    :width: 600
    :target: ../../arch_2013/files_2013/cv/doc_readme.png
 
-   **Click on the links for more information and dynamical demonstration**
+   **Click on the links for more information and dynamical demonstrations**
 
 
 .. 文章結尾
