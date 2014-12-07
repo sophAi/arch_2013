@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 21:01:13
+.. date: 20141207 21:07:29
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -377,13 +377,13 @@ ABOUT THIS DOCUMENT
 
 .. _CL-VAF: https://github.com/sophAi/clvaf.git
 
-.. _MPI-Tools: https://github.com/sophAi/mpitool.git
+.. _MPI-Tool: https://github.com/sophAi/mpitool.git
 
 .. _PTMBHGA: https://github.com/sophAi/ptmbhga.git
 
 .. _PTMD: https://github.com/sophAi/ptmd.git
 
-.. _D-Tools: https://github.com/sophAi/dtool.git
+.. _D-Tool: https://github.com/sophAi/dtool.git
 
 .. _TCOM: https://github.com/sophAi/tcom.git
 
