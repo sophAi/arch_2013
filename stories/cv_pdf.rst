@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_pdf
-.. date: 20141204 20:40:58
+.. date: 20141207 20:44:29
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -25,7 +25,7 @@ _________________________________________________
 EDUCATION
 ----------
 
-**2014**: Ph.D., `Molecular Science and Technology`_, TIGP, Academia Sinica/Physics, National Central University [`1`_-\ `5`_]
+**2014**: Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University [`1`_-\ `5`_]. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo Rapallo`_, and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor).
 
 **2003**: M.S. in Physics, National Central University [`9`_-\ `11`_]
 
@@ -69,7 +69,7 @@ Data visualization aims to communicate information clearly, efficiently, and int
    :width: 900
    :target: ../../arch_2013/files_2013/cv/D3_alpha.png
 
-   **Inspection of strong (red dashed) and weak (blue dashed) correlations of the time series clustering results [1].**
+   **Visualization of strong (red dashed) and weak (blue dashed) correlations of the time series clustering results [1].**
 
 (`Click here to see the on-line demonstration`_)
 
@@ -82,7 +82,7 @@ I'm interested in building tool chains from statistical sampling to model simula
 
 All my programs were published by Open Source licenses, which are listed as follows: 
 
-(**Download the source code by clicking the title**) 
+(**Click on each subtitle to view the source code repository on GitHub**)
 
 `GestureCV`_
 ============
@@ -91,19 +91,20 @@ All my programs were published by Open Source licenses, which are listed as foll
 
 GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
 
-(`Click here to view the demonstration`_)
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-   :width: 1280
+   :width: 1148
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
 
    **Framework of GestureCV.**
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
-   :width: 1024
+   :width: 900
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
 
    **Application switcher and presentation software control.**
+
+(`Click here to view the demonstration`_)
 
 `CL-VAF`_
 =========
@@ -156,18 +157,20 @@ PTMD [`2`_, `4`_-\ `8`_\ ] is designed for model simulation and several statisti
 `D-Tools`_
 ==========
 
-*Tools for Diffusion Theory (C/C++)*
+*Tools for Mode-coupling Diffusion Theory (C/C++)*
 
 The D-tools [`3`_] reduces tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
 
 Matlab and Python codes
 ========================
 
-* Time series clustering.
-* Time series segmentation.
-* Sliding window algorithm.
-* Power spectrum density calculation.
-* Nearest neighbor analysis.
+* Time Series Clustering Method [`1`_, `6`_] 
+* Time Series Segmentation Method [`1`_]
+* Sliding Window Method [`1`_, `6`_]
+* Pattern Recognition Method [`1`_, `2`_]
+* Power Spectrum Density Calculation [`4`_, `5`_, `7`_, `8`_]
+* Nearest Neighbor Analysis [`6`_]
+* Auto-correlation Calculation [`3`_-\ `5`_, `7`_, `8`_]
 
 Others
 =======
@@ -197,34 +200,77 @@ WORKING EXPERIENCE
 
 _________________________________________________
 
-
-PROFESSIONAL EXPERIENCE
-------------------------
-
-* Computer vision, hand gesture control, and image recognition 
-* Applied statistics [`2`_\ ], time series analysis [`1`_\ ], and numerical modeling
-* Parallel computing and GPGPU (`OpenCL`_) techniques
-* Open Source projects for science and education
-* Software management and engineering
-* Statistical mechanics, quantum mechanics, chemical physics, applied mathematics, algorithm, and programming language teaching
-* Linux/Android input subsystems
-
-_________________________________________________
-
-
 SPECIALTIES
---------------
+--------------------------
 
-* C++/C, Open Computing Language(`OpenCL`_), Open Source Computer Vision(`OpenCV`_), GNU Scientific Library (`GSL`_), and Unified Modeling Language (`UML`_)
-* Software version control (`SVN`_ and `Git`_)
-* HTML5/JavaScript, `XML`_, `D3.js`_
-* Python, `Numpy`_, `Matplotlib`_
-* Matlab
-* Linux system programming (IPC, thread, socket...)
-* Shell script
-* Fortran
-* Latex
-* Regular expression
+* Applied Statistics, Machine Learning, and Mathematical Modeling
+
+ #. Time Series Analysis
+ #. Genetic Algorithm
+ #. Monte Carlo Method
+ #. Optimization methods
+
+* Theoretical and Computational Physics
+
+ #. Statistical Physics
+ #. Strongly-correlated Systems
+ #. Long-time Dynamics
+ #. Molecular Dynamics
+ #. Molecular Biology
+ #. Condensed Matter Physics
+ #. Complex Systems
+
+* Reduced Statistical Methods and Diffusion Theory
+
+ #. Mode-coupling Approaches for long-time behaviors
+ #. Generalized Diffusion Equation (GDE)
+ #. Optimized Rouse-Zimm Local Dynamics (ORZLD)
+
+* Parallel Computing
+
+ #. Open Computing Language(`OpenCL`_)
+ #. PC Cluster Computing using Open Message Passing Interface(`OpenMPI`_)
+
+* Web-based Technologies
+
+ #. HTML5 and CSS
+ #. Data Visualization using JavaScript (`D3.js`_)
+ #. `XML`_ (`libxml2`_)
+
+* Computer Vision, Hand Gesture Control, and Image Recognition
+
+ #. Open Source Computer Vision(`OpenCV`_)
+ #. Linux/Android Camera and Input Subsystems
+ #. `Arduino`_ and Embedded System programming
+
+* Open Source Projects for science and education
+
+* Statistical Mechanics, Quantum Mechanics, Chemical Physics, and Applied Mathematics,
+
+* Software Management and Engineering
+
+ #. `Git`_
+ #. `SVN`_
+ #. Unified Modeling Language (`UML`_)
+
+* Algorithms and programming language teaching
+
+ #. C++ and C
+ #. Python, `Numpy`_, and `Matplotlib`_
+ #. Regular Expression
+ #. Matlab
+ #. GNU Scientific Library (`GSL`_)
+ #. Linux System Programming (IPC, thread, socket...)
+ #. Linux Shell Script
+ #. Fortran
+ #. Latex
+
+* System Administrator with experience in Linux for more than 12 years
+
+ #. PC Clusters 
+ #. Web Servers
+ #. Mail Servers
+
 
 _________________________________________________
 
@@ -302,13 +348,15 @@ L. Zhan, B. Piwowar, W. K. Liu, **P. J. Hsu**, S. K. Lai, and Jeff Z. Y. Chen, J
 11. `Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_,
 S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).
 
+_________________________________________________
 
 OTHER INFORMATION
 -----------------
 
 * PhD certificate: `link 1`_ and `link 2`_.
+* PhD transcripts: `link`_. 
 
-* Transcripts: `link`_. 
+_________________________________________________
 
 RECOMMENDED BY
 ----------------
@@ -317,7 +365,16 @@ RECOMMENDED BY
 * \ `陳永富`_\  教授(中央大學物理系， Email: yfuchen@cc.ncu.edu.tw /電話:(03)4227151#65375)
 * \ Dr. `Arnaldo Rapallo`_ (ISMAC, Italy. Email: rapallo@ismac.cnr.it)
 
+_________________________________________________
 
+ABOUT THIS DOCUMENT
+-------------------
+
+.. figure:: ../../arch_2013/files_2013/cv/doc_readme.png
+   :width: 1580
+   :target: ../../arch_2013/files_2013/cv/doc_readme.png
+
+   **Click on the links for more information and dynamical demonstrations**
 
 .. 文章結尾
 
@@ -346,6 +403,10 @@ RECOMMENDED BY
 .. _International Conference on Open Source 2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
 
 .. _Arnaldo Rapallo: http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&L=IT
+
+.. _Siew Ann Cheong: https://www.linkedin.com/pub/siew-ann-cheong/22/384/4b4
+
+.. _San-Kiong Lai: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=7
 
 .. _4th Hope Meeting: http://www.jsps.go.jp/english/e-hope/gaiyou4.html
 
@@ -402,3 +463,13 @@ RECOMMENDED BY
 .. _Click here to view the demonstration: http://sophai.github.io/arch_2013/stories/cv.html
 
 .. _Molecular Science and Technology: http://tigp.iams.sinica.edu.tw/
+
+.. _OpenMPI: https://en.wikipedia.org/wiki/Open_MPI
+
+.. _libxml2: https://en.wikipedia.org/wiki/Libxml2
+
+.. _TIGP: http://tigp.sinica.edu.tw/
+
+.. _thesis: http://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi/ccd=EsYyqK/record?r1=2&h1=8
+
+.. _Arduino: http://www.arduino.cc/
