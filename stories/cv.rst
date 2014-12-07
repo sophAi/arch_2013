@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 21:19:07
+.. date: 20141207 21:20:49
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -461,4 +461,4 @@ ABOUT THIS DOCUMENT
 
 .. _Diffusion Equation: http://en.wikipedia.org/wiki/Diffusion_equation
 
-.. _Rouse Zimm: http://en.wikipedia.org/wiki/Rouse_model
+.. _Rouse-Zimm: http://en.wikipedia.org/wiki/Rouse_model
