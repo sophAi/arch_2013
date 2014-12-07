@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 20:54:38
+.. date: 20141207 20:57:46
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -213,7 +213,7 @@ SPECIALTIES
 * Parallel Computing
 
  #. Open Computing Language (`OpenCL`_)
- #. PC Cluster Computing using Open Message Passing Interface(`OpenMPI`_)
+ #. PC Cluster Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
 
 * Web-based Technologies
 
@@ -448,6 +448,8 @@ ABOUT THIS DOCUMENT
 .. _Molecular Science and Technology: http://tigp.iams.sinica.edu.tw/
 
 .. _OpenMPI: https://en.wikipedia.org/wiki/Open_MPI
+
+.. _MPICH: https://en.wikipedia.org/wiki/MPICH
 
 .. _libxml2: https://en.wikipedia.org/wiki/Libxml2
 
