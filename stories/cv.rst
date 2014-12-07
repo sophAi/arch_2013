@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv
-.. date: 20141207 21:49:27
+.. date: 20141207 22:23:23
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -47,6 +47,12 @@ Machine Learning
 * Open data mining
 
 Pattern recognition and time series clustering techniques were applied to the mechanistic study of protein folding and unfolding [`1`_]. Using pattern recognition, the shape of the composing residues of a protein can be converted into multiple time series functions of shape similarity. Therefore, one can perform time series clustering and segmentation analysis to study the correlation between residues, in order to understand the underlying mechanism of amyloid formation that are believed to be associated with brain disorders such as Alzheimer's disease, Parkinson's disease, and Bovine Spongiform Encephalitis. In future research this method will be used to scrutinize signatures from `Open Data`_ such as medical data, earthquakes, weather, traffic, economy, and particle physics data (`CERN Open Data`_). 
+
+.. figure:: ../../arch_2013/files_2013/cv/time_series_analysis.png
+   :width: 480
+   :target: ../../arch_2013/files_2013/cv/time_series_analysis.png
+
+   **Applied time series analysis and shape recognition tecniques to molecular biology.**
 
 Pattern recognition is also popular in computer vision. To achieve precise and real-time hand gesture control, a histogram-based method with graphics processing units (`GPU`_) acceleration technique was developed (`GestureCV`_). The goal is to understand how intelligence recognizes objects and makes decisions. More statistical and dynamical methods will be integrated into this system for more general recognition.
 
