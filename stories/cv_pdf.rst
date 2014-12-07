@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141207 21:42:11
+.. date: 20141207 21:49:13
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -418,9 +418,9 @@ ABOUT THIS DOCUMENT
 
 .. _Best Team Presentation Award: http://sophAi.github.io/arch_2013/files_2013/cv/hope_award.jpg
 
-.. _鄭王曜: http://www.phy.ncu.edu.tw/wp/faculty/鄭王曜-cheng-wang-yau
+.. _鄭王曜: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=271
 
-.. _陳永富: http://www.phy.ncu.edu.tw/wp/faculty/陳永富-yung-fu-chen
+.. _陳永富: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=270
 
 .. _CERN Open Data: http://opendata.cern.ch/
 
