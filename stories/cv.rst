@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 20:57:46
+.. date: 20141207 21:01:13
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -455,6 +455,6 @@ ABOUT THIS DOCUMENT
 
 .. _TIGP: http://tigp.sinica.edu.tw/
 
-.. _thesis: http://etd.lib.nctu.edu.tw/cgi-bin/gs32/ncugsweb.cgi/ccd=EsYyqK/record?r1=2&h1=8
+.. _thesis: http://140.113.39.130/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC972402012%22.&searchmode=basic
 
 .. _Arduino: http://www.arduino.cc/
