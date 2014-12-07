@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 20:51:03
+.. date: 20141207 20:54:38
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -105,12 +105,12 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
 CL-VAF [`3`_, `4`_, `5`_, `7`_, `8`_] implements GPGPU techniques to calculate the autocorrelation function of multi-dimensional vectors.
 
-`MPI-Tools`_
+`MPI-Tool`_
 ============
 
-*MPICH Tools for PC cluster (Shell Script)*
+*MPICH utility for PC cluster (Shell Script)*
 
-MPI-Tools allows users to deploy and monitor jobs created by MPICH on PC clusters. It is written in shell script language.
+MPI-Tool allows users to deploy and monitor jobs created by MPICH on PC clusters. It is written in shell script language.
 
 `PTMBHGA`_
 ==========
@@ -139,10 +139,10 @@ PTMBHGA [`2`_-\ `5`_, \ `9`_-\ `11`_\ ] combines several state-of-art optimizati
 
 PTMD [`2`_, `4`_-\ `8`_\ ] is designed for model simulation and several statistical analyses including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analyses in parallel.
 
-`D-Tools`_
+`D-Tool`_
 ==========
 
-*Tools for Mode-coupling Diffusion Theory (C/C++)*
+*A utility for Mode-coupling Diffusion Theory (C/C++)*
 
 The D-tools [`3`_] reduces tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
 
@@ -212,7 +212,7 @@ SPECIALTIES
 
 * Parallel Computing
 
- #. Open Computing Language(`OpenCL`_)
+ #. Open Computing Language (`OpenCL`_)
  #. PC Cluster Computing using Open Message Passing Interface(`OpenMPI`_)
 
 * Web-based Technologies
@@ -223,7 +223,7 @@ SPECIALTIES
 
 * Computer Vision, Hand Gesture Control, and Image Recognition
 
- #. Open Source Computer Vision(`OpenCV`_)
+ #. Open Source Computer Vision (`OpenCV`_)
  #. Linux/Android Camera and Input Subsystems
  #. `Arduino`_ and Embedded System programming
 
@@ -249,7 +249,7 @@ SPECIALTIES
  #. Fortran
  #. Latex
 
-* System Administrator with experience in Linux for more than 12 years
+* System Administrator with experience in Linux
 
  #. PC Clusters
  #. Web Servers
