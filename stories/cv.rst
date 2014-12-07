@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 20:44:49
+.. date: 20141207 20:47:51
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -28,7 +28,7 @@ _________________________________________________
 EDUCATION
 ----------
 
-**2014**:  Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University [`1`_-\ `5`_]. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo RApallo`_ , and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor).
+**2014**:  Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo RApallo`_ , and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor) [`1`_-\ `5`_].
 
 **2003**:  M.S. in Physics, National Central University [`9`_-\ `11`_]
 
