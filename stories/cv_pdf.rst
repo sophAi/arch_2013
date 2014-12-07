@@ -1,6 +1,6 @@
-.. title: Curriculum Vitae (許伯任)
+.. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141207 21:29:29
+.. date: 20141207 21:42:11
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -61,7 +61,7 @@ Complexity and veracity are two major issues in Big Data processing. To facilita
 Data Visualization
 ~~~~~~~~~~~~~~~~~~
 
-Data visualization aims to communicate information clearly, efficiently, and interactively to common users using effective visual diagrams. Currently, I'm using `Numpy`_ and `Matplotlib`_ as the tools for data representation. In the future, web-based visualization technique such as HTML5 and JavaScript (ex: `D3.js`_) will be implemented.
+Data visualization aims to communicate information clearly, efficiently, and interactively to common users using effective visual diagrams. Currently, I'm using `NumPy`_ and `Matplotlib`_ as the tools for data representation. In the future, web-based visualization technique such as HTML5 and JavaScript (ex: `D3.js`_) will be implemented.
 
 .. figure:: ../../arch_2013/files_2013/cv/D3_beta.png
    :width: 900
@@ -258,7 +258,7 @@ SPECIALTIES
 * Algorithms and programming language teaching
 
  #. C++ and C
- #. Python, `Numpy`_, and `Matplotlib`_
+ #. Python, `NumPy`_, and `Matplotlib`_
  #. Regular Expression
  #. Matlab
  #. GNU Scientific Library (`GSL`_)
@@ -434,7 +434,7 @@ ABOUT THIS DOCUMENT
 
 .. _D3.js: http://en.wikipedia.org/wiki/D3.js
 
-.. _Numpy: http://en.wikipedia.org/wiki/NumPy
+.. _NumPy: http://en.wikipedia.org/wiki/NumPy
 
 .. _Matplotlib: http://en.wikipedia.org/wiki/Matplotlib
 
