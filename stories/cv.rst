@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv
-.. date: 20141207 21:10:44
+.. date: 20141207 21:14:06
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -187,69 +187,69 @@ _________________________________________________
 SPECIALTIES
 --------------------------
 
-Applied Statistics, Machine Learning, and Mathematical Modeling
+**Applied Statistics, Machine Learning, and Mathematical Modeling**
 
- #. Time Series Analysis
- #. Genetic Algorithm
- #. Monte Carlo Method
- #. Optimization methods
+#. Time Series Analysis
+#. Genetic Algorithm
+#. Monte Carlo Method
+#. Optimization methods
 
-Theoretical and Computational Physics
+**Theoretical and Computational Physics**
 
- #. Statistical Physics
- #. Strongly-correlated Systems
- #. Long-time Dynamics
- #. Molecular Dynamics
- #. Molecular Biology
- #. Condensed Matter Physics
- #. Complex Systems
+#. Statistical Physics
+#. Strongly-correlated Systems
+#. Long-time Dynamics
+#. Molecular Dynamics
+#. Molecular Biology
+#. Condensed Matter Physics
+#. Complex Systems
 
-Reduced Statistical Methods and Diffusion Theory
+**Reduced Statistical Methods and Diffusion Theory**
 
- #. Mode-coupling Approaches for long-time behaviors
- #. Generalized Diffusion Equation (GDE)
- #. Optimized Rouse-Zimm Local Dynamics (ORZLD)
+#. Mode-coupling Approaches for long-time behaviors
+#. Generalized Diffusion Equation (GDE)
+#. Optimized Rouse-Zimm Local Dynamics (ORZLD)
 
-Parallel Computing
+**Parallel Computing Techniques**
 
- #. Open Computing Language (`OpenCL`_)
- #. PC Cluster Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
+#. Open Computing Language (`OpenCL`_)
+#. PC Cluster Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
 
-Web-based Technologies
+**Web-based Technologies**
 
- #. HTML5 and CSS
- #. Data Visualization using JavaScript (`D3.js`_)
- #. `XML`_ (`libxml2`_)
+#. HTML5 and CSS
+#. Data Visualization using JavaScript (`D3.js`_)
+#. `XML`_ (`libxml2`_)
 
-Computer Vision, Hand Gesture Control, and Image Recognition
+**Computer Vision, Hand Gesture Control, and Image Recognition**
 
- #. Open Source Computer Vision (`OpenCV`_)
- #. Linux/Android Camera and Input Subsystems
- #. `Arduino`_ and Embedded System programming
+#. Open Source Computer Vision (`OpenCV`_)
+#. Linux/Android Camera and Input Subsystems
+#. `Arduino`_ and Embedded System programming
 
-Open Source Projects for science and education
+**Open Source Projects for science and education**
 
-* Statistical Mechanics, Quantum Mechanics, Chemical Physics, and Applied Mathematics,
+**Statistical Mechanics, Quantum Mechanics, Chemical Physics, and Applied Mathematics**
 
-Software Management and Engineering
+**Software Management and Engineering**
 
- #. `Git`_
- #. `SVN`_
- #. Unified Modeling Language (`UML`_)
+#. `Git`_
+#. `SVN`_
+#. Unified Modeling Language (`UML`_)
 
-Algorithms and programming language teaching
+**Algorithms and programming language teaching**
 
- #. C++ and C
- #. Python, `Numpy`_, and `Matplotlib`_
- #. Regular Expression
- #. Matlab
- #. GNU Scientific Library (`GSL`_)
- #. Linux System Programming (IPC, thread, socket...)
- #. Linux Shell Script
- #. Fortran
- #. Latex
+#. C++ and C
+#. Python, `Numpy`_, and `Matplotlib`_
+#. Regular Expression
+#. Matlab
+#. GNU Scientific Library (`GSL`_)
+#. Linux System Programming (IPC, thread, socket...)
+#. Linux Shell Script
+#. Fortran
+#. Latex
 
-System Administrator with experience in Linux
+**System Administrator with experience in Linux**
 
 #. PC Clusters
 #. Web Servers
