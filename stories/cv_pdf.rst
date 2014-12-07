@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae (許伯任)
 .. slug: cv_pdf
-.. date: 20141207 21:01:29
+.. date: 20141207 21:05:32
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -19,6 +19,8 @@ Name: **Po-Jen Hsu / 許伯任**
 Email:   clusterga@gmail.com
 
 Tel:     +886-952-335534
+
+`(Click here to see the on-line version) <http://sophai.github.io/arch_2013/stories/cv.html>`_
 
 _________________________________________________
 
