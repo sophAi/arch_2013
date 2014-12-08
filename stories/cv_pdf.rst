@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141208 21:15:03
+.. date: 20141208 21:57:21
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -79,7 +79,7 @@ Data visualization aims to communicate information clearly, efficiently, and int
 
    **Visualization of strong (red dashed) and weak (blue dashed) correlations of the time series clustering results [1].**
 
-(`Click here to see the on-line demonstration`_)
+(`Click here to see the D3.js demonstration`_)
 
 _________________________________________________
 
@@ -112,7 +112,7 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
    **Application switcher and presentation software control.**
 
-(`Click here to view the demonstration`_)
+(`Click here to view the demonstration on YouTube`_)
 
 `CL-VAF`_
 =========
@@ -471,9 +471,9 @@ ABOUT THIS DOCUMENT
 
 .. _Hadoop: http://en.wikipedia.org/wiki/Apache_Hadoop
 
-.. _Click here to see the on-line demonstration: http://sophai.github.io/arch_2013/stories/cv.html
+.. _Click here to see the D3.js demonstration: http://sophai.github.io/arch_2013/stories/cv.html#data-visualization
 
-.. _Click here to view the demonstration: http://sophai.github.io/arch_2013/stories/cv.html
+.. _Click here to view the demonstration on YouTube: http://sophai.github.io/arch_2013/stories/cv.html#gesturecv
 
 .. _Molecular Science and Technology: http://tigp.iams.sinica.edu.tw/
 
