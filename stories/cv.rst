@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv
-.. date: 20141208 21:15:11
+.. date: 20141208 23:00:14
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -178,7 +178,7 @@ Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Mini
 
 _________________________________________________
 
-WORKING EXPERIENCE
+WORK EXPERIENCE
 --------------------
 
 **2014 - Present**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible for Image recognition algorithms, hand gesture control algorithms, HTML5 acceleration (`WebCL`_), GPGPU applications and development of Android input systems.
