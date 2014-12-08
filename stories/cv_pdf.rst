@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141208 09:00:38
+.. date: 20141208 09:51:11
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -427,7 +427,7 @@ ABOUT THIS DOCUMENT
 
 .. _EzGo: http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_linux/
 
-.. _Best Team Presentation Award: http://sophAi.github.io/arch_2013/files_2013/cv/hope_award.jpg
+.. _Best Team Presentation Award: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_award.jpg
 
 .. _鄭王曜: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=271
 
