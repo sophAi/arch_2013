@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141208 14:20:41
+.. date: 20141208 21:15:03
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -258,8 +258,8 @@ SPECIALTIES
 * Software Management and Engineering
 
  #. `Git`_
- #. `SVN`_
  #. Unified Modeling Language (`UML`_)
+ #. `CMake`_, `GNU Make`_
 
 * Algorithms and programming language teaching
 
@@ -494,3 +494,7 @@ ABOUT THIS DOCUMENT
 .. _Diffusion Equation: http://en.wikipedia.org/wiki/Diffusion_equation
 
 .. _Rouse-Zimm: http://en.wikipedia.org/wiki/Rouse_model
+
+.. _GNU Make: https://en.wikipedia.org/wiki/Make_(software)#Modern_versions
+
+.. _CMake: https://en.wikipedia.org/wiki/CMake
