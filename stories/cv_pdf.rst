@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141207 22:27:58
+.. date: 20141208 09:00:38
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -167,7 +167,7 @@ PTMD [`2`_, `4`_-\ `8`_\ ] is designed for model simulation and several statisti
 
 *A utility for Mode-coupling Diffusion Theory (C/C++)*
 
-The D-tool [`3`_] reduces tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
+The D-Tool [`3`_] reduces tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
 
 Matlab and Python codes
 ========================
@@ -303,57 +303,57 @@ PUBLICATIONS
 
 .. _1:
 
-1. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_submitted.pdf>`_, 
+1. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_01.pdf>`_, 
 **P. J. Hsu**, S. A. Cheong, and S. K. Lai, J. Chem. Phys. 140, 204905 (2014).
 
 .. _2: 
 
-2. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/JCC_accepted.pdf>`_, 
+2. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_02.pdf>`_, 
 **P. J. Hsu**, J. Comput. Chem. 35, 1082 (2014).
 
 .. _3: 
 
-3. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/JCP_accepted.pdf>`_, 
+3. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_03.pdf>`_, 
 **P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. 140, 104910 (2014).
 
 .. _4: 
 
-4. `Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_,
+4. `Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_04.pdf>`_,
 P. H. Tang, T. M. Wu, **P. J. Hsu**, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012).
 
 .. _5:
 
-5. `Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_,
+5. `Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_05.pdf>`_,
 P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and **P. J. Hsu**, J. Chem. Phys. 135, 094302 (2011).
 
 .. _6:
 
-6. `Dynamical study of metallic clusters using the statistical method of time series clustering <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf>`_,
+6. `Dynamical study of metallic clusters using the statistical method of time series clustering <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_06.pdf>`_,
 S. K. Lai, Y. T. Lin, **P. J. Hsu**, and S. A. Cheong, Compt. Phys. Commun. 182, 1013 (2011).
 
 .. _7:
 
-7. `Melting behavior of noble-metal-based bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf>`_,
+7. `Melting behavior of noble-metal-based bimetallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_07.pdf>`_,
 T. W. Yen, **P. J. Hsu**, and S. K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009).
 
 .. _8:
 
-8. `Melting scenario in metallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf>`_,
+8. `Melting scenario in metallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_08.pdf>`_,
 **P. J. Hsu**, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008).
 
 .. _9:
 
-9. `Structure of bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf>`_,
+9. `Structure of bimetallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_09.pdf>`_,
 **P. J. Hsu** and S. K. Lai, J. Chem. Phys. 124, 044711 (2006).
 
 .. _10:
 
-10. `Multi-canonical basin-hopping: a new global optimization method for complex systems <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf>`_,
+10. `Multi-canonical basin-hopping: a new global optimization method for complex systems <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_10.pdf>`_,
 L. Zhan, B. Piwowar, W. K. Liu, **P. J. Hsu**, S. K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004).
 
 .. _11:
 
-11. `Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_,
+11. `Structures of metallic clusters: mono- and polyvalent metals <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_11.pdf>`_,
 S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).
 
 _________________________________________________
@@ -362,7 +362,12 @@ OTHER INFORMATION
 -----------------
 
 * PhD certificate: `link 1`_ and `link 2`_.
+
 * PhD transcripts: `link`_. 
+
+* PhD thesis: 
+
+*Molecular dynamics simulations of a fragment of the protein transthyretin and metallic clusters diagnosed by the ultra-fast shape recognition technique, time series segmentation, time series cross correlation analysis and diffusion theory method* (`download thesis`_)
 
 _________________________________________________
 
@@ -379,7 +384,7 @@ ABOUT THIS DOCUMENT
 -------------------
 
 .. figure:: ../../arch_2013/files_2013/cv/doc_readme.png
-   :width: 1580
+   :width: 1800
    :target: ../../arch_2013/files_2013/cv/doc_readme.png
 
    **Click on the links for more information and dynamical demonstrations**
@@ -418,7 +423,7 @@ ABOUT THIS DOCUMENT
 
 .. _4th Hope Meeting: http://www.jsps.go.jp/english/e-hope/gaiyou4.html
 
-.. _download slides: http://sophAi.github.io/arch_2013/files_2013/cv/icos2009.pdf
+.. _download slides: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_icos2009.pdf
 
 .. _EzGo: http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_linux/
 
@@ -432,11 +437,11 @@ ABOUT THIS DOCUMENT
 
 .. _Open Data: http://www.opendata.tw/
 
-.. _link 1: http://sophAi.github.io/arch_2013/files_2013/cv/TIGP_certificate.jpg
+.. _link 1: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_TIGP_certificate.jpg
 
-.. _link 2: http://sophAi.github.io/arch_2013/files_2013/cv/PhD_certificate_en.jpg
+.. _link 2: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_PhD_certificate_en.jpg
 
-.. _link: http://sophAi.github.io/arch_2013/files_2013/cv/PhD_transcript.jpg
+.. _link: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_PhD_transcript.jpg
 
 .. _D3.js: http://en.wikipedia.org/wiki/D3.js
 
@@ -481,6 +486,8 @@ ABOUT THIS DOCUMENT
 .. _TIGP: http://tigp.sinica.edu.tw/
 
 .. _thesis: http://140.113.39.130/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC972402012%22.&searchmode=basic
+
+.. _download thesis: http://140.113.39.130/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC972402012%22.&searchmode=basic
 
 .. _Arduino: http://www.arduino.cc/
 
