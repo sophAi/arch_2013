@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv
-.. date: 20141208 09:51:36
+.. date: 20141208 10:33:00
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -425,7 +425,7 @@ ABOUT THIS DOCUMENT
 
 .. _link 2: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_PhD_certificate_en.jpg
 
-.. _link: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_/PhD_transcript.jpg
+.. _link: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_PhD_transcript.jpg
 
 .. _D3.js: http://en.wikipedia.org/wiki/D3.js
 
