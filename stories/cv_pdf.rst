@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141208 09:51:11
+.. date: 20141208 10:43:08
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -167,7 +167,7 @@ PTMD [`2`_, `4`_-\ `8`_\ ] is designed for model simulation and several statisti
 
 *A utility for Mode-coupling Diffusion Theory (C/C++)*
 
-The D-Tool [`3`_] reduces tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
+D-Tool [`3`_] reduces tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
 
 Matlab and Python codes
 ========================
@@ -323,7 +323,7 @@ P. H. Tang, T. M. Wu, **P. J. Hsu**, and S. K. Lai, J. Chem. Phys. 137, 244304 (
 
 .. _5:
 
-5. `Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_05.pdf>`_,
+5. `Comparative study of cluster Ag17Cu2  by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_05.pdf>`_,
 P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and **P. J. Hsu**, J. Chem. Phys. 135, 094302 (2011).
 
 .. _6:

@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv
-.. date: 20141208 10:33:00
+.. date: 20141208 10:36:54
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -150,7 +150,7 @@ PTMD [`2`_, `4`_-\ `8`_\ ] is designed for model simulation and several statisti
 
 *A utility for Mode-coupling Diffusion Theory (C/C++)*
 
-The D-Tools [`3`_] reduces tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
+D-Tool [`3`_] reduces tedious preparation for diffusion theory calculation. The research was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy. 
 
 Matlab and Python codes
 =========================
