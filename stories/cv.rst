@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv
-.. date: 20141208 10:36:54
+.. date: 20141208 14:20:24
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -231,7 +231,7 @@ SPECIALTIES
 
 #. Open Source Computer Vision (`OpenCV`_)
 #. Linux/Android Camera and Input Subsystems
-#. `Arduino`_ and Embedded System programming
+#. `Arduino`_ and Embedded System Programming
 
 **Open Source Projects for science and education**
 
@@ -370,7 +370,7 @@ ABOUT THIS DOCUMENT
    :width: 600
    :target: ../../arch_2013/files_2013/cv/doc_readme.png
 
-   **Click on the links for more information and dynamical demonstrations**
+   **Usage of this document.**
 
 
 .. 文章結尾
