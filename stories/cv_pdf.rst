@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141208 22:58:34
+.. date: 20141209 08:34:45
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -216,7 +216,7 @@ SPECIALTIES
  #. Time Series Analysis
  #. Genetic Algorithm
  #. Monte Carlo Method
- #. Optimization methods
+ #. Optimization Techniques
 
 * Theoretical and Computational Physics
 
@@ -253,7 +253,7 @@ SPECIALTIES
 
 * Open Source Projects for science and education
 
-* Statistical Mechanics, Quantum Mechanics, Chemical Physics, and Applied Mathematics,
+* Statistical Mechanics, Quantum Mechanics, Chemical Physics, and Applied Mathematics
 
 * Software Management and Engineering
 
@@ -323,7 +323,7 @@ P. H. Tang, T. M. Wu, **P. J. Hsu**, and S. K. Lai, J. Chem. Phys. 137, 244304 (
 
 .. _5:
 
-5. `Comparative study of cluster Ag17Cu2  by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_05.pdf>`_,
+5. `Comparative study of cluster  Ag17Cu2  by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_05.pdf>`_,
 P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and **P. J. Hsu**, J. Chem. Phys. 135, 094302 (2011).
 
 .. _6:

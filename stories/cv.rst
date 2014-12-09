@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv
-.. date: 20141208 23:00:14
+.. date: 20141209 08:29:54
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -198,7 +198,7 @@ SPECIALTIES
 #. Time Series Analysis
 #. Genetic Algorithm
 #. Monte Carlo Method
-#. Optimization methods
+#. Optimization Techniques
 
 **Theoretical and Computational Physics**
 
