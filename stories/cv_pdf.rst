@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20141209 08:34:45
+.. date: 20150118 13:32:20
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -379,15 +379,6 @@ RECOMMENDED BY
 * \ Dr. `Arnaldo Rapallo`_ (ISMAC, Italy. Email: rapallo@ismac.cnr.it)
 
 _________________________________________________
-
-ABOUT THIS DOCUMENT
--------------------
-
-.. figure:: ../../arch_2013/files_2013/cv/doc_readme.png
-   :width: 1800
-   :target: ../../arch_2013/files_2013/cv/doc_readme.png
-
-   **Usage of this document.**
 
 .. 文章結尾
 
