@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20150610 22:02:57
+.. date: 20150610 22:08:14
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -34,12 +34,10 @@ EDUCATION
 
 _________________________________________________
 
-RESEARCH INTERESTS
-------------------
 
 WORK EXPERIENCE
 --------------------
-**2015 - present**: Senior Data Scientist, Vpon Big Data Advertising -- Responsible for Ad traffic quality and real-time bidding engine.
+**2015 - present**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Responsible for Ad traffic quality and real-time bidding engine.
 
 **2014 - 2015**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible for hand gesture control algorithms for BananaPi and camera subsystem in Android.
 
@@ -108,7 +106,7 @@ _________________________________________________
 
 INVITED TALK
 --------------
-"Click Fraud Detection in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan (`download pycon slides`__)
+"Click Fraud Detection in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan (`download pycon slides`_)
 
 “Open Source in Physics", `International Conference on Open Source 2009`_, Taiwan (`download slides`_)
 
