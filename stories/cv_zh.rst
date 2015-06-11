@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20150611 08:54:22
+.. date: 20150611 09:01:48
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -51,7 +51,7 @@ _________________________________________________
 SPECIALTIES
 --------------------------
 
-**Applied statistics, and algorithm**
+**Applied statistics and numerical computation**
 
 #. Time Series Analysis
 #. Genetic Algorithm
