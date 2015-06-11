@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20150611 08:32:42
+.. date: 20150611 08:54:22
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -104,7 +104,7 @@ AWARD
 
 _________________________________________________
 
-INVITED TALK
+INVITED TALKS
 --------------
 "Invalid Ad Traffic Analysis in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan (`download pycon slides`_)
 
