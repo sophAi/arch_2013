@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20150610 22:13:20
+.. date: 20150611 08:32:42
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -51,35 +51,35 @@ _________________________________________________
 SPECIALTIES
 --------------------------
 
-**Applied Statistics, and Algorithm**
+**Applied statistics, and algorithm**
 
 #. Time Series Analysis
 #. Genetic Algorithm
 #. Monte Carlo Method
 #. Optimization Techniques
 
-**Theoretical and Computational Physics**
+**Theoretical and computational physics**
 
 #. Statistical Physics
 #. Polymer Dynamics
 #. Molecular Dynamics
 #. Condensed Matter Physics
 
-**Reduced Statistical Methods and Diffusion Theory**
+**Reduced statistical methods and diffusion theory**
 
 #. Mode-coupling Approaches for long-time behaviors
 
-**Parallel Computing Techniques**
+**Parallel computing techniques**
 
 #. Open Computing Language (`OpenCL`_)
 #. PC Cluster Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
 
-**Computer Vision**
+**Computer vision**
 
 #. Open Source Computer Vision (`OpenCV`_)
 #. Linux/Android Camera and Input Subsystems
 
-**Programming Skills**
+**Programming skills**
 
 #. C++ and C
 #. Python
@@ -88,7 +88,7 @@ SPECIALTIES
 #. Fortran
 #. Latex
 
-**System Administrator with experience in Linux**
+**System administrator with experience in Linux**
 
 #. PC Clusters
 #. Web Servers
@@ -106,7 +106,7 @@ _________________________________________________
 
 INVITED TALK
 --------------
-"Click Fraud Detection in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan (`download pycon slides`_)
+"Invalid Ad Traffic Analysis in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan (`download pycon slides`_)
 
 “Open Source in Physics", `International Conference on Open Source 2009`_, Taiwan (`download slides`_)
 
