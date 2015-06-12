@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_tw
-.. date: 20150611 21:31:21
+.. date: 20150612 09:26:02
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -23,6 +23,7 @@ Tel:     +886-952-335534
 
 _________________________________________________
 
+
 EDUCATION
 ----------
 
@@ -31,6 +32,66 @@ EDUCATION
 **2003**:  M.S. in Physics, National Central University [`9`_-\ `11`_]
 
 **2000**:  B.S. in Physics, National Central University
+
+_________________________________________________
+
+
+WORK EXPERIENCE
+--------------------
+**2015 - present**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Responsible for Ad traffic quality and real-time bidding engine.
+
+**2014 - 2015**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible for hand gesture control algorithms for BananaPi and camera subsystem in Android.
+
+**2005 - 2008**:  Research assistant in Physics department, National Central University.
+--Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances. [`6`_-\ `8`_]
+
+**2003 - 2005**:  Military service
+
+SPECIALTIES
+--------------------------
+
+**Applied statistics and numerical computation**
+
+#. Time Series Analysis
+#. Genetic Algorithm
+#. Monte Carlo Method
+#. Optimization Techniques
+
+**Theoretical and computational physics**
+
+#. Statistical Physics
+#. Polymer Dynamics
+#. Molecular Dynamics
+#. Condensed Matter Physics
+
+**Reduced statistical methods and diffusion theory**
+
+#. Mode-coupling Approaches for long-time behaviors
+
+**Parallel computing techniques**
+
+#. Open Computing Language (`OpenCL`_)
+#. PC Cluster Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
+
+**Computer vision**
+
+#. Open Source Computer Vision (`OpenCV`_)
+#. Linux/Android Camera and Input Subsystems
+
+**Programming skills**
+
+#. C++ and C
+#. Python
+#. Matlab
+#. Linux Shell Script
+#. Fortran
+#. Latex
+
+**System administrator with experience in Linux**
+
+#. PC Clusters
+#. Web Servers
+#. Mail Servers
 
 _________________________________________________
 
@@ -96,71 +157,11 @@ Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Mini
 * `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
 * `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
-
-WORK EXPERIENCE
---------------------
-**2015 - present**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Responsible for Ad traffic quality and real-time bidding engine.
-
-**2014 - 2015**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible for hand gesture control algorithms for BananaPi and camera subsystem in Android.
-
-**2005 - 2008**:  Research assistant in Physics department, National Central University.
---Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances. [`6`_-\ `8`_]
-
-**2003 - 2005**:  Military service
-
 _________________________________________________
 
-SPECIALTIES
---------------------------
-
-**Applied statistics and numerical computation**
-
-#. Time Series Analysis
-#. Genetic Algorithm
-#. Monte Carlo Method
-#. Optimization Techniques
-
-**Theoretical and computational physics**
-
-#. Statistical Physics
-#. Polymer Dynamics
-#. Molecular Dynamics
-#. Condensed Matter Physics
-
-**Reduced statistical methods and diffusion theory**
-
-#. Mode-coupling Approaches for long-time behaviors
-
-**Parallel computing techniques**
-
-#. Open Computing Language (`OpenCL`_)
-#. PC Cluster Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
-
-**Computer vision**
-
-#. Open Source Computer Vision (`OpenCV`_)
-#. Linux/Android Camera and Input Subsystems
-
-**Programming skills**
-
-#. C++ and C
-#. Python
-#. Matlab
-#. Linux Shell Script
-#. Fortran
-#. Latex
-
-**System administrator with experience in Linux**
-
-#. PC Clusters
-#. Web Servers
-#. Mail Servers
-
-
-_________________________________________________
 
 AWARD
---------
+-----
 
 * `Best Team Presentation Award`_, `4th Hope Meeting`_, 2012, Japan.
 
@@ -176,7 +177,7 @@ _________________________________________________
 
 
 PUBLICATIONS
-------------------
+------------
 
 (**Click on the title to download the paper**)
 
