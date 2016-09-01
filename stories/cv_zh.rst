@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20150611 09:01:48
+.. date: 20160108 13:44:50
 .. tags: cv
 .. link: 
 .. description: Created at 20130419 13:19:53
@@ -9,12 +9,12 @@
 .. 同時，別忘了加上tags喔!
 
 *********************************************
-Curriculum Vitae - Po-Jen Hsu / 許伯任
+Curriculum Vitae - Po-Jen Hsu
 *********************************************
 
 .. 文章起始CONTACT INFORMATION
 
-Name: **Po-Jen Hsu / 許伯任**
+Name: Po-Jen Hsu
 
 Email:   clusterga@gmail.com
 
@@ -37,7 +37,9 @@ _________________________________________________
 
 WORK EXPERIENCE
 --------------------
-**2015 - present**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Responsible for Ad traffic quality and real-time bidding engine.
+**2015/8 - present**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University.
+
+**2015 - 2015/7**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Responsible for Ad traffic quality and real-time bidding engine.
 
 **2014 - 2015**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. --Responsible for hand gesture control algorithms for BananaPi and camera subsystem in Android.
 
@@ -72,7 +74,7 @@ SPECIALTIES
 **Parallel computing techniques**
 
 #. Open Computing Language (`OpenCL`_)
-#. PC Cluster Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
+#. Parallel Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
 
 **Computer vision**
 
@@ -81,19 +83,18 @@ SPECIALTIES
 
 **Programming skills**
 
-#. C++ and C
-#. Python
-#. Matlab
-#. Linux Shell Script
+#. Linux Shell Script, basic regular expression usage using Sed and Awk. 
+#. Python: with experience in various modules including distutils, numpy, matplotlib, multiprocessing, and subprocess.
+#. C++
 #. Fortran
 #. Latex
+#. Matlab
 
-**System administrator with experience in Linux**
+**System administrator with experience in Linux since 1999**
 
-#. PC Clusters
-#. Web Servers
-#. Mail Servers
-
+#. PC Cluster: with experience in hardware assembly and various Linux distributions including Red Hat, Fedora, OpenSuse, Mandrake, Ubuntu, Mint, and Debian.
+#. Parallel Computing: with experience in various compilers and utilities including MPICH, PGI, Intel, NVCC, and GCC.
+#. Linux Server: with experience in NFS, NIS, SSH(FS), DHCP, SVN, Apache (`CLIQ website`_), and Sendmail (`CLIQ webmail`_) services.
 
 _________________________________________________
 
@@ -299,3 +300,6 @@ _________________________________________________
 
 .. _CMake: https://en.wikipedia.org/wiki/CMake
 
+.. _CLIQ website: http://www.phy.ncu.edu.tw/~cplx/facilities.html
+
+.. _CLIQ webmail: http://cliq.phy.ncu.edu.tw/cgi-bin/openwebmail/openwebmail.pl 
