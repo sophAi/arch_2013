@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20161031 15:17:12
+.. date: 20161031 15:30:34
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -39,7 +39,7 @@ WORK EXPERIENCE
 --------------------
 **2016/8 - present**: Postdoctoral Research Fellow, Institute of Atomic and Molecular Sciences, Academia Sinica.
 
-**2015/8 - 2016/7**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University [`0`_].
+**2015/8 - 2016/7**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University [`1`_].
 
 **2015 - 2015/7**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Improved advertisement traffic quality and built real-time bidding engine.
 
@@ -147,7 +147,7 @@ PUBLICATIONS
 (**Click on the title to download the paper**)
 
 1. Exploration of hydrogen bond networks and potential energy surfaces of methanol clusters with a two-stage clustering algorithm,
-**P.J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo. (Submitted)
+**P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo (Submitted)
 
 .. _1:
 
@@ -367,19 +367,19 @@ _________________________________________________
 
 .. _PTMBHGA: https://github.com/sophAi/ptmbhga
 
-.. _PTMD: https://github.com/sophAi/ptmd
+.. _PMD: https://github.com/sophAi/ptmd
 
 .. _D-Tool: https://github.com/sophAi/dtool
 
 .. _TCOM: https://github.com/sophAi/tcom
 
-.. _International Conference on Open Source 2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
+.. _International Conference on Open Source 2009: https://blog.lxde.org/?tag=icos2009
 
-.. _Arnaldo Rapallo: http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&L=IT
+.. _Arnaldo Rapallo: http://www.ismac.cnr.it/laboratories/modelling/?lang=en
 
 .. _Siew Ann Cheong: https://www.linkedin.com/pub/siew-ann-cheong/22/384/4b4
 
-.. _San-Kiong Lai: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=7
+.. _San-Kiong Lai: http://www.phy.ncu.edu.tw/wp/faculty/賴山強-s-k-lai
 
 .. _4th Hope Meeting: http://www.jsps.go.jp/english/e-hope/gaiyou4.html
 
