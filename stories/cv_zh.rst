@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20161031 15:10:00
+.. date: 20161031 15:15:20
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -113,13 +113,13 @@ SPECIALTIES
 #. Linux Server: with more than 10 years experience in NFS, NIS, SSH(FS), DHCP, SVN, Apache (`CLIQ website`_), and Sendmail (`CLIQ webmail`_) services.
 
 
-.. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
-   :width: 1024
-   :target: ../../arch_2013/files_2013/cv/pccluster1.JPg
+.. .. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
+..   :width: 1024
+..   :target: ../../arch_2013/files_2013/cv/pccluster1.JPg
 
-.. figure:: ../../arch_2013/files_2013/cv/pccluster2.JPG
-   :width: 1024
-   :target: ../../arch_2013/files_2013/cv/pccluster2.JPG
+.. .. figure:: ../../arch_2013/files_2013/cv/pccluster2.JPG
+..   :width: 1024
+..   :target: ../../arch_2013/files_2013/cv/pccluster2.JPG
 
 _________________________________________________
 
