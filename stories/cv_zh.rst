@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20161031 15:36:08
+.. date: 20161031 15:41:38
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -46,9 +46,9 @@ WORK EXPERIENCE
 **2014 - 2015**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. -- Built hand gesture control algorithms based on computer vision for IoT environment and supported camera subsystem in Android cell phone.
 
 **2005 - 2008**:  Research assistant in Physics department, National Central University.
---Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances. [`7`_-\ `9`_]
+--Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances [`7`_-\ `9`_].
 
-**2003 - 2005**:  Military service
+**2003 - 2005**:  Military service.
 
 _________________________________________________
 
@@ -73,11 +73,6 @@ SPECIALTIES
 
 #. Mode-coupling Approaches for long-time behaviors
 
-**Parallel computing techniques**
-
-#. Open Computing Language (`OpenCL`_)
-#. Parallel Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
-
 **Simulation software**
 
 #. Gaussian
@@ -85,33 +80,36 @@ SPECIALTIES
 #. Lammps
 #. packmol
 
-**Computer vision**
-
-#. Open Source Computer Vision (`OpenCV`_)
-#. Linux/Android Camera and Input Subsystems
-
-**Programming skills**
-
-#. Linux Shell Script: regular expression with Sed and Awk.
-#. Python: Scipy, numpy, matplotlib, XML, Pandas, sqlite3, multiprocessing, and subprocess.
-#. C++: OpenMP, rapidJSON API, SQLite API, OpenCL, and Linux programming (uinput kernel module and video4Linux API).
-#. Fortran: MPICH parallel computing programming
-#. Latex: pdflatex, lualatex, and beamer
-#. VimScript
-#. Matlab/Octave
-#. UML (Universal Modeling Language)
-
-**SQL database**
-
-#. Hive: Hadoop database for cloud computing
-#. SQLite: familiar with python, C++ API and SQL database programming [`1`_].
-
 **System administrator with experience in Linux since 1999**
 
 #. PC Cluster: with more than 7 years experience in hardware assembly and various Linux distributions including Red Hat, Fedora, OpenSuse, Mandrake, Ubuntu, Mint, and Debian.
 #. Parallel Computing: with more than 10 years experience in various compilers and utilities including MPICH, PGI, Intel, NVCC, and GCC.
 #. Linux Server: with more than 10 years experience in NFS, NIS, SSH(FS), DHCP, SVN, Apache (`CLIQ website`_), and Sendmail (`CLIQ webmail`_) services.
 
+**Programming skills**
+
+#. Linux Shell Script
+#. Python
+#. C++
+#. Fortran
+#. Latex
+#. VimScript
+#. Matlab/Octave
+
+**Parallel computing techniques**
+
+#. Open Computing Language (`OpenCL`_)
+#. Parallel Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
+
+**SQL database**
+
+#. Hive: Hadoop database for cloud computing
+#. SQLite: familiar with python, C++ API and SQL database programming [`1`_].
+
+**Computer vision**
+
+#. Open Source Computer Vision (`OpenCV`_)
+#. Linux/Android Camera and Input Subsystems
 
 .. .. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
 ..   :width: 1024
@@ -149,7 +147,7 @@ PUBLICATIONS
 .. _1:
 
 1. Exploration of hydrogen bond networks and potential energy surfaces of methanol clusters with a two-stage clustering algorithm,
-**P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo (Submitted)
+**P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo (submitted)
 
 .. _2:
 
