@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20161031 15:41:38
+.. date: 20161104 09:34:30
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -288,7 +288,7 @@ PTMBHGA [`3`_-\ `6`_, \ `10`_-\ `12`_\ ] combines several state-of-art optimizat
 
    **Framework of PTMD.**
 
-PMD [`3`_, `5`_-\ `9`_\ ] is designed for model simulation and several statistical analyses including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analyses in parallel.
+PMD [`3`_, `5`_-\ `9`_\ ] is designed for model simulation and several statistical analysis including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analysis in parallel.
 
 
 `CL-VAF`_
