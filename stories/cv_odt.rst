@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_odt
-.. date: 20161212 11:01:51
+.. date: 20161212 11:07:07
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -78,7 +78,7 @@ PUBLICATIONS
 .. _1:
 
 1. `Exploration of hydrogen bond networks and potential energy surfaces of methanol clusters with a two-stage clustering algorithm <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_12.pdf>`_,
-**P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo, Phys. Chem. Chem. Phys. (2017)
+**P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo, Phys. Chem. Chem. Phys. (2016)
 
 .. _2:
 
