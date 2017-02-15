@@ -1,270 +1,477 @@
-.. title: Curriculum Vitae (許伯任)
+.. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh_pdf
-.. date: 20140313 14:06:01
-.. tags: draft 
-.. link: 
+.. date: 20170215 14:17:31
+.. tags: cv
+.. link:
 .. description: Created at 20130419 13:19:53
 
 .. 請記得加上slug，會以slug名稱產生副檔名為.html的文章
 .. 同時，別忘了加上tags喔!
 
 *********************************************
-Curriculum Vitae - Po-Jen Hsu / 許伯任
+Curriculum Vitae - Po-Jen Hsu 許伯任
 *********************************************
 
 .. 文章起始CONTACT INFORMATION
 
-**Po-Jen Hsu / 許伯任**
+Name: Po-Jen Hsu
 
 Email:   clusterga@gmail.com
 
 Tel:     +886-952-335534
 
-(\ `本網頁pdf版本，請點選下載`_\ )
 
-.. `(English version) <http://sophai.github.io/arch_2013/stories/cv.html>`_
+_________________________________________________
 
-__________________________________________________
-
-教育與經歷
+EDUCATION
 ----------
 
-博士班, 中央研究院原子與分子科學研究所國際研究生(TIGP) (2008 - Now)
+**2014**:  Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo Rapallo`_ , and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor) [`2`_-\ `6`_].
 
-中央大學物理所專任研究助理 (2005 - 2008)
+**2003**:  M.S. in Physics, National Central University [`10`_-\ `12`_]
 
-兵役，海巡下士 (2003 - 2005) 
+**2000**:  B.S. in Physics, National Central University
 
-中央大學物理所碩士 (2000 - 2003)
-
-中央大學物理系學士 (1996 - 2000)
-
-輔仁大學物理系轉學 (1995-1996)
-
-___________________________________________________
-
-程式設計專案
-------------
-
-以下程式均為敝人所撰寫，以GNU License (GPL)發佈。(**點選每個子標題可以連結到程式的GitHub專頁**)
-
-`CL-VAF`_
-~~~~~~~~~~~
-
-*Vector Autocorrelation Function with GPGPU (OpenCL/C/C++)*
+_________________________________________________
 
 
+WORK EXPERIENCE
+--------------------
+**2016/8 - present**: Postdoctoral Research Fellow, Institute of Atomic and Molecular Sciences, Academia Sinica.
 
-CL-VAF [`1`_, `4`_, `5`_, `7`_, `8`_\ ] 是一個以C/C++/OpenCL撰寫的計算程式，透過GPGPU的平行化對隨時間變化的向量進行自相關函數(autocorrelation function)的計算(圖2)，該程式由MPICH版本的\ `TCOM`_\ 修改而來。與Nvidia的CUDA不同在於，OpenCL具有更普遍的相容性，其支援Nvidia、AMD、Intel、Apple甚至是ARM系統，此程式的效能評估是在消費等級的顯示卡上完成的，在更先進的機器上，例如Tesla應該更能發揮其平行化的優勢(圖1)。
+**2015/8 - 2016/7**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University [`1`_].
 
-`MPI-Tools`_
-~~~~~~~~~~~~~~
+**2015 - 2015/7**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Improved advertisement traffic quality and built real-time bidding engine.
 
-*MPICH Tools (Shell Script)*
+**2014 - 2015**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. -- Built hand gesture control algorithms based on computer vision for IoT environment and supported camera subsystem in Android cell phone.
 
-MPI-Tools是一個以Bash Shell Script撰寫的程式，為MPICH快速佈署的工具，可以在極短時間內完成MPICH參數檔、以及CPU分配的環境建立，由於以Shell script撰寫，幾乎可以在任何Linux/Unix平台上立即執行。
+**2005 - 2008**:  Research assistant in Physics department, National Central University.
+--Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances [`7`_-\ `9`_].
+
+**2003 - 2005**:  Military service.
+
+_________________________________________________
+
+SPECIALTIES
+--------------------------
+
+**Applied statistics and numerical computation**
+
+#. Time Series Analysis
+#. Genetic Algorithm
+#. Monte Carlo Method
+#. Optimization Techniques
+
+**Theoretical and computational physics**
+
+#. Statistical Physics
+#. Polymer Dynamics
+#. Molecular Dynamics
+#. Condensed Matter Physics
+
+**Reduced statistical methods and diffusion theory**
+
+#. Mode-coupling Approaches for long-time behaviors
+
+**Simulation software**
+
+#. Gaussian
+#. Gromacs
+#. Lammps
+#. packmol
+
+**System administrator with experience in Linux since 1999**
+
+#. PC Cluster: with more than 7 years experience in hardware assembly and various Linux distributions including Red Hat, Fedora, OpenSuse, Mandrake, Ubuntu, Mint, and Debian.
+#. Parallel Computing: with more than 10 years experience in various compilers and utilities including MPICH, PGI, Intel, NVCC, and GCC.
+#. Linux Server: with more than 10 years experience in NFS, NIS, SSH(FS), DHCP, SVN, Apache (`CLIQ website`_), and Sendmail (`CLIQ webmail`_) services.
+
+**Programming skills**
+
+#. Linux Shell Script
+#. Python
+#. C++
+#. Fortran
+#. Latex
+#. VimScript
+#. Matlab/Octave
+
+**Parallel computing techniques**
+
+#. Open Computing Language (`OpenCL`_)
+#. Parallel Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
+
+**SQL database**
+
+#. Hive: Hadoop database for cloud computing
+#. SQLite: familiar with python, C++ API and SQL database programming [`1`_].
+
+**Computer vision**
+
+#. Open Source Computer Vision (`OpenCV`_)
+#. Linux/Android Camera and Input Subsystems
+
+.. .. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
+..   :width: 1024
+..   :target: ../../arch_2013/files_2013/cv/pccluster1.JPg
+
+.. .. figure:: ../../arch_2013/files_2013/cv/pccluster2.JPG
+..   :width: 1024
+..   :target: ../../arch_2013/files_2013/cv/pccluster2.JPG
+
+_________________________________________________
+
+AWARD
+--------
+
+* `Best Team Presentation Award`_, `4th Hope Meeting`_, 2012, Japan.
+
+_________________________________________________
+
+INVITED TALKS
+--------------
+
+"Exploring the Potential Energy Surface of Methanol Clusters: An Efficient Two-stage Clustering Algorithm", `StatPhys-Taiwan-2016`_, Taiwan [`1`_]
+
+"Invalid Advertisement Traffic Analysis in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan (`download pycon slides`_)
+
+“Open Source in Physics", `International Conference on Open Source 2009`_, Taiwan (`download slides`_)
+
+_________________________________________________
+
+PUBLICATIONS
+------------------
+
+(**Click on the title to download the paper**)
+
+.. _1:
+
+1. `Exploration of hydrogen bond networks and potential energy surfaces of methanol clusters with a two-stage clustering algorithm <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_12.pdf>`_,
+**P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo, Phys. Chem. Chem. Phys. 19, 544 (2017).
+
+.. _2:
+
+2. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_11.pdf>`_,
+**P. J. Hsu**, S. A. Cheong, and S. K. Lai, J. Chem. Phys. 140, 204905 (2014).
+
+.. _3:
+
+3. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_10.pdf>`_,
+**P. J. Hsu**, J. Comput. Chem. 35, 1082 (2014).
+
+.. _4:
+
+4. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_09.pdf>`_,
+**P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. 140, 104910 (2014).
+
+.. _5:
+
+5. `Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_08.pdf>`_,
+P. H. Tang, T. M. Wu, **P. J. Hsu**, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012).
+
+.. _6:
+
+6. `Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_07.pdf>`_,
+P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and **P. J. Hsu**, J. Chem. Phys. 135, 094302 (2011).
+
+.. _7:
+
+7. `Dynamical study of metallic clusters using the statistical method of time series clustering <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_06.pdf>`_,
+S. K. Lai, Y. T. Lin, **P. J. Hsu**, and S. A. Cheong, Compt. Phys. Commun. 182, 1013 (2011).
+
+.. _8:
+
+8. `Melting behavior of noble-metal-based bimetallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_05.pdf>`_,
+T. W. Yen, **P. J. Hsu**, and S. K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009).
+
+.. _9:
+
+9. `Melting scenario in metallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_04.pdf>`_,
+**P. J. Hsu**, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008).
+
+.. _10:
+
+10. `Structure of bimetallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_03.pdf>`_,
+**P. J. Hsu** and S. K. Lai, J. Chem. Phys. 124, 044711 (2006).
+
+.. _11:
+
+11. `Multi-canonical basin-hopping: a new global optimization method for complex systems <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_02.pdf>`_,
+L. Zhan, B. Piwowar, W. K. Liu, **P. J. Hsu**, S. K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004).
+
+.. _12:
+
+12. `Structures of metallic clusters: mono- and polyvalent metals <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_01.pdf>`_,
+S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).
 
 
-`PTMD`_
-~~~~~~~~~~
+_________________________________________________
 
-*Parallel Tempering Molecular Dynamics Simulation Plus Self Analyzers (MPICH/Fortran)*
+PERSONAL OPEN SOURCE PROJECTS
+-----------------------------
 
+Click on each title to access the corresponding GitHub repository and download the source code.
 
-PTMD [`3`_-\ `5`_\ ]是一個以MPICH/Fortran撰寫的數值計算程式，屬於比較大型的軟體(超過10000行程式碼)，由敝人於博士學程內獨立完成，這個程式運用了許多軟體工程的概念(圖3)，也首度引用版本控制來進行程式的撰寫與維護。PTMD除了能夠利用平行計算進行分子動力學模擬，他還俱備了自我分析結果的能力，這是因為我將數值模擬與數值分析視為同等的程式區塊，每個區塊具有標準化的輸入，處理，以及輸出架構，區塊輸出與輸入的資料格式可以互通，為了達到這個目的，由一個Parallel Shell來進行區塊的排程與平行化，將平行化的程式碼獨立出來，除了能快速的將一般數值計算平行化，更能夠依序以模擬1，分析1，模擬2，分析2...等排程來將大量的計算與模擬工作以不間斷的方式進行，例如在我的博士論文裡，我利用這個程式在半年裡以不間斷的方式進行10個材料的分子動力學模擬，同時對模擬所得的時間序列資料(例如分子軌跡與能量變化)自動進行五種以上不同的分析(軌跡分析，自相關時間函數，比熱與統計力學參數計算)，由於Parallel Shell執行上極具彈性，只要把排程腳本編寫完就能讓PTMD一切自動化去完成。在多年的平行化程式設計所累積的經驗裡，讓我領悟到除了平行與最佳化程式碼之外，善加利用程式執行完到下一個工作開始執行之間CPU閒置的空檔也是很重要的，利用Parallel Shell縮短閒置時間能夠節省大量的人力與時間，也能夠更方便的擴充數值計算功能。
+`TSCA`_
+=======
+
+*Two-stage Clustering Algorithm (Python/SQLite)*
+
+.. figure:: ../../arch_2013/files_2013/cv/tsca.png
+   :width: 1200
+   :target: ../../arch_2013/files_2013/cv/tsca.png
+
+   **Framework of TSCA.**
+
+TSCA [`1`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the forming shape and the bonded networks of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
 
 
 `PTMBHGA`_
-~~~~~~~~~~~~
+==========
 
-*Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (MPICH/Fortran)*
+*Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)*
 
+.. figure:: ../../arch_2013/files_2013/cv/ptmbhga.png
+   :width: 1200
+   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
-PTMBHGA [`3`_-\ `5`_,\ `9`_-\ `11`_\ ] 是另外一個以MPICH/Fortran撰寫的大型最佳化軟體，是我的碩士專題，這個程式結合了基因演算法，平行溫度蒙地卡羅法(Parallel Tempering Monte Carlo)，模擬熱退火(Simulated Annealing)，Multicanonical蒙地卡邏法，還有著名的Basin Hopping法，幾乎網羅文獻中著名的最佳化演算法，其局部最佳化運算子包含Simplex, Conjugate Gradient跟LBFG-S演算法，同時具有平行計算的能力(圖4)。在進行基因演算法程式碼的撰寫過程中，我了解到可以將基因演算法的子母世代(generation)視為蒙地卡羅法的取樣步數(sampling step)，而基因運算子(Genetic Operator)可以視為與蒙地卡羅裡的Random Move同等的角色，因此我在基因演算法裡加入蒙地卡羅的機率檢測(Transition Probability)，同時子代平行化，每個子代可以獨立執行不同溫度參數的蒙地卡羅法，成功的將兩者結合，之後不斷加強程式的功能，例如機率檢測擴充成也可以進行jump walking計算(Multicanonical Monte Carlo)，還有新增更多基因運算子，溫度可以定溫也可以進行熱退火模擬，PTMBHGA後來變成實驗室裡最重要的計算程式，因為他能快速進行高精確度的最佳化計算，還可以分別運行基因演算，蒙地卡羅等演算法，只要透過適當的參數調整即可達到，應用性非常廣泛，除了分子叢集(Cluster)最佳化，近年來還應用在統計的最大熵定理計算(Maximal Entropy)，還有石墨烯(Graphene)的結構分析。透過撰寫這個程式，讓我對最佳化方法有很深入的了解。
+   **Framework of PTMBHGA.**
 
-
-`D-Tools`_
-~~~~~~~~~~~~~~
-
-*Tools for Diffusion Theory (C/C++)*
-
-
-D-Tools [`1`_\ ]  是一個以C/C++撰寫的程式，程式碼約為1000多行，是一個用來輔助Diffusion Theory理論計算的工具程式，這是我的博士論文中，與義大利ISMAC研究單位(相當於台灣的中研院) \ `Arnaldo Rapallo`_\   博士一起進行的題目，在完成PTMD後，我將程式設計的重心完全轉移至C/C++與Python，這是當時以C/C++語言完成的作品之一。
+PTMBHGA [`3`_-\ `6`_, \ `10`_-\ `12`_\ ] combines several state-of-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global strucutre in cluster system. This program has been adopted by research groups in Japan and Malaysia.
 
 
-`TCOM`_
-~~~~~~~~~
+`PMD`_
+=======
 
-*Vector Autocorrelation Function with MPICH (MPICH/Fortran)*
+*Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
 
-TCOM [`1`_, `4`_, `5`_, `7`_, `8`_\ ] 是MPICH版本的向量自相關函式計算程式，完成後不久，我以該程式為雛型改寫成GPGPU的版本 (CL-VAF)。
+.. figure:: ../../arch_2013/files_2013/cv/ptmd.png
+   :width: 1200
+   :target: ../../arch_2013/files_2013/cv/ptmd.png
 
+   **Framework of PTMD.**
 
+PMD [`3`_, `5`_-\ `9`_\ ] is designed for model simulation and several statistical analysis including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analysis in parallel.
+Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Ministry of Education)
 
-___________________________________________
-
-
-研究企劃
------------------------
-
-* **研究主題:** 通用高速平行計算程式開發
-
-* **研究主旨:** 敝人求學期間接觸許多國外的大型程式專案，深深覺得國內類似的軟體專案仍是少數，且研究結果往往侷限於實驗室，無法將成果推廣或回饋至社會大眾，以科學計算來說，除了採用國外的套裝軟體，國人自行研發的程式往往因為缺少商業價值與使用率，而無法得到永續的發展，吸取PTMD/PTMBHGA的經驗，以通用平行計算為目標進行軟體架構的建立，使其能方便利用GPU，多核心處理器，以及雲端、格點網路計算進行數值模擬與分析，將平行化的程式碼與計算主體分開，降低開發平行化程式的門檻。初期以最佳化演算法，蒙地卡羅法，基因演算法與分子動力學為基本功能，同時也適用於一般性的數值計算平行化，此軟體將以開放原始碼發佈，以期任何研究單位均能受惠。
-
-* **計劃階段:**
-
-  #. 以Python為膠水語言，作為資料轉換以及平行化(或循序)排程之用途，所轉換的資料具有統一格式，以C/C++/JAVA/Fortran..等各式語言所寫成的子程式進行讀取並執行計算以得到最佳的效能，同時提供容錯與分析大量資料的能力，程式以跨平台、標準化、與高擴充性，同時維持高效能為主要的設計方向。
-  #. 透過演講與課程教學推廣該軟體，積極尋求大專院校與跨領域研究單位的合作，並協助合作單位進行計算程式的平行化，使其能快速完成程式設計的部份，充份使用高速計算的資源，使高速計算設備從benchmark測試提升至實際用途，同時藉由這樣的合作模式加強與擴充該通用計算程式的功能。
-  #. 建立程式的專頁(SourceForge或github)，成立教學與討論資源網站，持續降低擴充程式的門檻，甚至向高中以下的學生進行推廣，以期帶動台灣科學計算的教育普及，提升國人與下一代的科學水平。
-
-___________________________________________
+* `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
+* `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
+* `Quantum Wave Interference <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_
+* `Quantum Tunneling <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_
+* `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
+* `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
+* `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
 
 
-其他資訊
------------------------
+`CL-VAF`_
+=========
 
-* 具制訂研究題目、執行研究與分析結果、撰寫並發表研究於國際期刊(Journal of Computational Chemistry; SCI; Impact Factor: 3.835)之能力與經驗[`1`_] (獨立作者)。
+*Vector Autocorrelation Function with GPGPU (C++/OpenCL)*
 
-* 在\ `中央大學複雜液體實驗室`_\ 裡，我從採購硬體與組裝配件開始，到系統的安裝與測試，幾乎是從0開始打造了實驗室的PC Cluster機房環境，同時也架設了各式伺服器，包含郵件，網頁(實驗室網頁建立)，版本控制(SVN/Git)與Hadoop伺服器。
+CL-VAF [`4`_, `5`_, `6`_, `8`_, `9`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
 
-* \ `Best Team Presentation Award`_\ , \ `4th Hope Meeting`_\ , 2012, Japan。
+.. figure:: ../../arch_2013/files_2013/cv/gpu_performance.png
+   :width: 1200
+   :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
-* 2009年\ `ICOS2009`_\ 物理類主要演講者。(\ `slides`_\ )
-
-* \ `教育部EzGo自由軟體專案`_\ PhET線上教育推廣，物理實驗軟體的中文翻譯者，翻譯作品如下:
+   **Performance of CL-VAF.**
 
 
-  #. `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
-  #. `Stern-Gerlach Experiment <http://phet.colorado.edu/zh_TW/simulation/stern-gerlach>`_
-  #. `Quantum Wave Interference <http://phet.colorado.edu/zh_TW/simulation/quantum-wave-interference>`_
-  #. `Quantum Tunneling <http://phet.colorado.edu/zh_TW/simulation/quantum-tunneling>`_
-  #. `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
-  #. `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
-  #. `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
+`GestureCV`_
+============
 
-* 應用統計(Python) [`3`_\ ]，時間序列分析(Time series analysis) [`2`_\ ]，數值模擬(Matlab/Octave)課程教學。
+*Hand gesture control based on histogram analysis (C++/OpenCL/OpenCV)*
 
-* PC Cluster/GPGPU 計算環境的建立與系統設定，Linux伺服器架設，平行計算程式(MPICH/OpenCL)課程教學。
+GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
 
-* 統計物理，量子物理，應用數學，計算機概論，數值模擬，演算法課程教學。
 
-* 自由軟體推廣，科學計算軟體專案建立，大型軟體程式設計，Latex課程教學。
+.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
+   :width: 1200
+   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
 
+   **Framework of GestureCV.**
+
+.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
+   :width: 1200
+   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
+
+   **Application switcher and presentation software control.**
+
+
+`g09tools`_
+===========
+
+*Tools for submission and recovering of Gaussian software (Shell Script)*
+
+g09tools [`1`_] will scan all the Gaussian input files in a folder and construct the qsub/bsub script for submitting to the PBS system. It will automatically recognize the status of the Gaussian job (failed or running). If failed jobs are detected, it will retrieve the last SCF snapshot and continue the SCF steps. It is written in shell script language.
+
+
+`grotools`_
+===========
+
+*Tools for Gromacs software (Shell Script)*
+
+grotools [`3`_, `4`_] helps to run Gromacs software with pdb file easier. It is written in shell script language.
+
+
+`MPI-Tool`_
+============
+
+*MPICH utility for PC cluster (Shell Script)*
+
+MPI-Tool allows users to deploy and monitor jobs created by MPICH on PC clusters. It is written in shell script language.
+
+
+`TSCA`_
+=======
+
+*Two-stage clustering algorithm for exploring potential energy surface of a molecular system (Python)*
+
+TSCA is an efficient algorithm for general purpose of molecular database and screening [`1`_]. It is written in python language. The work has been submitted to the international journel.
+
+
+`D-Tool`_
+==========
+
+*A utility for Mode-coupling Diffusion Theory (C/C++)*
+
+D-Tool [`4`_] reduces tedious preparation for mode-coupling theory calculation. The work was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy.
+
+_________________________________________________
+
+OTHER INFORMATION
+-----------------
+
+* PhD certificate: `link 1`_ and `link 2`_.
+
+* PhD transcripts: `link`_.
+
+* PhD thesis:
+
+Molecular dynamics simulations of a fragment of the protein transthyretin and metallic clusters diagnosed by the ultra-fast shape recognition technique, time series segmentation, time series cross correlation analysis and diffusion theory method (`download thesis`_)
+
+_________________________________________________
 
 .. 文章結尾
 
 .. 超連結(URL)目的區
 
-.. _本網頁pdf版本，請點選下載: http://sophAi.github.io/arch_2013/files_2013/cv/PoJenHsu_Cv.pdf
+.. _StatPhys-Taiwan-2016: http://www.phys.cts.nthu.edu.tw/actnews/content.php?Sn=295
 
-.. _CL-VAF: https://github.com/sophAi/clvaf.git
+.. _Molecular Science and Technology: http://tigp.iams.sinica.edu.tw/
 
-.. _MPI-Tools: https://github.com/sophAi/mpitool.git
+.. _TIGP: http://tigp.sinica.edu.tw/
 
-.. _PTMBHGA: https://github.com/sophAi/ptmbhga.git
+.. _National Central University: http://www.phy.ncu.edu.tw/
 
-.. _PTMD: https://github.com/sophAi/ptmd.git
+.. _TSCA: https://github.com/sophAi/TSCA
 
-.. _D-Tools: https://github.com/sophAi/dtool.git
+.. _GestureCV: http://github.com/sophAi/GestureCV
 
-.. _TCOM: https://github.com/sophAi/tcom.git
+.. _CL-VAF: https://github.com/sophAi/clvaf
 
-.. _ICOS2009: http://www.slat.org/icos2009/xoops/modules/tinyd0/index.php?id=10
+.. _grotools: https://github.com/sophAi/grotools
 
-.. _Arnaldo Rapallo: http://www.ismac.cnr.it/pagine/pagina.aspx?ID=Modelling001&L=IT
+.. _g09tools: https://github.com/sophAi/g09tools
 
-.. _中央大學複雜液體實驗室: http://www.phy.ncu.edu.tw/~cplx/index.html
+.. _TSCA: https://github.com/sophAi/TSCA
+
+.. _MPI-Tool: https://github.com/sophAi/mpitool
+
+.. _PTMBHGA: https://github.com/sophAi/ptmbhga
+
+.. _PMD: https://github.com/sophAi/ptmd
+
+.. _D-Tool: https://github.com/sophAi/dtool
+
+.. _TCOM: https://github.com/sophAi/tcom
+
+.. _International Conference on Open Source 2009: https://blog.lxde.org/?tag=icos2009
+
+.. _Arnaldo Rapallo: http://www.ismac.cnr.it/laboratories/modelling/?lang=en
+
+.. _Siew Ann Cheong: https://www.linkedin.com/pub/siew-ann-cheong/22/384/4b4
+
+.. _San-Kiong Lai: http://www.phy.ncu.edu.tw/wp/faculty/賴山強-s-k-lai
 
 .. _4th Hope Meeting: http://www.jsps.go.jp/english/e-hope/gaiyou4.html
 
-.. _slides: http://sophAi.github.io/arch_2013/files_2013/cv/icos2009.pdf
+.. _download slides: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_icos2009.pdf
 
-.. _教育部EzGo自由軟體專案: http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_linux/
+.. _download pycon slides: https://drive.google.com/file/d/0B-rXMt0bOKG8aTA3QWpOeURJTVU/edit
 
-.. _Best Team Presentation Award: http://sophAi.github.io/arch_2013/files_2013/cv/hope_award.jpg
+.. _PyCon 2015: https://tw.pycon.org/2015apac/zh/schedule/
 
-.. 註腳(Footnote)與引用(Citation)區
+.. _EzGo: http://ossacc.moe.edu.tw/uploads/datafile/ezgo7_linux/
 
-_________________________________________________
+.. _Best Team Presentation Award: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_award.jpg
 
-發表文獻
-------------------
+.. _鄭王曜: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=271
 
-(**點選題目可下載發表期刊文章**)
+.. _陳永富: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=270
 
-.. _1:
+.. _CERN Open Data: http://opendata.cern.ch/
 
-1. Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets, **P. J. Hsu**, S. K. Lai, and A. Rapallo, J. Chem. Phys. (2014) (accepted by Journal of Chemical Physics).
+.. _Open Data: http://www.opendata.tw/
 
-.. _2: 
+.. _link 1: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_TIGP_certificate.jpg
 
-2. Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms , **P. J. Hsu**, S. A. Cheong, and S. K. Lai. (2014) (submitted).
+.. _link 2: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_PhD_certificate_en.jpg
 
-.. _3: 
+.. _link: http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_PhD_transcript.jpg
 
-3. A new perspective of shape recognition to discover the phase transition of finite-size clusters, **P. J. Hsu**, J. Comput. Chem. (2014) (accepted by Journal of Computational Chemistry).
+.. _D3.js: http://en.wikipedia.org/wiki/D3.js
 
-.. _4: 
+.. _NumPy: http://en.wikipedia.org/wiki/NumPy
 
-4. `Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/84.pdf>`_,
-P. H. Tang, T. M. Wu, **P. J. Hsu**, and S. K. Lai, J. Chem. Phys. 137, 244304 (2012).
+.. _Matplotlib: http://en.wikipedia.org/wiki/Matplotlib
 
-.. _5:
+.. _OpenCL: http://en.wikipedia.org/wiki/OpenCL
 
-5. `Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/82.pdf>`_,
-P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and **P. J. Hsu**, J. Chem. Phys. 135, 094302 (2011).
+.. _WebCL: http://en.wikipedia.org/wiki/WebCL
 
-.. _6:
+.. _OpenCV: http://en.wikipedia.org/wiki/OpenCV
 
-6. `Dynamical study of metallic clusters using the statistical method of time series clustering <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/81.pdf>`_,
-S. K. Lai, Y. T. Lin, **P. J. Hsu**, and S. A. Cheong, Compt. Phys. Commun. 182, 1013 (2011).
+.. _GSL: http://en.wikipedia.org/wiki/GNU_Scientific_Library
 
-.. _7:
+.. _SVN: http://en.wikipedia.org/wiki/Apache_Subversion
 
-7. `Melting behavior of noble-metal-based bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/78.pdf>`_,
-T. W. Yen, **P. J. Hsu**, and S. K. Lai, e-J. Surf. Sci. Nanotech. 7, 149-156 (2009).
+.. _Git: http://en.wikipedia.org/wiki/Git_(software)
 
-.. _8:
+.. _XML: http://en.wikipedia.org/wiki/XML
 
-8. `Melting scenario in metallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/77.pdf>`_,
-**P. J. Hsu**, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, J. Chem. Phys. 129, 194302 (2008).
+.. _UML: http://en.wikipedia.org/wiki/Unified_Modeling_Language
 
-.. _9:
+.. _GPU: http://en.wikipedia.org/wiki/Graphics_processing_unit
 
-9. `Structure of bimetallic clusters <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/71.pdf>`_,
-**P. J. Hsu** and S. K. Lai, J. Chem. Phys. 124, 044711 (2006).
+.. _GPGPU: http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units
 
-.. _10:
+.. _Hadoop: http://en.wikipedia.org/wiki/Apache_Hadoop
 
-10. `Multi-canonical basin-hopping: a new global optimization method for complex systems <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/63.pdf>`_,
-L. Zhan, B. Piwowar, W. K. Liu, **P. J. Hsu**, S. K. Lai, and Jeff Z. Y. Chen, J. Chem. Phys. 120, 5536 (2004).
+.. _Molecular Science and Technology: http://tigp.iams.sinica.edu.tw/
 
-.. _11:
+.. _OpenMPI: https://en.wikipedia.org/wiki/Open_MPI
 
-11. `Structures of metallic clusters: mono- and polyvalent metals <http://www.phy.ncu.edu.tw/~cplx/main_paper_pdf/61.pdf>`_,
-S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 117, 10715 (2002).
+.. _MPICH: https://en.wikipedia.org/wiki/MPICH
 
+.. _libxml2: https://en.wikipedia.org/wiki/Libxml2
 
-.. image:: ../../arch_2013/files_2013/cv/gpu_performance.png
-   :width: 400
-   :target: ../../arch_2013/files_2013/cv/gpu_performance.png
+.. _TIGP: http://tigp.sinica.edu.tw/
 
-   **圖(1)** CL-VAF的效能，藍線為CPU效能。 
+.. _thesis: http://140.113.39.130/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC972402012%22.&searchmode=basic
 
-.. image:: ../../arch_2013/files_2013/cv/clvaf.png
-   :width: 400
-   :target: ../../arch_2013/files_2013/cv/clvaf.png
+.. _download thesis: http://140.113.39.130/cgi-bin/gs32/ncugsweb.cgi?o=dncucdr&s=id=%22GC972402012%22.&searchmode=basic
 
-   **圖(2)** 以GPGPU進行向量函數自相關(vector autocorrealtion)的平行化加速計算: (a) 對於一系列向量，(c) 將序列資料依序讀進odd或even buffer; (b) 將自相關函式的kernel編譯並上傳至GPU的work item，並對buffer裡的序列資料進行計算。
+.. _Arduino: http://www.arduino.cc/
 
-.. image:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 400
-   :target: ../../arch_2013/files_2013/cv/ptmd.png
+.. _Diffusion Equation: http://en.wikipedia.org/wiki/Diffusion_equation
 
-   **圖(3)** PTMD的設計架構。
+.. _Rouse-Zimm: http://en.wikipedia.org/wiki/Rouse_model
 
-.. image:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 400
-   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
+.. _GNU Make: https://en.wikipedia.org/wiki/Make_(software)#Modern_versions
 
-   **圖(4)** PTMBHGA的設計架構。
+.. _CMake: https://en.wikipedia.org/wiki/CMake
+
+.. _CLIQ website: http://www.phy.ncu.edu.tw/~cplx/facilities.html
+
+.. _CLIQ webmail: http://cliq.phy.ncu.edu.tw/cgi-bin/openwebmail/openwebmail.pl

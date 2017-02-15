@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20170215 13:39:57
+.. date: 20170215 14:15:03
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -212,6 +212,46 @@ PERSONAL OPEN SOURCE PROJECTS
 
 Click on each title to access the corresponding GitHub repository and download the source code.
 
+`TSCA`_
+=======
+
+*Two-stage Clustering Algorithm (Python/SQLite)*
+
+.. figure:: ../../arch_2013/files_2013/cv/tsca.png
+   :width: 800
+   :target: ../../arch_2013/files_2013/cv/tsca.png
+
+   **Framework of TSCA.**
+
+TSCA [`1`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the forming shape and the bonded networks of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
+
+
+`PTMBHGA`_
+==========
+
+*Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)*
+
+.. figure:: ../../arch_2013/files_2013/cv/ptmbhga.png
+   :width: 800
+   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
+
+   **Framework of PTMBHGA.**
+
+PTMBHGA [`3`_-\ `6`_, \ `10`_-\ `12`_\ ] combines several state-of-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global strucutre in cluster system. This program has been adopted by research groups in Japan and Malaysia.
+
+
+`PMD`_
+=======
+
+*Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
+
+.. figure:: ../../arch_2013/files_2013/cv/ptmd.png
+   :width: 800
+   :target: ../../arch_2013/files_2013/cv/ptmd.png
+
+   **Framework of PTMD.**
+
+PMD [`3`_, `5`_-\ `9`_\ ] is designed for model simulation and several statistical analysis including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analysis in parallel.
 Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Ministry of Education)
 
 * `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
@@ -221,6 +261,41 @@ Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Mini
 * `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
 * `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
 * `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
+
+
+`CL-VAF`_
+=========
+
+*Vector Autocorrelation Function with GPGPU (C++/OpenCL)*
+
+CL-VAF [`4`_, `5`_, `6`_, `8`_, `9`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
+
+.. figure:: ../../arch_2013/files_2013/cv/gpu_performance.png
+   :width: 800
+   :target: ../../arch_2013/files_2013/cv/gpu_performance.png
+
+   **Performance of CL-VAF.**
+
+
+`GestureCV`_
+============
+
+*Hand gesture control based on histogram analysis (C++/OpenCL/OpenCV)*
+
+GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
+
+
+.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
+   :width: 800
+   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
+
+   **Framework of GestureCV.**
+
+.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
+   :width: 800
+   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
+
+   **Application switcher and presentation software control.**
 
 
 `g09tools`_
@@ -262,69 +337,6 @@ TSCA is an efficient algorithm for general purpose of molecular database and scr
 
 D-Tool [`4`_] reduces tedious preparation for mode-coupling theory calculation. The work was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy.
 
-
-`PTMBHGA`_
-==========
-
-*Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)*
-
-.. figure:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
-
-   **Framework of PTMBHGA.**
-
-PTMBHGA [`3`_-\ `6`_, \ `10`_-\ `12`_\ ] combines several state-of-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global strucutre in cluster system. This program has been adopted by research groups in Japan and Malaysia.
-
-
-`PMD`_
-=======
-
-*Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
-
-.. figure:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/ptmd.png
-
-   **Framework of PTMD.**
-
-PMD [`3`_, `5`_-\ `9`_\ ] is designed for model simulation and several statistical analysis including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analysis in parallel.
-
-
-`CL-VAF`_
-=========
-
-*Vector Autocorrelation Function with GPGPU (C++/OpenCL)*
-
-CL-VAF [`4`_, `5`_, `6`_, `8`_, `9`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
-
-.. figure:: ../../arch_2013/files_2013/cv/gpu_performance.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/gpu_performance.png
-
-   **Performance of CL-VAF.**
-
-
-`GestureCV`_
-============
-
-*Hand gesture control based on histogram analysis (C++/OpenCL/OpenCV)*
-
-GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
-
-
-.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-
-   **Framework of GestureCV.**
-
-.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
-
-   **Application switcher and presentation software control.**
-
 _________________________________________________
 
 OTHER INFORMATION
@@ -351,6 +363,8 @@ _________________________________________________
 .. _TIGP: http://tigp.sinica.edu.tw/
 
 .. _National Central University: http://www.phy.ncu.edu.tw/
+
+.. _TSCA: https://github.com/sophAi/TSCA
 
 .. _GestureCV: http://github.com/sophAi/GestureCV
 
