@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_zh
-.. date: 20161222 13:20:24
+.. date: 20170215 13:39:57
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -146,7 +146,7 @@ PUBLICATIONS
 
 .. _1:
 
-1. `Exploration of hydrogen bond networks and potential energy surfaces of methanol clusters with a two-stage clustering algorithm <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_12.pdf`_,
+1. `Exploration of hydrogen bond networks and potential energy surfaces of methanol clusters with a two-stage clustering algorithm <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_12.pdf>`_,
 **P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo, Phys. Chem. Chem. Phys. 19, 544 (2017).
 
 .. _2:
@@ -269,7 +269,7 @@ D-Tool [`4`_] reduces tedious preparation for mode-coupling theory calculation. 
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 1024
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
    **Framework of PTMBHGA.**
@@ -283,7 +283,7 @@ PTMBHGA [`3`_-\ `6`_, \ `10`_-\ `12`_\ ] combines several state-of-art optimizat
 *Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 1024
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
    **Framework of PTMD.**
@@ -299,7 +299,7 @@ PMD [`3`_, `5`_-\ `9`_\ ] is designed for model simulation and several statistic
 CL-VAF [`4`_, `5`_, `6`_, `8`_, `9`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
 
 .. figure:: ../../arch_2013/files_2013/cv/gpu_performance.png
-   :width: 1024
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/gpu_performance.png
 
    **Performance of CL-VAF.**
@@ -314,13 +314,13 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-   :width: 1280
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
 
    **Framework of GestureCV.**
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
-   :width: 1150
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
 
    **Application switcher and presentation software control.**
