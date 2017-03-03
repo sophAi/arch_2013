@@ -1,6 +1,6 @@
-.. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
-.. slug: cv_zh
-.. date: 20170303 11:15:25
+.. title: Publications - Po-Jen Hsu / 許伯任
+.. slug: cv_ref
+.. date: 20170303 11:13:24
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -9,7 +9,7 @@
 .. 同時，別忘了加上tags喔!
 
 *********************************************
-Curriculum Vitae - Po-Jen Hsu 許伯任
+Publications - Po-Jen Hsu 許伯任
 *********************************************
 
 .. 文章起始CONTACT INFORMATION
@@ -20,35 +20,6 @@ Email:   clusterga@gmail.com
 
 Tel:     +886-952-335534
 
-
-_________________________________________________
-
-EDUCATION
-----------
-
-**2014**:  Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo Rapallo`_ , and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor) [`2`_-\ `6`_].
-
-**2003**:  M.S. in Physics, National Central University [`10`_-\ `12`_]
-
-**2000**:  B.S. in Physics, National Central University
-
-_________________________________________________
-
-
-WORK EXPERIENCE
---------------------
-**2016/8 - present**: Postdoctoral Research Fellow, Institute of Atomic and Molecular Sciences, Academia Sinica.
-
-**2015/8 - 2016/7**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University [`1`_].
-
-**2015 - 2015/7**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Improved advertisement traffic quality and built real-time bidding engine.
-
-**2014 - 2015**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. -- Built hand gesture control algorithms based on computer vision for IoT environment and supported camera subsystem in Android cell phone.
-
-**2005 - 2008**:  Research assistant in Physics department, National Central University.
---Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances [`7`_-\ `9`_].
-
-**2003 - 2005**:  Military service.
 
 _________________________________________________
 
@@ -119,94 +90,6 @@ S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, J. Chem. Phys. 
 
 _________________________________________________
 
-AWARD
---------
-
-* `Best Team Presentation Award`_, `4th Hope Meeting`_, 2012, Japan.
-
-_________________________________________________
-
-INVITED TALKS
---------------
-
-"Exploring the Potential Energy Surface of Methanol Clusters: An Efficient Two-stage Clustering Algorithm", `StatPhys-Taiwan-2016`_, Taiwan [`1`_]
-
-"Invalid Advertisement Traffic Analysis in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan (`download pycon slides`_)
-
-“Open Source in Physics", `International Conference on Open Source 2009`_, Taiwan (`download slides`_)
-
-_________________________________________________
-
-SPECIALTIES
---------------------------
-
-**Applied statistics and numerical computation**
-
-#. Time Series Analysis
-#. Genetic Algorithm
-#. Monte Carlo Method
-#. Optimization Techniques
-
-**Theoretical and computational physics**
-
-#. Statistical Physics
-#. Polymer Dynamics
-#. Molecular Dynamics
-#. Condensed Matter Physics
-
-**Reduced statistical methods and diffusion theory**
-
-#. Mode-coupling Approaches for long-time behaviors
-
-**Simulation software**
-
-#. Gaussian
-#. Gromacs
-#. Lammps
-#. packmol
-
-**System administrator with experience in Linux since 1999**
-
-#. PC Cluster: with more than 7 years experience in hardware assembly and various Linux distributions including Red Hat, Fedora, OpenSuse, Mandrake, Ubuntu, Mint, and Debian.
-#. Parallel Computing: with more than 10 years experience in various compilers and utilities including MPICH, PGI, Intel, NVCC, and GCC.
-#. Linux Server: with more than 10 years experience in NFS, NIS, SSH(FS), DHCP, SVN, Apache (`CLIQ website`_), and Sendmail (`CLIQ webmail`_) services.
-
-**Programming skills**
-
-#. Linux Shell Script
-#. Python
-#. C++
-#. Fortran
-#. Latex
-#. VimScript
-#. Matlab/Octave
-
-**Parallel computing techniques**
-
-#. Open Computing Language (`OpenCL`_)
-#. Parallel Computing using Open Message Passing Interface (`OpenMPI`_/`MPICH`_)
-
-**SQL database**
-
-#. Hive: Hadoop database for cloud computing
-#. SQLite: familiar with python, C++ API and SQL database programming [`1`_].
-
-**Computer vision**
-
-#. Open Source Computer Vision (`OpenCV`_)
-#. Linux/Android Camera and Input Subsystems
-
-.. .. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
-..   :width: 1024
-..   :target: ../../arch_2013/files_2013/cv/pccluster1.JPg
-
-.. .. figure:: ../../arch_2013/files_2013/cv/pccluster2.JPG
-..   :width: 1024
-..   :target: ../../arch_2013/files_2013/cv/pccluster2.JPG
-
-_________________________________________________
-
-
 PERSONAL OPEN SOURCE PROJECTS
 -----------------------------
 
@@ -217,12 +100,6 @@ Click on each title to access the corresponding GitHub repository and download t
 
 *Two-stage Clustering Algorithm (Python/SQLite)*
 
-.. figure:: ../../arch_2013/files_2013/cv/tsca.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/tsca.png
-
-   **Framework of TSCA.**
-
 TSCA [`1`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the forming shape and the bonded networks of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
 
 
@@ -231,12 +108,6 @@ TSCA [`1`_] archives molecular structures into SQLite databases and performs a t
 
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)*
 
-.. figure:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/ptmbhga.png
-
-   **Framework of PTMBHGA.**
-
 PTMBHGA [`3`_-\ `6`_, \ `10`_-\ `12`_\ ] combines several state-of-the-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global strucutre in cluster system. This program has been adopted by research groups in Japan and Malaysia.
 
 
@@ -244,12 +115,6 @@ PTMBHGA [`3`_-\ `6`_, \ `10`_-\ `12`_\ ] combines several state-of-the-art optim
 =======
 
 *Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
-
-.. figure:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/ptmd.png
-
-   **Framework of PTMD.**
 
 PMD [`3`_, `5`_-\ `9`_\ ] is designed for model simulation and several statistical analysis including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analysis in parallel.
 
@@ -261,33 +126,12 @@ PMD [`3`_, `5`_-\ `9`_\ ] is designed for model simulation and several statistic
 
 CL-VAF [`4`_, `5`_, `6`_, `8`_, `9`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
 
-.. figure:: ../../arch_2013/files_2013/cv/gpu_performance.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/gpu_performance.png
-
-   **Performance of CL-VAF.**
-
-
 `GestureCV`_
 ============
 
 *Hand gesture control based on histogram analysis (C++/OpenCL/OpenCV)*
 
 GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
-
-
-.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-
-   **Framework of GestureCV.**
-
-.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
-   :width: 800
-   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
-
-   **Application switcher and presentation software control.**
-
 
 `g09tools`_
 ===========
@@ -321,6 +165,9 @@ MPI-Tool allows users to deploy and monitor jobs created by MPICH on PC clusters
 D-Tool [`4`_] reduces tedious preparation for mode-coupling theory calculation. The work was published with Dr. `Arnaldo Rapallo`_ from ISMAC, Italy.
 
 
+OTHERS
+------
+
 Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Ministry of Education)
 
 * `Davission-Germer Experiment <http://phet.colorado.edu/zh_TW/simulation/davisson-germer>`_
@@ -330,20 +177,6 @@ Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Mini
 * `Quantum Bound States <http://phet.colorado.edu/zh_TW/simulation/bound-states>`_
 * `Covalent Bonds <http://phet.colorado.edu/zh_TW/simulation/covalent-bonds>`_
 * `Band Structure <http://phet.colorado.edu/zh_TW/simulation/band-structure>`_
-
-
-_________________________________________________
-
-OTHER INFORMATION
------------------
-
-* PhD certificate: `link 1`_ and `link 2`_.
-
-* PhD transcripts: `link`_.
-
-* PhD thesis:
-
-Molecular dynamics simulations of a fragment of the protein transthyretin and metallic clusters diagnosed by the ultra-fast shape recognition technique, time series segmentation, time series cross correlation analysis and diffusion theory method (`download thesis`_)
 
 _________________________________________________
 

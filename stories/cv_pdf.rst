@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_pdf
-.. date: 20170215 13:53:38
+.. date: 20170303 11:14:40
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -146,7 +146,7 @@ MPI-Tool allows users to deploy and monitor jobs created by MPICH on PC clusters
 
    **Framework of PTMBHGA.**
 
-PTMBHGA [`2`_-\ `5`_, \ `9`_-\ `11`_\ ] combines several state-of-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and the multicanonical Monte Carlo method. It is flexible and reliable for searching global optimized results. This program has been used by research groups in Japan and Malaysia.
+PTMBHGA [`2`_-\ `5`_, \ `9`_-\ `11`_\ ] combines several state-of-the-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and the multicanonical Monte Carlo method. It is flexible and reliable for searching global optimized results. This program has been used by research groups in Japan and Malaysia.
 
 
 `PTMD`_
