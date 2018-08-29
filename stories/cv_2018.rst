@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180829 12:11:44
+.. date: 20180829 13:36:56
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -65,7 +65,6 @@ TEACHING
 * Statistical Mechanics
 * Quantum Mechanics
 * Molecular Dynamics Theory
-* Molecular Spectroscopy
 * Data Science and Applications in Physics
 * Pattern Recognition and Machine Learning
 * High Performance Computing
