@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180829 13:36:56
+.. date: 20180829 15:20:49
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -197,14 +197,14 @@ SPECIALTIES
 * Optimization techniques
 * Mode-coupling approaches for long-time behaviors
 
-**Quantum Chemistry and Molecular Dynamic Packages**
+**Quantum Chemistry and Molecular Dynamics Packages**
 
-* Gaussian09/2016 (Density functional theory)
-* GAMESS (Tight-binding density functional theory)
-* CP2K (meta-GGA functional)
-* AMBER (GLYCAM empirical force field for Carbohydrate simulation)
-* Gromacs (OPLS/AA empirical force field plus molecular dynamics simulation)
-* Lammps (OPLS/AA empirical force field plus molecular dynamics simulation)
+* Gaussian09/2016
+* GAMESS
+* CP2K
+* AMBER
+* Gromacs
+* Lammps
 
 **System Administrator of Linux Server Since 1999**
 
