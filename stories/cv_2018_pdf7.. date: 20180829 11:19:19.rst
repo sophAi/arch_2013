@@ -1,6 +1,5 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
-.. slug: cv_2018
-.. date: 20180829 11:23:23
+.. slug: cv_2018_pdf7.. date: 20180829 11:19:19
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -14,7 +13,7 @@ Curriculum Vitae - Po-Jen Hsu
 
 .. 文章起始CONTACT INFORMATION
 
-Name: Po-Jen Hsu
+Name: Po-Jen Hsu / 許伯任
 
 Email:   clusterga@gmail.com
 
@@ -28,7 +27,7 @@ EDUCATION
 
 **2014**:  Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo Rapallo`_ , and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor) [`7`_-\ `13`_].
 
-**2003**:  M.S. in Physics, National Central University [`16`_-\ `17`_]
+**2003**:  M.S. in Physics, National Central University [`16`_,\ `17`_]
 
 **2000**:  B.S. in Physics, National Central University
 
@@ -56,21 +55,19 @@ _________________________________________________
 
 TEACHING
 --------
-#. General Physics
-#. Statistical Mechanics
-#. Quantum Mechanics
-#. Molecular Dynamics Theory
-#. Molecular Spectroscopy
-#. Data Science and Applications in Physics
-#. Pattern Recognition and Machine Learning
-#. High Performance Computing
+* General Physics
+* Statistical Mechanics
+* Quantum Mechanics
+* Molecular Dynamics Theory
+* Molecular Spectroscopy
+* Data Science and Applications in Physics
+* Pattern Recognition and Machine Learning
+* High Performance Computing
 
 _________________________________________________
 
 PUBLICATIONS
 ------------------
-
-(**Click on the title to download the paper**)
 
 .. _1:
 
@@ -92,7 +89,9 @@ PUBLICATIONS
 4. `Hydrogen bond network structures of protonated short-chain alcohol clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_14.pdf>`_,
    Asuka Fujii, Natsuko Sugawara, **Po-Jen Hsu**, Takuto Shimamori, Ying-Cheng Li, Toru Hamashima, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 14971 (2018).
 
-5. `Collision-induced dissociation of sodiated glucose and identification of anomeric configuration <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_15b.pdf>`_,
+.. _5:
+
+5. `Collision-induced dissociation of sodiated glucose and identification of anomeric configuration <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_14.pdf>`_,
    Jien-Lian Chen, Hock-Seng Nguan, **Po-Jen Hsu**, Shang-Ting Tsai, Chia Yen Liew, Jer-Lai Kuo, Wei-Ping Hu, and Chi-Kung Ni, Phys. Chem. Chem. Phys. 19, 15454 (2017)
 
 .. _6:
@@ -118,7 +117,7 @@ PUBLICATIONS
 .. _10:
 
 10. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_09.pdf>`_,
-    **P. J. Hsu**, S. K. Lai, and A. Rapallo, *J. Chem. Phys.* 140, 104910 (2014).
+   **P. J. Hsu**, S. K. Lai, and A. Rapallo, *J. Chem. Phys.* 140, 104910 (2014).
 
 .. _11:
 
@@ -172,11 +171,11 @@ _________________________________________________
 INVITED TALKS
 --------------
 
-"Exploring the Potential Energy Surface of Methanol Clusters: An Efficient Two-stage Clustering Algorithm", `StatPhys-Taiwan-2016`_, Taiwan [`7`_]
+* "Exploring the Potential Energy Surface of Methanol Clusters: An Efficient Two-stage Clustering Algorithm", `StatPhys-Taiwan-2016`_, Taiwan [`7`_]
 
-"Invalid Advertisement Traffic Analysis in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan (`download pycon slides`_)
+* "Invalid Advertisement Traffic Analysis in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan
 
-"Open Source in Physics", `International Conference on Open Source 2009`_, Taiwan (`download slides`_)
+* "Open Source in Physics", `International Conference on Open Source 2009`_, Taiwan
 
 _________________________________________________
 
@@ -185,49 +184,49 @@ SPECIALTIES
 
 **Applied Mathematics and Numerical Computation**
 
-#. Time series analysis
-#. Genetic algorithm
-#. Monte Carlo method
-#. Optimization techniques
-#. Mode-coupling approaches for long-time behaviors
+* Time series analysis
+* Genetic algorithm
+* Time series analysis
+* Optimization techniques
+* Mode-coupling approaches for long-time behaviors
 
 **Quantum Chemistry and Molecular Dynamic Packages**
 
-#. Gaussian09/2016 (Density functional theory)
-#. GAMESS (Tight-binding density functional theory)
-#. CP2K (meta-GGA functional)
-#. AMBER (GLYCAM empirical force field for Carbohydrate simulation)
-#. Gromacs (OPLS/AA empirical force field plus molecular dynamics simulation)
-#. Lammps (OPLS/AA empirical force field plus molecular dynamics simulation)
+* Gaussian09/2016
+* GAMESS
+* CP2K
+* AMBER
+* Gromacs
+* Lammps
 
 **System Administrator of Linux Server Since 1999**
 
-#. High Performance Computing Cluster: with more than 9 years experience in hardware and software management.
-#. GitLab Server: Built a `GitLab`_ server for the research group (`Our GitLab Webpage`_)
-#. Other Linux Servers: with more than 12 years experience in various Linux services.
+* High Performance Computing Cluster: with more than 9 years experience in hardware and software management.
+* GitLab Server: Built a `GitLab`_ server for the research group.
+* Other Linux Servers: with more than 12 years experience in various Linux services.
 
 **Programming Skills**
 
-#. Python
-#. C++
-#. Fortran
-#. Matlab/Octave
-#. Linux shell script
+* Python
+* C++
+* Fortran
+* Matlab/Octave
+* Linux shell script
 
 **Parallel Computing Techniques**
 
-#. GPGPU parallel computing (`OpenCL`_/`CUDA`_)
-#. Open message passing interface (`OpenMPI`_/`MPICH`_)
+* GPGPU parallel computing (`OpenCL`_/`CUDA`_)
+* Open message passing interface (`OpenMPI`_/`MPICH`_)
 
 **SQL Database**
 
-#. Hive: Hadoop database for cloud computing
-#. SQLite: familiar with python, C++ API and SQL database programming [`7`_].
+* Hive: Hadoop database for cloud computing
+* SQLite: familiar with python, C++ API and SQL database programming [`7`_].
 
 **Computer Vision**
 
-#. Open source computer vision (`OpenCV`_)
-#. Linux/Android camera and input subsystems
+* Open source computer vision (`OpenCV`_)
+* Linux/Android camera and input subsystems
 
 .. .. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
 ..   :width: 1024
@@ -243,20 +242,18 @@ _________________________________________________
 OPEN SOURCE PROJECTS
 -----------------------------
 
-Click on each title to access the corresponding GitHub repository and download the source code.
-
 `TSCA`_
 =======
 
 *Two-stage Clustering Algorithm (Python/SQLite)*
 
 .. figure:: ../../arch_2013/files_2013/cv/tsca.png
-   :width: 1500
+   :width: 1300
    :target: ../../arch_2013/files_2013/cv/tsca.png
 
    **Framework of TSCA.**
 
-TSCA [`1`_-\ `7`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the forming shape and the bonded networks of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
+TSCA [`1`_\- `7`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the forming shape and the bonded networks of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
 
 
 `PTMBHGA`_
@@ -270,7 +267,7 @@ TSCA [`1`_-\ `7`_] archives molecular structures into SQLite databases and perfo
 
    **Framework of PTMBHGA.**
 
-PTMBHGA [`16`_-\ `18`_] combines several state-of-the-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global strucutre in cluster system. This program has been adopted by research groups in Japan and Malaysia.
+PTMBHGA [`16`_-\ `18`_] combines several state-of-the-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global structure in cluster system. This program has been adopted by research groups in Japan and Malaysia.
 
 
 `PMD`_
@@ -295,7 +292,7 @@ PMD [`9`_, `11`_-\ `15`_] is designed for model simulation and several statistic
 CL-VAF [`10`_-\ `13`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
 
 .. figure:: ../../arch_2013/files_2013/cv/clvaf.png
-   :width: 1200
+   :width: 1100
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
    **Performance of CL-VAF.**
@@ -310,16 +307,16 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-   :width: 1200
+   :width: 1400
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
 
    **Framework of GestureCV.**
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
-   :width: 1100
+   :width: 1200
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
 
-   **Demonstration of hand gesture control.**
+   **Demonstration of hand gesture control**
 
 
 `g09tools`_
@@ -350,13 +347,9 @@ _________________________________________________
 OTHER INFORMATION
 -----------------
 
-* PhD certificate: `link 1`_ and `link 2`_.
-
-* Transcripts: `link`_.
-
 * PhD thesis:
 
-Molecular dynamics simulations of a fragment of the protein transthyretin and metallic clusters diagnosed by the ultra-fast shape recognition technique, time series segmentation, time series cross correlation analysis and diffusion theory method (`download thesis`_)
+Molecular dynamics simulations of a fragment of the protein transthyretin and metallic clusters diagnosed by the ultra-fast shape recognition technique, time series segmentation, time series cross correlation analysis and diffusion theory method
 
 _________________________________________________
 
