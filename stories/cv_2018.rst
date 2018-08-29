@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180829 11:54:15
+.. date: 20180829 11:55:28
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -15,7 +15,7 @@ Curriculum Vitae - Po-Jen Hsu
 .. 文章起始CONTACT INFORMATION
 
 .. figure:: ../../arch_2013/files_2013/cv/PJ_Hsu2.JPG
-   :width: 400
+   :width: 200
    :target: ../../arch_2013/files_2013/cv/PJ_Hsu2.JPG
 
 Name: Po-Jen Hsu
