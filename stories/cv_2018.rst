@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180829 12:07:47
+.. date: 20180829 12:08:28
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -328,7 +328,7 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
 .. youtube:: s4KVkK_wsbQ
 
-   **Demonstration of hand gesture control.**
+   **Demonstration of the hand gesture control.**
 
 
 `g09tools`_
