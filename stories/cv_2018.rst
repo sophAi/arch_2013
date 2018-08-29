@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180829 12:02:27
+.. date: 20180829 12:07:47
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -315,6 +315,9 @@ CL-VAF [`10`_-\ `13`_] utilizes the power of GPU (Graphical Processing Unit) to 
 
 GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
 
+.. .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
+..   :width: 1100
+..   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
    :width: 1200
@@ -322,13 +325,11 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
    **Framework of GestureCV.**
 
+
 .. youtube:: s4KVkK_wsbQ
 
    **Demonstration of hand gesture control.**
 
-.. .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
-..   :width: 1100
-..   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
 
 `g09tools`_
 ===========
