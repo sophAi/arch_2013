@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018_pdf7
-.. date: 20180829 13:36:40
+.. date: 20180830 11:43:30
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -33,9 +33,9 @@ EDUCATION
 
 **2014**:  Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo Rapallo`_ , and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor) [`7`_-\ `13`_].
 
-**2003**:  M.S. in Physics, National Central University [`16`_,\ `17`_]
+**2003**:  M.Sc. in Physics, National Central University [`16`_,\ `17`_]
 
-**2000**:  B.S. in Physics, National Central University
+**2000**:  B.Sc. in Physics, National Central University
 
 _________________________________________________
 
