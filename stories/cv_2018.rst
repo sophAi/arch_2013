@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180830 11:43:17
+.. date: 20180830 11:50:24
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -103,7 +103,7 @@ PUBLICATIONS
 
 .. _6:
 
-6. `Temperature and Size Dependence of Characteristic Hydrogen-Bonded Network Structures with Ion Core Switching in Protonated (Methanol)6-10-(Water)1 Mixed Clusters: A Revisit <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_13.pdf>`_,
+6. `Temperature and size dependence of characteristic hydrogen-bonded network structures with ion core switching in protonated (Methanol)6-10-(Water)1 mixed clusters: A revisit <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_13.pdf>`_,
    Marusu Katada, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *J. Phys. Chem. A* 121, 5399 (2017).
 
 .. _7:
@@ -113,7 +113,7 @@ PUBLICATIONS
 
 .. _8:
 
-8. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_11.pdf>`_,
+8. `Precursory signatures of protein folding/unfolding: from time series correlation analysis to atomistic mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_11.pdf>`_,
    **P. J. Hsu**, S. A. Cheong, and S. K. Lai, *J. Chem. Phys.* 140, 204905 (2014).
 
 .. _9:
