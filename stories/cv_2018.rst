@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180830 11:50:24
+.. date: 20180830 12:15:08
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -81,17 +81,17 @@ PUBLICATIONS
 .. _1:
 
 1. Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters,
-   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* (submitted)
+   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* (submitted).
 
 .. _2:
 
 2. Fermi resonance in neutral dimethylamine clusters probed by infrared-vacuum ultraviolet spectroscopy and ab initio anharmonic algorithms,
-   Bingbing Zhang, Qian-Rui Huang, Shukang Jiang, Li-Wei Chen, **Po-Jen Hsu**, Chong Wang, Ce Hao, Xiangtao Kong, Dongxu Dai, Xueming Yang, Jer-Lai Kuo, and Ling Jiang, *Phys. Chem. Chem. Phys.* (submitted)
+   Bingbing Zhang, Qian-Rui Huang, Shukang Jiang, Li-Wei Chen, **Po-Jen Hsu**, Chong Wang, Ce Hao, Xiangtao Kong, Dongxu Dai, Xueming Yang, Jer-Lai Kuo, and Ling Jiang, *Phys. Chem. Chem. Phys.* (submitted).
 
 .. _3:
 
 3. `Collision-induced dissociation of sodiated glucose, galactose, and mannose, and the identification of anomeric configurations <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_15.pdf>`_,
-   Hai Thi Huynh, Huu Trong Phan, **Po-Jen Hsu**, Jien-Lian Chen, Hock Seng Nguan, Shang-Ting Tsai, Thantip Roongcharoen, Chia Yen Liew, Chi-Kung Ni, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 19614 (2018)
+   Hai Thi Huynh, Huu Trong Phan, **Po-Jen Hsu**, Jien-Lian Chen, Hock Seng Nguan, Shang-Ting Tsai, Thantip Roongcharoen, Chia Yen Liew, Chi-Kung Ni, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 19614 (2018).
 
 .. _4:
 
@@ -99,7 +99,7 @@ PUBLICATIONS
    Asuka Fujii, Natsuko Sugawara, **Po-Jen Hsu**, Takuto Shimamori, Ying-Cheng Li, Toru Hamashima, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 14971 (2018).
 
 5. `Collision-induced dissociation of sodiated glucose and identification of anomeric configuration <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_15b.pdf>`_,
-   Jien-Lian Chen, Hock-Seng Nguan, **Po-Jen Hsu**, Shang-Ting Tsai, Chia Yen Liew, Jer-Lai Kuo, Wei-Ping Hu, and Chi-Kung Ni, Phys. Chem. Chem. Phys. 19, 15454 (2017)
+   Jien-Lian Chen, Hock-Seng Nguan, **Po-Jen Hsu**, Shang-Ting Tsai, Chia Yen Liew, Jer-Lai Kuo, Wei-Ping Hu, and Chi-Kung Ni, Phys. Chem. Chem. Phys. 19, 15454 (2017).
 
 .. _6:
 
@@ -208,21 +208,21 @@ SPECIALTIES
 
 **System Administrator of Linux Server Since 1999**
 
-* High Performance Computing Cluster: with more than 9 years experience in hardware and software management.
+* High Performance Computing Cluster: with more than 9 years experience in hardware and software.
 * GitLab Server: Built a `GitLab`_ server for the research group (`Our GitLab Webpage`_)
 * Other Linux Servers: with more than 12 years experience in various Linux services.
 
 **Programming Skills**
 
 * Python
-* C++
+* C/C++
 * Fortran
 * Matlab/Octave
 * Linux shell script
 
 **Parallel Computing Techniques**
 
-* GPGPU parallel computing (`OpenCL`_/`CUDA`_)
+* GPGPU parallel computing (`OpenCL`_)
 * Open message passing interface (`OpenMPI`_/`MPICH`_)
 
 **SQL Database**
@@ -262,7 +262,7 @@ Click on each title to access the corresponding GitHub repository and download t
 
    **Framework of TSCA.**
 
-TSCA [`1`_-\ `7`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the forming shape and the bonded networks of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
+TSCA [`1`_-\ `7`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the cluster shape and the bonded networks of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
 
 
 `PTMBHGA`_
@@ -276,7 +276,7 @@ TSCA [`1`_-\ `7`_] archives molecular structures into SQLite databases and perfo
 
    **Framework of PTMBHGA.**
 
-PTMBHGA [`16`_-\ `18`_] combines several state-of-the-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global strucutre in cluster system. This program has been adopted by research groups in Japan and Malaysia.
+PTMBHGA [`16`_-\ `18`_] combines several state-of-the-art optimization techniques such as genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global strucutre in cluster system. This program has been adopted by research groups in Japan and Malaysia.
 
 
 `PMD`_
@@ -298,13 +298,14 @@ PMD [`9`_, `11`_-\ `15`_] is designed for model simulation and several statistic
 
 *Vector Autocorrelation Function with GPGPU (C++/OpenCL)*
 
-CL-VAF [`10`_-\ `13`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
-
 .. figure:: ../../arch_2013/files_2013/cv/clvaf.png
    :width: 1200
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
    **Performance of CL-VAF.**
+
+CL-VAF [`10`_-\ `13`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
+
 
 
 `GestureCV`_
@@ -312,7 +313,7 @@ CL-VAF [`10`_-\ `13`_] utilizes the power of GPU (Graphical Processing Unit) to 
 
 *Hand gesture control based on histogram analysis (C++/OpenCL/OpenCV)*
 
-GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
+GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems.
 
 .. .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
 ..   :width: 1100
@@ -335,7 +336,7 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
 *Tools for submission and recovering of Gaussian software (Shell Script)*
 
-g09tools [`1`_-\ `7`_] will scan all the Gaussian input files in a folder and construct the qsub/bsub script for submitting to the PBS system. It will automatically recognize the status of the Gaussian job (failed or running). If failed jobs are detected, it will retrieve the last SCF snapshot and continue the SCF steps. It is written in shell script language.
+g09tools [`1`_-\ `7`_] will scan all the Gaussian input files in a folder and submit the Gaussian jobs to the high-performance computing cluster. It will automatically detect the status of the Gaussian job (failed or running). If failed jobs are detected, it will retrieve the last SCF state and continue the SCF steps. It was written in shell script language.
 
 _________________________________________________
 
