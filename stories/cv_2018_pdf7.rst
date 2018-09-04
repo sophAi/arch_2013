@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018_pdf7
-.. date: 20180830 12:13:08
+.. date: 20180904 10:32:37
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -281,7 +281,7 @@ PTMBHGA [`16`_-\ `18`_] combines several state-of-the-art optimization technique
 *Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 1100
+   :width: 1200
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
    **Framework of PTMD.**
@@ -298,7 +298,7 @@ PMD [`9`_, `11`_-\ `15`_] is designed for model simulation and several statistic
    :width: 1100
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
-   **Performance of CL-VAF.**
+   **GPU-accelerated autocorrelation function.**
 
 CL-VAF [`10`_-\ `13`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
 
