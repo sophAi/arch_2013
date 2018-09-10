@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018_pdf7
-.. date: 20180910 10:47:30
+.. date: 20180910 11:00:48
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -73,8 +73,8 @@ TEACHING
 
 _________________________________________________
 
-PUBLICATIONS
-------------------
+PUBLICATION LIST
+----------------
 
 .. _1:
 
