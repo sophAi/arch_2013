@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180904 10:32:57
+.. date: 20180910 10:47:15
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -80,13 +80,13 @@ PUBLICATIONS
 
 .. _1:
 
-1. Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters,
-   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* (submitted).
+1. Fermi resonance in neutral dimethylamine clusters probed by infrared-vacuum ultraviolet spectroscopy and ab initio anharmonic algorithms,
+   Bingbing Zhang, Qian-Rui Huang, Shukang Jiang, Li-Wei Chen, **Po-Jen Hsu**, Chong Wang, Ce Hao, Xiangtao Kong, Dongxu Dai, Xueming Yang, Jer-Lai Kuo, and Ling Jiang, *Phys. Chem. Chem. Phys.* (submitted).
 
 .. _2:
 
-2. Fermi resonance in neutral dimethylamine clusters probed by infrared-vacuum ultraviolet spectroscopy and ab initio anharmonic algorithms,
-   Bingbing Zhang, Qian-Rui Huang, Shukang Jiang, Li-Wei Chen, **Po-Jen Hsu**, Chong Wang, Ce Hao, Xiangtao Kong, Dongxu Dai, Xueming Yang, Jer-Lai Kuo, and Ling Jiang, *Phys. Chem. Chem. Phys.* (submitted).
+2. Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters,
+   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* (accepted).
 
 .. _3:
 
@@ -197,7 +197,7 @@ SPECIALTIES
 * Optimization techniques
 * Mode-coupling approaches for long-time behaviors
 
-**Quantum Chemistry and Molecular Dynamics Packages**
+**First Principle Calculation and Molecular Dynamics Theory**
 
 * Gaussian09/2016
 * GAMESS
@@ -209,7 +209,7 @@ SPECIALTIES
 **System Administrator of Linux Server Since 1999**
 
 * High Performance Computing Cluster: with more than 9 years experience in hardware and software.
-* GitLab Server: Built a `GitLab`_ server for the research group (`Our GitLab Webpage`_)
+* GitLab Server: Built a `GitLab`_ server for laboratory (`Our GitLab Webpage`_).
 * Other Linux Servers: with more than 12 years experience in various Linux services.
 
 **Programming Skills**
