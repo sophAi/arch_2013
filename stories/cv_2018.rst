@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180911 14:31:02
+.. date: 20180911 14:31:46
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -236,7 +236,7 @@ SPECIALTIES
 * Other Linux Servers: with more than 12 years experience in various Linux services.
 
 .. figure:: ../../arch_2013/files_2013/cv/IAMS_HPC.JPG
-   :width: 1000
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/IAMS_HPC.JPG
 
    **High performance computing clusters at Institute of Atomic and Molecular Sciences, Academia Sinica.**
