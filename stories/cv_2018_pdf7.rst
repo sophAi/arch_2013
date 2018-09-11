@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018_pdf7
-.. date: 20180910 11:00:48
+.. date: 20180911 14:27:15
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -11,7 +11,7 @@
 *********************************************
 Curriculum Vitae - Po-Jen Hsu
 *********************************************
-
+.. footer::  ###Page###
 .. 文章起始CONTACT INFORMATION
 
 .. figure:: ../../arch_2013/files_2013/cv/PJ_Hsu2.JPG
@@ -206,12 +206,6 @@ SPECIALTIES
 * Gromacs
 * Lammps
 
-**System Administrator of Linux Server Since 1999**
-
-* High Performance Computing Cluster: with more than 9 years experience in hardware and software.
-* GitLab Server: Built a `GitLab`_ server for laboratory.
-* Other Linux Servers: with more than 12 years experience in various Linux services.
-
 **Programming Skills**
 
 * Python
@@ -235,9 +229,17 @@ SPECIALTIES
 * Open source computer vision (`OpenCV`_)
 * Linux/Android camera and input subsystems
 
-.. .. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
-..   :width: 1024
-..   :target: ../../arch_2013/files_2013/cv/pccluster1.JPg
+**System Administrator of Linux Server Since 1999**
+
+* High Performance Computing Cluster: with more than 9 years experience in hardware and software.
+* GitLab Server: Built a `GitLab`_ server for laboratory.
+* Other Linux Servers: with more than 12 years experience in various Linux services.
+
+.. figure:: ../../arch_2013/files_2013/cv/IAMS_HPC.JPG
+   :width: 1000
+   :target: ../../arch_2013/files_2013/cv/IAMS_HPC.JPG
+
+   **High performance computing clusters at Institute of Atomic and Molecular Sciences, Academia Sinica.**
 
 .. .. figure:: ../../arch_2013/files_2013/cv/pccluster2.JPG
 ..   :width: 1024
@@ -255,7 +257,7 @@ OPEN SOURCE PROJECTS
 *Two-stage Clustering Algorithm (Python/SQLite)*
 
 .. figure:: ../../arch_2013/files_2013/cv/tsca.png
-   :width: 1100
+   :width: 1300
    :target: ../../arch_2013/files_2013/cv/tsca.png
 
    **Framework of TSCA.**
@@ -269,7 +271,7 @@ TSCA [`1`_\- `7`_] archives molecular structures into SQLite databases and perfo
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 1100
+   :width: 1200
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
    **Framework of PTMBHGA.**
@@ -283,7 +285,7 @@ PTMBHGA [`16`_-\ `18`_] combines several state-of-the-art optimization technique
 *Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 1200
+   :width: 1100
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
    **Framework of PTMD.**
@@ -297,7 +299,7 @@ PMD [`9`_, `11`_-\ `15`_] is designed for model simulation and several statistic
 *Vector Autocorrelation Function with GPGPU (C++/OpenCL)*
 
 .. figure:: ../../arch_2013/files_2013/cv/clvaf.png
-   :width: 1100
+   :width: 1300
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
    **GPU-accelerated autocorrelation function.**
@@ -315,7 +317,7 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-   :width: 1400
+   :width: 1300
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
 
    **Framework of GestureCV.**
@@ -358,8 +360,6 @@ OTHER INFORMATION
 * PhD thesis:
 
 Molecular dynamics simulations of a fragment of the protein transthyretin and metallic clusters diagnosed by the ultra-fast shape recognition technique, time series segmentation, time series cross correlation analysis and diffusion theory method
-
-_________________________________________________
 
 .. 文章結尾
 

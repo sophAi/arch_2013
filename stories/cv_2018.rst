@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180910 11:00:32
+.. date: 20180911 14:28:39
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -206,12 +206,6 @@ SPECIALTIES
 * Gromacs
 * Lammps
 
-**System Administrator of Linux Server Since 1999**
-
-* High Performance Computing Cluster: with more than 9 years experience in hardware and software.
-* GitLab Server: Built a `GitLab`_ server for laboratory (`Our GitLab Webpage`_).
-* Other Linux Servers: with more than 12 years experience in various Linux services.
-
 **Programming Skills**
 
 * Python
@@ -234,6 +228,18 @@ SPECIALTIES
 
 * Open source computer vision (`OpenCV`_)
 * Linux/Android camera and input subsystems
+
+**System Administrator of Linux Server Since 1999**
+
+* High Performance Computing Cluster: with more than 9 years experience in hardware and software.
+* GitLab Server: Built a `GitLab`_ server for laboratory (`Our GitLab Webpage`_).
+* Other Linux Servers: with more than 12 years experience in various Linux services.
+
+.. figure:: ../../arch_2013/files_2013/cv/IAMS_HPC.JPG
+   :width: 1200
+   :target: ../../arch_2013/files_2013/cv/IAMS_HPC.JPG
+
+   **High performance computing clusters at Institute of Atomic and Molecular Sciences, Academia Sinica.**
 
 .. .. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
 ..   :width: 1024
