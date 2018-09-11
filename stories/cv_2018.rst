@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180911 14:37:16
+.. date: 20180911 14:54:17
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -263,7 +263,7 @@ Click on each title to access the corresponding GitHub repository and download t
 *Two-stage Clustering Algorithm (Python/SQLite)*
 
 .. figure:: ../../arch_2013/files_2013/cv/tsca.png
-   :width: 1500
+   :width: 1300
    :target: ../../arch_2013/files_2013/cv/tsca.png
 
    **Framework of TSCA.**
