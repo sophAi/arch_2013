@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180911 14:31:46
+.. date: 20180911 14:34:25
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -277,7 +277,7 @@ TSCA [`1`_-\ `7`_] archives molecular structures into SQLite databases and perfo
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 1000
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
    **Framework of PTMBHGA.**
@@ -291,7 +291,7 @@ PTMBHGA [`16`_-\ `18`_] combines several state-of-the-art optimization technique
 *Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 1000
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
    **Framework of PTMD.**
@@ -305,7 +305,7 @@ PMD [`9`_, `11`_-\ `15`_] is designed for model simulation and several statistic
 *Vector Autocorrelation Function with GPGPU (C++/OpenCL)*
 
 .. figure:: ../../arch_2013/files_2013/cv/clvaf.png
-   :width: 1000
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
    **GPU-accelerated autocorrelation function.**
@@ -326,7 +326,7 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 ..   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-   :width: 1000
+   :width: 800
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
 
    **Framework of GestureCV.**
