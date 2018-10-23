@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20180911 14:54:17
+.. date: 20181023 15:41:20
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -85,8 +85,8 @@ PUBLICATION LIST
 
 .. _2:
 
-2. Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters,
-   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* (accepted).
+2. `Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_16.pdf>`_,
+   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 25482 (2018).
 
 .. _3:
 
@@ -97,6 +97,8 @@ PUBLICATION LIST
 
 4. `Hydrogen bond network structures of protonated short-chain alcohol clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_14.pdf>`_,
    Asuka Fujii, Natsuko Sugawara, **Po-Jen Hsu**, Takuto Shimamori, Ying-Cheng Li, Toru Hamashima, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 14971 (2018).
+
+.. _5:
 
 5. `Collision-induced dissociation of sodiated glucose and identification of anomeric configuration <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_15b.pdf>`_,
    Jien-Lian Chen, Hock-Seng Nguan, **Po-Jen Hsu**, Shang-Ting Tsai, Chia Yen Liew, Jer-Lai Kuo, Wei-Ping Hu, and Chi-Kung Ni, Phys. Chem. Chem. Phys. 19, 15454 (2017).

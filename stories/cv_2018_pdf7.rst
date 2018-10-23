@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018_pdf7
-.. date: 20180911 14:27:15
+.. date: 20181023 15:41:37
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -83,8 +83,8 @@ PUBLICATION LIST
 
 .. _2:
 
-2. Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters,
-   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* (accepted).
+2. `Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_16.pdf>`_,
+   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 25482 (2018).
 
 .. _3:
 
