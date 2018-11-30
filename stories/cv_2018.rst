@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018
-.. date: 20181023 15:41:20
+.. date: 20181130 11:34:49
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -24,7 +24,7 @@ Email:   clusterga@gmail.com
 
 Tel:     +886-952-335534
 
-Homepage:  https://goo.gl/U6hWDn (Google Scholar) and https://goo.gl/jz7sU2
+Google Scholar: https://goo.gl/U6hWDn and this page: https://goo.gl/jz7sU2
 
 _________________________________________________
 
@@ -44,9 +44,9 @@ WORK EXPERIENCE
 --------------------
 **2017/2 - present**: System Administrator of High Performance Computing Clusters, Institute of Atomic and Molecular Sciences, Academia Sinica.
 
-**2016/8 - present**: Postdoctoral Research Fellow, Institute of Atomic and Molecular Sciences, Academia Sinica [`1`_-\ `6`_].
+**2016/8 - present**: Postdoctoral Research Fellow, Institute of Atomic and Molecular Sciences, Academia Sinica (supervised by Dr. `Jer-Lai Kuo`_) [`1`_-\ `6`_].
 
-**2015/8 - 2016/7**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University [`7`_].
+**2015/8 - 2016/7**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University (supervised by Professor `Sheng-Hsien Lin`_) [`7`_].
 
 **2015 - 2015/7**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Improved advertisement traffic quality and built real-time bidding engine.
 
@@ -438,6 +438,10 @@ _________________________________________________
 .. _鄭王曜: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=271
 
 .. _陳永富: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=270
+
+.. _Sheng-Hsien Lin: http://www.ac.nctu.edu.tw/zh_tw/member/Sheng-Hsien-Lin-98436574
+
+.. _Jer-Lai Kuo: https://sites.google.com/site/jlkiams/Members/principle-investigator
 
 .. _CERN Open Data: http://opendata.cern.ch/
 
