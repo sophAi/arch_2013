@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae - Po-Jen Hsu / 許伯任
 .. slug: cv_2018_pdf
-.. date: 20180829 10:57:37
+.. date: 20190219 10:41:32
 .. tags: cv
 .. link:
 .. description: Created at 20130419 13:19:53
@@ -11,8 +11,12 @@
 *********************************************
 Curriculum Vitae - Po-Jen Hsu
 *********************************************
-
+.. footer::  ###Page###
 .. 文章起始CONTACT INFORMATION
+
+.. figure:: ../../arch_2013/files_2013/cv/PJ_Hsu2.JPG
+   :width: 400
+   :target: ../../arch_2013/files_2013/cv/PJ_Hsu2.JPG
 
 Name: Po-Jen Hsu / 許伯任
 
@@ -20,17 +24,22 @@ Email:   clusterga@gmail.com
 
 Tel:     +886-952-335534
 
+Address: 23942 新北市鶯歌區尖山路156巷75號2樓
+
+Google Scholar: https://goo.gl/U6hWDn
+
+Website: https://goo.gl/jz7sU2
 
 _________________________________________________
 
 EDUCATION
 ----------
 
-**2014**:  Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo Rapallo`_ , and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor) [`7`_-\ `13`_].
+**2014**:  Ph.D., `Molecular Science and Technology`_, `TIGP`_, Academia Sinica/Physics, National Central University. Supervised by Dr. `Siew Ann Cheong`_, Dr. `Arnaldo Rapallo`_ , and Dr. `San-Kiong Lai`_ (primary `thesis`_ supervisor) [`10`_-\ `16`_].
 
-**2003**:  M.S. in Physics, National Central University [`16`_,\ `17`_]
+**2003**:  M.Sc. in Physics, National Central University [`19`_,\ `20`_]
 
-**2000**:  B.S. in Physics, National Central University
+**2000**:  B.Sc. in Physics, National Central University
 
 _________________________________________________
 
@@ -39,16 +48,16 @@ WORK EXPERIENCE
 --------------------
 **2017/2 - present**: System Administrator of High Performance Computing Clusters, Institute of Atomic and Molecular Sciences, Academia Sinica.
 
-**2016/8 - present**: Postdoctoral Research Fellow, Institute of Atomic and Molecular Sciences, Academia Sinica [`1`_-\ `5`_].
+**2016/8 - present**: Postdoctoral Research Fellow, Institute of Atomic and Molecular Sciences, Academia Sinica (supervised by Dr. `Jer-Lai Kuo`_) [`1`_-\ `8`_].
 
-**2015/8 - 2016/7**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University [`6`_].
+**2015/8 - 2016/7**: Postdoctoral Research Fellow, Department of Applied Chemistry, National Chiao Tung University (supervised by Professor `Sheng-Hsien Lin`_) [`9`_].
 
 **2015 - 2015/7**: Senior Data Scientist, Vpon Big Data Mobile Advertising -- Improved advertisement traffic quality and built real-time bidding engine.
 
 **2014 - 2015**:  Senior Engineer, Innovation Digital System, System Software Development Division, Hon Hai Precision IND. CO., LTD. -- Built hand gesture control algorithms based on computer vision for IoT environment and supported camera subsystem in Android cell phone.
 
 **2005 - 2008**:  Research assistant in Physics department, National Central University.
---Built and maintained PC clusters and Linux web/mail servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances [`14`_,\ `15`_].
+--Built and maintained PC clusters and Unix/Linux servers. Built algorithms and models from scratch to simulate chemical and biological materials under statistical mechanics circumstances [`17`_,\ `18`_].
 
 **2003 - 2005**:  Military service.
 
@@ -58,106 +67,117 @@ TEACHING
 --------
 * General Physics
 * Statistical Mechanics
-* Quantum Mechanics
 * Molecular Dynamics Theory
-* Molecular Spectroscopy
 * Data Science and Applications in Physics
 * Pattern Recognition and Machine Learning
 * High Performance Computing
 
 _________________________________________________
 
-PUBLICATIONS
-------------------
+PUBLICATION LIST
+----------------
+
+(Each title links to the paper)
 
 .. _1:
 
-1. Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters,
-   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* (submitted)
+1. Liquid Crucible Model for Aggregation of Phenylacetylene in the Gas Phase,
+   Saurabh Mishra, Dipak Kumar Sahoo, **Po-Jen Hsu**, Yoshiyuki Matsuda, Jer-Lai Kuo, Himansu S. Biswal, and and G. Naresh Patwari, *Phys. Chem. Chem. Phys.* (submitted).
 
 .. _2:
 
-2. Fermi resonance in neutral dimethylamine clusters probed by infrared-vacuum ultraviolet spectroscopy and ab initio anharmonic algorithms,
-   Bingbing Zhang, Qian-Rui Huang, Shukang Jiang, Li-Wei Chen, **Po-Jen Hsu**, Chong Wang, Ce Hao, Xiangtao Kong, Dongxu Dai, Xueming Yang, Jer-Lai Kuo, and Ling Jiang, *Phys. Chem. Chem. Phys.* (submitted)
+
+2. Dissociation mechanism of sodiated N-acetylglucosamine and N-acetylgalactosamine,
+   Cheng-chau Chiu, Shang-Ting Tsai, **Po-Jen Hsu**, Hai Thi Huynh, Jien-Lian Chen, HuuTrong Phan, Shih-Pei Huang, Hou-Yu Lin, Jer-Lai Kuo and Chi-Kung Ni, *Phys. Chem. Chem. Phys.* (submitted).
 
 .. _3:
 
-3. `Collision-induced dissociation of sodiated glucose, galactose, and mannose, and the identification of anomeric configurations <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_15.pdf>`_,
-   Hai Thi Huynh, Huu Trong Phan, **Po-Jen Hsu**, Jien-Lian Chen, Hock Seng Nguan, Shang-Ting Tsai, Thantip Roongcharoen, Chia Yen Liew, Chi-Kung Ni, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 19614 (2018)
+3. `Infrared spectra of neutral dimethylamine clusters: An infrared-vacuum ultraviolet spectroscopic and anharmonic vibrational calculation study <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_17.pdf>`_,
+   Bingbing Zhang, Qian-Rui Huang, Shukang Jiang, Li-Wei Chen, **Po-Jen Hsu**, Chong Wang, Ce Hao, Xiangtao Kong, Dongxu Dai, Xueming Yang, Jer-Lai Kuo, and Ling Jiang, *J. Chem. Phys.* 150, 064317 (2019).
 
 .. _4:
 
-4. `Hydrogen bond network structures of protonated short-chain alcohol clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_14.pdf>`_,
-   Asuka Fujii, Natsuko Sugawara, **Po-Jen Hsu**, Takuto Shimamori, Ying-Cheng Li, Toru Hamashima, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 14971 (2018).
+4. `Competition between hydrogen bonds and van der Waals force in intermolecular structure formation of protonated branched-chain alcohol clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_16.pdf>`_,
+   Natsuko Sugawara, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 25482 (2018).
 
 .. _5:
 
-5. `Collision-induced dissociation of sodiated glucose and identification of anomeric configuration <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_14.pdf>`_,
-   Jien-Lian Chen, Hock-Seng Nguan, **Po-Jen Hsu**, Shang-Ting Tsai, Chia Yen Liew, Jer-Lai Kuo, Wei-Ping Hu, and Chi-Kung Ni, Phys. Chem. Chem. Phys. 19, 15454 (2017)
+5. `Collision-induced dissociation of sodiated glucose, galactose, and mannose, and the identification of anomeric configurations <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_15.pdf>`_,
+   Hai Thi Huynh, Huu Trong Phan, **Po-Jen Hsu**, Jien-Lian Chen, Hock Seng Nguan, Shang-Ting Tsai, Thantip Roongcharoen, Chia Yen Liew, Chi-Kung Ni, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 19614 (2018).
 
 .. _6:
 
-6. `Temperature and Size Dependence of Characteristic Hydrogen-Bonded Network Structures with Ion Core Switching in Protonated (Methanol)6-10-(Water)1 Mixed Clusters: A Revisit <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_13.pdf>`_,
-   Marusu Katada, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *J. Phys. Chem. A* 121, 5399 (2017).
+6. `Hydrogen bond network structures of protonated short-chain alcohol clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_14.pdf>`_,
+   Asuka Fujii, Natsuko Sugawara, **Po-Jen Hsu**, Takuto Shimamori, Ying-Cheng Li, Toru Hamashima, and Jer-Lai Kuo, *Phys. Chem. Chem. Phys.* 20, 14971 (2018).
 
 .. _7:
 
-7. `Exploration of hydrogen bond networks and potential energy surfaces of methanol clusters with a two-stage clustering algorithm <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_12.pdf>`_,
-   **P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo, *Phys. Chem. Chem. Phys.* 19, 544 (2017).
+7. `Collision-induced dissociation of sodiated glucose and identification of anomeric configuration <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_14.pdf>`_,
+   Jien-Lian Chen, Hock-Seng Nguan, **Po-Jen Hsu**, Shang-Ting Tsai, Chia Yen Liew, Jer-Lai Kuo, Wei-Ping Hu, and Chi-Kung Ni, Phys. Chem. Chem. Phys. 19, 15454 (2017).
 
 .. _8:
 
-8. `Precursory Signatures of Protein Folding/Unfolding: From Time Series Correlation Analysis to Atomistic Mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_11.pdf>`_,
-   **P. J. Hsu**, S. A. Cheong, and S. K. Lai, *J. Chem. Phys.* 140, 204905 (2014).
+8. `Temperature and size dependence of characteristic hydrogen-bonded network structures with ion core switching in protonated (Methanol)6-10-(Water)1 mixed clusters: A revisit <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_13.pdf>`_,
+   Marusu Katada, **Po-Jen Hsu**, Asuka Fujii, and Jer-Lai Kuo, *J. Phys. Chem. A* 121, 5399 (2017).
 
 .. _9:
 
-9. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_10.pdf>`_,
-   **P. J. Hsu**, *J. Comput. Chem.* 35, 1082 (2014).
+9. `Exploration of hydrogen bond networks and potential energy surfaces of methanol clusters with a two-stage clustering algorithm <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_12.pdf>`_,
+   **P. J. Hsu**, K. L. Ho, S. H. Lin, and J. L. Kuo, *Phys. Chem. Chem. Phys.* 19, 544 (2017).
 
 .. _10:
 
-10. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_09.pdf>`_,
-   **P. J. Hsu**, S. K. Lai, and A. Rapallo, *J. Chem. Phys.* 140, 104910 (2014).
+10. `Precursory signatures of protein folding/unfolding: from time series correlation analysis to atomistic mechanisms <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_11.pdf>`_,
+    **P. J. Hsu**, S. A. Cheong, and S. K. Lai, *J. Chem. Phys.* 140, 204905 (2014).
 
 .. _11:
 
-11. `Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_08.pdf>`_,
-    P. H. Tang, T. M. Wu, **P. J. Hsu**, and S. K. Lai, *J. Chem. Phys.* 137, 244304 (2012).
+11. `A new perspective of shape recognition to discover the phase transition of finite-size clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_10.pdf>`_,
+    **P. J. Hsu**, *J. Comput. Chem.* 35, 1082 (2014).
 
 .. _12:
 
-12. `Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_07.pdf>`_,
-    P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and **P. J. Hsu**, *J. Chem. Phys.* 135, 094302 (2011).
+12. `Peptide dynamics by molecular dynamics and diffusion theory methods with improved basis sets <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_09.pdf>`_,
+    **P. J. Hsu**, S. K. Lai, and A. Rapallo, *J. Chem. Phys.* 140, 104910 (2014).
 
 .. _13:
 
-13. `Dynamical study of metallic clusters using the statistical method of time series clustering <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_06.pdf>`_,
-    S. K. Lai, Y. T. Lin, **P. J. Hsu**, and S. A. Cheong, *Compt. Phys. Commun.* 182, 1013 (2011).
+13. `Melting behavior of Ag14 cluster: An order parameter by instantaneous normal modes <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_08.pdf>`_,
+    P. H. Tang, T. M. Wu, **P. J. Hsu**, and S. K. Lai, *J. Chem. Phys.* 137, 244304 (2012).
 
 .. _14:
 
-14. `Melting behavior of noble-metal-based bimetallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_05.pdf>`_,
-    T. W. Yen, **P. J. Hsu**, and S. K. Lai, *e-J. Surf. Sci. Nanotech.* 7, 149-156 (2009).
+14. `Comparative study of cluster Ag17Cu2 by instantaneous normal mode analysis and by isothermal Brownian-type molecular dynamics simulation <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_07.pdf>`_,
+    P. H. Tang, T. M. Wu, T. W. Yen, S. K. Lai, and **P. J. Hsu**, *J. Chem. Phys.* 135, 094302 (2011).
 
 .. _15:
 
-15. `Melting scenario in metallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_04.pdf>`_,
-    **P. J. Hsu**, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, *J. Chem. Phys.* 129, 194302 (2008).
+15. `Dynamical study of metallic clusters using the statistical method of time series clustering <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_06.pdf>`_,
+    S. K. Lai, Y. T. Lin, **P. J. Hsu**, and S. A. Cheong, *Compt. Phys. Commun.* 182, 1013 (2011).
 
 .. _16:
 
-16. `Structure of bimetallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_03.pdf>`_,
-    **P. J. Hsu** and S. K. Lai, *J. Chem. Phys.* 124, 044711 (2006).
+16. `Melting behavior of noble-metal-based bimetallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_05.pdf>`_,
+    T. W. Yen, **P. J. Hsu**, and S. K. Lai, *e-J. Surf. Sci. Nanotech.* 7, 149-156 (2009).
 
 .. _17:
 
-17. `Multi-canonical basin-hopping: a new global optimization method for complex systems <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_02.pdf>`_,
-    L. Zhan, B. Piwowar, W. K. Liu, **P. J. Hsu**, S. K. Lai, and Jeff Z. Y. Chen, *J. Chem. Phys.* 120, 5536 (2004).
+17. `Melting scenario in metallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_04.pdf>`_,
+    **P. J. Hsu**, J. S. Luo, S. K. Lai, J. F. Wax, and J-L Bretonnet, *J. Chem. Phys.* 129, 194302 (2008).
 
 .. _18:
 
-18. `Structures of metallic clusters: mono- and polyvalent metals <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_01.pdf>`_,
+18. `Structure of bimetallic clusters <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_03.pdf>`_,
+    **P. J. Hsu** and S. K. Lai, *J. Chem. Phys.* 124, 044711 (2006).
+
+.. _19:
+
+19. `Multi-canonical basin-hopping: a new global optimization method for complex systems <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_02.pdf>`_,
+    L. Zhan, B. Piwowar, W. K. Liu, **P. J. Hsu**, S. K. Lai, and Jeff Z. Y. Chen, *J. Chem. Phys.* 120, 5536 (2004).
+
+.. _20:
+
+20. `Structures of metallic clusters: mono- and polyvalent metals <http://sophAi.github.io/arch_2013/files_2013/cv/PJ_Hsu_ref_01.pdf>`_,
     S. K. Lai, **P. J. Hsu**, K. L. Wu, W. K. Liu, and M. Iwamatsu, *J. Chem. Phys.* 117, 10715 (2002).
 
 _________________________________________________
@@ -172,7 +192,7 @@ _________________________________________________
 INVITED TALKS
 --------------
 
-* "Exploring the Potential Energy Surface of Methanol Clusters: An Efficient Two-stage Clustering Algorithm", `StatPhys-Taiwan-2016`_, Taiwan [`6`_]
+* "Exploring the Potential Energy Surface of Methanol Clusters: An Efficient Two-stage Clustering Algorithm", `StatPhys-Taiwan-2016`_, Taiwan [`9`_]
 
 * "Invalid Advertisement Traffic Analysis in the Mobile Advertising Using Python", `PyCon 2015`_, Taiwan
 
@@ -191,7 +211,7 @@ SPECIALTIES
 * Optimization techniques
 * Mode-coupling approaches for long-time behaviors
 
-**Quantum Chemistry and Molecular Dynamic Packages**
+**First Principle Calculation and Molecular Dynamics Theory**
 
 * Gaussian09/2016
 * GAMESS
@@ -200,41 +220,43 @@ SPECIALTIES
 * Gromacs
 * Lammps
 
-**System Administrator of Linux Server Since 1999**
-
-* High Performance Computing Cluster: with more than 9 years experience in hardware and software management.
-* GitLab Server: Built a `GitLab`_ server for the research group.
-* Other Linux Servers: with more than 12 years experience in various Linux services.
-
 **Programming Skills**
 
 * Python
-* C++
+* C/C++
 * Fortran
 * Matlab/Octave
-* Linux shell script
+* Unix/Linux shell script
 
 **Parallel Computing Techniques**
 
-* GPGPU parallel computing (`OpenCL`_/`CUDA`_)
+* GPGPU parallel computing (`OpenCL`_)
 * Open message passing interface (`OpenMPI`_/`MPICH`_)
 
 **SQL Database**
 
 * Hive: Hadoop database for cloud computing
-* SQLite: familiar with python, C++ API and SQL database programming [`6`_].
+* SQLite: familiar with python, C++ API and SQL database programming [`9`_].
 
 **Computer Vision**
 
 * Open source computer vision (`OpenCV`_)
 * Linux/Android camera and input subsystems
 
-.. .. figure:: ../../arch_2013/files_2013/cv/pccluster1.JPG
-..   :width: 1024
-..   :target: ../../arch_2013/files_2013/cv/pccluster1.JPg
+**System Administrator of Servers Since 1999**
+
+* High Performance Computing Cluster: with more than 9 years experience in hardware and software.
+* GitLab Server: Built a `GitLab`_ server for laboratory.
+* Unix/Linux Servers: with more than 12 years experienc.
+
+.. figure:: ../../arch_2013/files_2013/cv/IAMS_HPC.JPG
+   :width: 800
+   :target: ../../arch_2013/files_2013/cv/IAMS_HPC.JPG
+
+   **High performance computing clusters at Institute of Atomic and Molecular Sciences, Academia Sinica.**
 
 .. .. figure:: ../../arch_2013/files_2013/cv/pccluster2.JPG
-..   :width: 1024
+..   :width: 1000
 ..   :target: ../../arch_2013/files_2013/cv/pccluster2.JPG
 
 _________________________________________________
@@ -243,18 +265,20 @@ _________________________________________________
 OPEN SOURCE PROJECTS
 -----------------------------
 
+(Each title links to the GitHub source code)
+
 `TSCA`_
 =======
 
 *Two-stage Clustering Algorithm (Python/SQLite)*
 
 .. figure:: ../../arch_2013/files_2013/cv/tsca.png
-   :width: 1300
+   :width: 1200
    :target: ../../arch_2013/files_2013/cv/tsca.png
 
    **Framework of TSCA.**
 
-TSCA [`6`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the forming shape and the bonded networks of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
+TSCA [`1`_\- `9`_] archives molecular structures into SQLite databases and performs a two-stage clustering method based on the cluster shape and the bonded topology of the molecules to trim down the number of isomers. This algorithm has been proven efficient in various hydrogen bonded systems such as methanol, alcohol, and ammonia clusters.
 
 
 `PTMBHGA`_
@@ -263,12 +287,12 @@ TSCA [`6`_] archives molecular structures into SQLite databases and performs a t
 *Parallel Tempering Multicanonical Basin-hopping Plus Genetic Algorithm (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmbhga.png
-   :width: 1300
+   :width: 1200
    :target: ../../arch_2013/files_2013/cv/ptmbhga.png
 
    **Framework of PTMBHGA.**
 
-PTMBHGA [`15`_-\ `17`_] combines several state-of-the-art optimization techniques such as the genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global structure in cluster system. This program has been adopted by research groups in Japan and Malaysia.
+PTMBHGA [`18`_-\ `20`_] combines several state-of-the-art optimization techniques such as genetic algorithm, parallel tempering Monte Carlo method, simulated annealing, basing-hopping method, and multicanonical Monte Carlo method. It is flexible and reliable for searching global structure in cluster system. This program has been adopted by research groups in Japan and Malaysia.
 
 
 `PMD`_
@@ -277,12 +301,12 @@ PTMBHGA [`15`_-\ `17`_] combines several state-of-the-art optimization technique
 *Parallel Molecular Dynamics Simulation (Fortran/MPICH)*
 
 .. figure:: ../../arch_2013/files_2013/cv/ptmd.png
-   :width: 1300
+   :width: 1100
    :target: ../../arch_2013/files_2013/cv/ptmd.png
 
    **Framework of PTMD.**
 
-PMD [`8`_, `10`_-\ `14`_\ ] is designed for model simulation and several statistical analysis including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analysis in parallel.
+PMD [`11`_, `13`_-\ `17`_] is designed for model simulation and several statistical analysis including moments, Fourier transformation, and nearest neighbor analysis. It integrates a task schedule system so that users can perform multiple simulations and analysis in parallel.
 
 
 `CL-VAF`_
@@ -290,13 +314,14 @@ PMD [`8`_, `10`_-\ `14`_\ ] is designed for model simulation and several statist
 
 *Vector Autocorrelation Function with GPGPU (C++/OpenCL)*
 
-CL-VAF [`9`_-\ `12`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
-
 .. figure:: ../../arch_2013/files_2013/cv/clvaf.png
-   :width: 1100
+   :width: 1300
    :target: ../../arch_2013/files_2013/cv/clvaf.png
 
-   **Performance of CL-VAF.**
+   **GPU-accelerated autocorrelation function.**
+
+CL-VAF [`12`_-\ `15`_] utilizes the power of GPU (Graphical Processing Unit) to accelerate the autocorrelation calculation of multi-dimensional vectors.
+
 
 
 `GestureCV`_
@@ -304,20 +329,21 @@ CL-VAF [`9`_-\ `12`_] utilizes the power of GPU (Graphical Processing Unit) to a
 
 *Hand gesture control based on histogram analysis (C++/OpenCL/OpenCV)*
 
-GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems. It is a machine learning prototype for computer vision.
-
-
-.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-   :width: 1400
-   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
-
-   **Framework of GestureCV.**
+GestureCV combines image filtering and histogram analysis to accomplish precise real-time hand gesture control on laptops or embedded systems.
 
 .. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
    :width: 1200
    :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Demo.png
 
-   **Demonstration of hand gesture control**
+   **Demonstration of hand gesture control. See video in https://goo.gl/jz7sU2**
+
+
+.. figure:: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
+   :width: 1200
+   :target: ../../arch_2013/files_2013/cv/Hand_Gesture_Program.png
+
+   **Framework of GestureCV.**
+
 
 
 `g09tools`_
@@ -325,7 +351,7 @@ GestureCV combines image filtering and histogram analysis to accomplish precise 
 
 *Tools for submission and recovering of Gaussian software (Shell Script)*
 
-g09tools [`1`_-\ `6`_] will scan all the Gaussian input files in a folder and construct the qsub/bsub script for submitting to the PBS system. It will automatically recognize the status of the Gaussian job (failed or running). If failed jobs are detected, it will retrieve the last SCF snapshot and continue the SCF steps. It is written in shell script language.
+g09tools [`1`_-\ `9`_] will scan all the Gaussian input files in a folder and submit the Gaussian jobs to the high-performance computing cluster. It will automatically detect the status of the Gaussian job (failed or running). If the failed jobs are detected, it will retrieve the last SCF state and continue the SCF steps. It was written in shell script language.
 
 _________________________________________________
 
@@ -345,14 +371,10 @@ Chinese translations of PhET education project in Physics (`EzGo`_, OSSACC, Mini
 
 _________________________________________________
 
-OTHER INFORMATION
------------------
-
-* PhD thesis:
+Ph.D. Thesis
+------------
 
 Molecular dynamics simulations of a fragment of the protein transthyretin and metallic clusters diagnosed by the ultra-fast shape recognition technique, time series segmentation, time series cross correlation analysis and diffusion theory method
-
-_________________________________________________
 
 .. 文章結尾
 
@@ -415,6 +437,10 @@ _________________________________________________
 .. _鄭王曜: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=271
 
 .. _陳永富: http://www.phy.ncu.edu.tw/english.php?folder=faculty&page=detail.php&pk=270
+
+.. _Sheng-Hsien Lin: http://www.ac.nctu.edu.tw/zh_tw/member/Sheng-Hsien-Lin-98436574
+
+.. _Jer-Lai Kuo: https://sites.google.com/site/jlkiams/Members/principle-investigator
 
 .. _CERN Open Data: http://opendata.cern.ch/
 
